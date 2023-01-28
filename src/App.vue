@@ -147,10 +147,10 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerTitle": "WORK DOJOS",
+        "headerSubtitle": "TABLETOP TEAMS",
+        "subheaderTitle": "BRIEFING",
+        "subheaderSubtitle": "PROJECT-MAKE-MONEY",
       },
       "options":{
         "eventsMarkdownPerMission": true
