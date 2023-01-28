@@ -1,9 +1,6 @@
 <template>
   <Header :header="this.header" />
   <div class="content-container">
-    
-      </div>
-    </section>
     <section class="section-container" id="events" style="width:435px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/events-icon.svg" />
