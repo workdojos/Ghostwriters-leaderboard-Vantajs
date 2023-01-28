@@ -19,6 +19,8 @@
             @click="selectMission(item)"
           />
         </div>
+      </div>
+    </section>
   </div>
   <svg
     style="visibility: hidden; position: absolute;"
