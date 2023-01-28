@@ -4,7 +4,7 @@
     <section class="section-container" id="missions" style="width:435px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/mission-icon.svg" />
-        <h1>Overview</h1>
+        <h1>Account & Finance Team</h1>
       </div>
       <div class="section-content-container">
         <h3>Current Assignment</h3>
