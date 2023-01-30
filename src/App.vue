@@ -86,7 +86,7 @@ export default {
       "missions": [
         {
           "slug": "003",
-          "name": "Bug-Hunt",
+          "name": "4x4 Industry Solutions",
           "status": "start"
         },
       ],
