@@ -26,11 +26,11 @@ Maria struggles with time management and often finds herself overwhelmed with th
 
 Maria is trained in advanced cardiac life support, basic life support, and trauma nursing. She is also skilled in administering IV medications and performing wound care.
 
-Goals:
+# Goals:
 
 Maria's goal is to become a nurse practitioner and to continue to grow and develop as a nurse. She also hopes to one day return to Madrid and open her own clinic.
 
-# # Hobbies:
+# Hobbies:
 
 In her free time, Maria enjoys traveling and exploring new places. She also loves to cook and try new recipes, and is an avid reader of historical fiction.
 
