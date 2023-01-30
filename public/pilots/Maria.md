@@ -37,6 +37,3 @@ In her free time, Maria enjoys traveling and exploring new places. She also love
 To claim this character and gain access to all respective missions, please click the red diamond and await further instructions:  
 
 [:diamonds:](https://blog.workmates.live/maria)
-
-
-[:diamonds:](https://blog.workmates.live/maria){:target="_blank"}
