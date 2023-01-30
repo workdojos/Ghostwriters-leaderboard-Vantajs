@@ -34,6 +34,8 @@ Maria's goal is to become a nurse practitioner and to continue to grow and devel
 
 In her free time, Maria enjoys traveling and exploring new places. She also loves to cook and try new recipes, and is an avid reader of historical fiction.
 
-To claim this character and gain access to all respective missions, please click the red diamond and await further instructions:  
+---
+
+To claim this character and gain access to all respective missions, please click the red diamond, sign up, and await further instructions:  
 
 [:diamonds:](https://blog.workmates.live/maria)
