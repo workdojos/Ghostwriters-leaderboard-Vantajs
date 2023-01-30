@@ -80,12 +80,12 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "003",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "001",
+          "slug": "003",
           "name": "Bug-Hunt",
           "status": "start"
         },
@@ -122,14 +122,6 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Science"
-        },
-        {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Sales"
         },
       ],
       "header": {
