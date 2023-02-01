@@ -89,6 +89,16 @@ export default {
           "name": "4x4 Industry Solutions",
           "status": "start"
         },
+        {
+          "slug": "001",
+          "name": "Bug-Hunt",
+          "status": "start"
+        },
+        {
+          "slug": "002",
+          "name": "Vigilant Gaze",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
