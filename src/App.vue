@@ -166,7 +166,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Public Relations ",
-          "mech": "Pr Representative"
+          "mech": "PR Rep"
         },
 
 
@@ -375,7 +375,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Self-Governance ",
-          "mech": "Committee"
+          "mech": "Committee Chair"
         },
 
 
@@ -746,7 +746,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Satellite",
-          "mech": "Business Owner"
+          "mech": "Satellite Business Owner"
         },
 
 
@@ -1037,7 +1037,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Real-Estate ",
-          "mech": "Landowner And Speculator"
+          "mech": "Landowner"
         },
 
 
@@ -1307,7 +1307,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Chatbot",
-          "mech": "Chatbot"
+          "mech": "Chatbot Developer"
         },
 
 
