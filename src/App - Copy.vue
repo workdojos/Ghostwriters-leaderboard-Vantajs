@@ -1521,7 +1521,7 @@ export default {
         },
         {
           "callsign": "Marika",
-          "alias": "Marika Meier",
+          "alias": "",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Data Science ",
@@ -1611,7 +1611,7 @@ export default {
 <style lang="scss">
 #app {
   width: 1902px;
-  height: 1902px;
+  height: 910px;
   overflow: hidden;
 }
 </style>
