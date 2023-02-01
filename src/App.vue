@@ -225,7 +225,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Healthcare ",
-          "mech": "Practitioner "
+          "mech": "Practitioner"
         },
 
 
@@ -977,7 +977,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Labor Relations ",
-          "mech": "Union Organizer "
+          "mech": "Union Organizer"
         },
 
 
@@ -1357,7 +1357,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Finance ",
-          "mech": "Cfo"
+          "mech": "CFO"
         },
 
 
@@ -1407,7 +1407,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Protective Services ",
-          "mech": "Police Officer "
+          "mech": "Police Officer"
         },
 
 
@@ -1519,48 +1519,6 @@ export default {
           "frame": "Space ",
           "mech": "Cosmonaut"
         },
-
-
-        {
-          "callsign": "",
-          "alias": "",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "",
-          "frame": "",
-          "mech": "Collaborator"
-        },
-
-
-        {
-          "callsign": "",
-          "alias": "",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "",
-          "frame": "",
-          "mech": "Coworker"
-        },
-
-
-        {
-          "callsign": "",
-          "alias": "",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "",
-          "frame": "",
-          "mech": "Dojo Owner"
-        },
-
-
-        {
-          "callsign": "",
-          "alias": "",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "",
-          "frame": "",
-          "mech": "Downtown Business Owner"
-        },
-
-
         {
           "callsign": "Marika",
           "alias": "",
@@ -1578,36 +1536,6 @@ export default {
           "corpro": "Available",
           "frame": "Education ",
           "mech": "School Teacher"
-        },
-
-
-        {
-          "callsign": "",
-          "alias": "",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "",
-          "frame": "",
-          "mech": "Business Owner"
-        },
-
-
-        {
-          "callsign": "",
-          "alias": "",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "",
-          "frame": "",
-          "mech": "Wingman"
-        },
-
-
-        {
-          "callsign": "",
-          "alias": "",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "",
-          "frame": "",
-          "mech": ""
         },
 
 
