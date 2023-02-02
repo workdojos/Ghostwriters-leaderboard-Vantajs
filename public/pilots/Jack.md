@@ -1,6 +1,6 @@
 Name: Jack "Wild Jack" Johnson
 
-# ****History****:
+# History:
 
 Jack grew up in a small town in the mountains, where he learned to love the outdoors and the thrill of off-roading. As a teenager, he saved up enough money to buy his first 4X4 truck and started taking it on adventures in the backcountry. He quickly became known as "Wild Jack" among his friends for his fearless driving and ability to navigate even the toughest terrain.
 
@@ -27,4 +27,4 @@ Jack is a certified wilderness first responder, and often leads off-roading trip
 
 To claim this character and gain access to all respective missions, please click the red diamond, sign up, and await further instructions:  
 
-[:round_pushpin:](https://blog.workmates.live/jack)
+[:diamonds:](https://blog.workmates.live/jack)
