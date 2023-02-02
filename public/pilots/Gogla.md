@@ -1,23 +1,23 @@
-Project Brief: Improving Customer Satisfaction in Telemarketing
 
-Team Leader: Gogla
+**Name**: Gogla Khachidze
+**Age**: 27
+**Location**: Tbilisi, Georgia
 
-Assignment: The telemarketing industry is facing growing concerns over customer satisfaction. Many customers are complaining about telemarketers being pushy, unprofessional, and not having a deep understanding of the products they are selling. Our goal is to improve the customer satisfaction in telemarketing by addressing these concerns and making sure that telemarketers are equipped with the necessary knowledge, skills, and tools to deliver a more professional and effective sales pitch.
+**History**: Gogla grew up in a working-class family in Tbilisi, where she developed a strong work ethic from a young age. She graduated from a local university with a degree in marketing and started working as a telemarketer for a local company. Despite the difficult nature of the job, Gogla quickly proved to be a skilled salesperson and was promoted to team leader within a year.
 
-**Goals**:
+**Personality Traits**: Gogla is determined and ambitious. She is also outgoing and friendly, which helps her connect with customers over the phone. She is also a bit of a perfectionist, always striving to improve her sales numbers and skills.
 
-To increase customer satisfaction in telemarketing by 20% in 90 days.
-To train telemarketers on effective communication skills, product knowledge, and customer service techniques.
-To provide telemarketers with the necessary tools and resources to deliver a professional and effective sales pitch.
-Stakes: The success of this project is critical to the future of the telemarketing industry. If we fail to improve customer satisfaction, we risk losing customers and damaging the reputation of telemarketers. The stakes are high, and it's essential that we succeed in our mission to revolutionize the workplace for telemarketers worldwide.
+**Secrets**: Gogla has a secret passion for acting and dreams of one day leaving her job as a telemarketer to pursue a career on stage. She also has a fear of public speaking and often gets nervous when giving presentations at work.
 
-Reserves: Our team will have access to the following resources to help us achieve our goals:
+**Strengths**: Gogla is a great listener and is able to quickly identify customer needs. She is also very persuasive and can often close a sale even when the customer is hesitant.
 
-A comprehensive training program to improve communication skills and product knowledge.
-A customer feedback system to monitor customer satisfaction levels and identify areas of improvement.
-Access to a database of telemarketing best practices and resources.
-Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for telemarketers worldwide. We are confident that with our hard work, dedication, and the resources at our disposal, we will be able to deliver the results that our industry needs.
- 
+**Weaknesses**: Gogla can be a bit too pushy at times and can come across as aggressive. She also struggles with rejection and can take it personally when a customer hangs up on her.
+
+**Technical Skills**: Gogla is proficient in using various sales software and databases. She is also skilled in using social media for marketing and customer engagement.
+
+**Goals**: Gogla's main goal is to become a top salesperson at her company and eventually move up to a management position. She also hopes to one day take acting classes and audition for local theater productions.
+
+**Hobbies**: Gogla loves to read and watch plays in her free time. She is also an avid traveler and enjoys exploring new cultures.
 
 ---
 * **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: [:closed_book:](https://openai.com/blog/chatgpt/)

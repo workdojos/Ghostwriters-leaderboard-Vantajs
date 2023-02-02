@@ -1,27 +1,37 @@
-Project Brief: Zookeeper Puzzle
 
-Team Leader: Anna
+**Name**: Anna Gruber
+**Age**: 32
+**Location**: Berlin, Germany
 
-Assignment:
-A new virus has broken out in the zoo, infecting the animals and causing them to become aggressive and dangerous. The virus is spreading rapidly and the zookeepers must work together to find a cure before it’s too late.
+**History**:
+Anna grew up in a small town in Germany, surrounded by animals and nature. She was always fascinated by wildlife and would spend hours observing them in their natural habitat. This fascination led her to pursue a career in zoology and she went on to study at the University of Berlin. After graduation, Anna landed a job as a zookeeper at the Berlin Zoo and has been working there ever since.
 
+**Personality Traits**:
+Anna is a determined and hardworking individual, with a passion for animals and their welfare. She is empathetic and caring, often going above and beyond to ensure the animals in her care are happy and healthy. However, she can also be stubborn and set in her ways, sometimes resistant to change.
+
+**Secrets**:
+Anna has a secret fear of snakes, which she hides from her colleagues and visitors at the zoo. Despite her love for animals, she cannot bring herself to handle them and this fear often holds her back in her work.
+
+**Strengths**:
+
+Expert knowledge of animal behavior and biology
+Ability to form strong bonds with the animals in her care
+Excellent problem-solving skills
+**Weaknesses**:
+
+Fear of snakes
+Can be overprotective of the animals in her care
+Can be too focused on her work, neglecting her personal life
+**Technical Skills**:
+
+Skilled in animal husbandry and care
+Knowledge of animal behavior and biology
+Experienced in animal handling and emergency procedures
 **Goals**:
+Anna's ultimate goal is to open her own animal sanctuary, where she can provide a safe and nurturing environment for animals in need. She wants to educate people on the importance of conservation and animal welfare, and to spread awareness about the need to protect endangered species.
 
-Identify the cause of the virus and determine the best course of action to cure it.
-Work together to gather all the information necessary to develop a cure.
-Communicate effectively and efficiently with each other to solve the puzzle as quickly as possible.
-Stakes:
-
-The lives of all the animals in the zoo are at risk.
-If the virus is not stopped, it could potentially spread to other zoos and wildlife sanctuaries.
-The reputation of the zoo and the zookeeper team is on the line. If they fail to solve the puzzle, the zoo will be closed permanently.
-Reserves:
-
-Each team member has access to all the necessary research materials and databases.
-The team leader, Anna, will provide regular updates on the progress of the puzzle and answer any questions that arise.
-If a team member becomes stuck or needs assistance, they can reach out to their colleagues for help.
-Note: The zookeeper team has exactly one week to solve the puzzle before the consequences become dire.
- 
+**Hobbies**:
+Outside of work, Anna enjoys spending time in nature, hiking and bird-watching. She is also an avid reader, with a particular interest in books on animal behavior and ecology.
 
 ---
 * **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: [:closed_book:](https://openai.com/blog/chatgpt/)

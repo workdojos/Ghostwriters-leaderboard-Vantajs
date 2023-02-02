@@ -1,27 +1,22 @@
-Project Brief: The Remote Revolution in Performing Arts
+**Name**: Isabella Santos
+**Age**: 33
+**Location**: Montevideo, Uruguay
 
-Team Leader: Isabella
+**History**: Isabella was born and raised in Montevideo, Uruguay, where she developed a love for the performing arts at a young age. She attended the National School of Fine Arts and later went on to study drama at the National University of Arts in Montevideo. After graduating, she quickly made a name for herself in the local theater scene and eventually landed her first lead role in a production at the Teatro Solis, one of the most renowned theaters in Uruguay.
 
-Assignment: To develop a solution that addresses the real-world consequences faced by the performing arts industry and revolutionize the workplace for thespians worldwide.
+**Personality Traits**: Isabella is a passionate and dedicated thespian, who is always willing to go above and beyond to perfect her craft. She is a natural leader and is often looked up to by her castmates. She has a strong sense of self-discipline and is always willing to push herself to new limits. Despite her success, she is humble and always willing to learn from others.
 
-**Goals**:
+**Secrets**: Isabella has always been self-conscious about her appearance, particularly her weight. She has struggled with body image issues for many years and has tried various diets and workout regimes to try and lose weight.
 
-To improve the overall financial stability of the performing arts industry
-To provide a platform for thespians to showcase their skills and connect with potential employers
-To increase the accessibility of performing arts to a wider audience
-To enhance the collaboration and networking opportunities within the industry
-Stakes:
+**Strengths**: Isabella's greatest strength is her ability to fully immerse herself in a character and bring them to life on stage. She has a natural talent for acting and is able to convey a wide range of emotions with ease.
 
-The performing arts industry is facing financial strain due to the COVID-19 pandemic and the closure of live venues.
-Many thespians are struggling to find work and are facing unemployment.
-The industry is facing a decline in audience numbers due to the lack of live performances.
-Reserves:
+**Weaknesses**: Isabella can be quite hard on herself, and often struggles with self-doubt. She also has a tendency to be a perfectionist, which can make it difficult for her to relax and enjoy the creative process.
 
-The team has 90 days to complete the project and present a solution to the industry.
-The team will work remotely from their PC's at home.
-The team will have access to industry experts and relevant resources to support their research and development.
-Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for thespians worldwide. The project outcome will be evaluated based on its ability to meet the goals, improve the industry, and benefit the thespians.
- 
+**Technical Skills**: Isabella is an accomplished actress, and is skilled in various techniques such as Meisner, Stanislavski, and Chekhov. She is also proficient in stage combat, and is able to perform various fight choreography with ease.
+
+**Goals**: Isabella's ultimate goal is to make a name for herself on the international stage. She dreams of performing in some of the most prestigious theaters around the world, such as the West End in London, and the Broadway in New York.
+
+**Hobbies**: In her free time, Isabella enjoys practicing yoga and meditation. She also loves to read, and is a huge fan of classic literature. She also enjoys traveling and exploring new cultures, and is always on the lookout for new experiences to inspire her performances.
 
 ---
 * **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: [:closed_book:](https://openai.com/blog/chatgpt/)

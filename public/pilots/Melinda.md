@@ -1,29 +1,30 @@
-Project Brief:
+**Name**: Melinda O'Neil
+**Age**: 34
+**Location**: St. John's, Newfoundland
 
-Team Leader: Melinda
-Team: Writers
-Assignment: Solve the Publishing Industry Puzzle
-Duration: 1 Month
-**Location**: Remote (PC's at Home)
+**History**:
+Melinda was born and raised in the small town of Carbonear, Newfoundland. From a young age, she was fascinated by storytelling and the written word. She wrote her first short story at the age of 10 and has been writing ever since. After completing her undergraduate degree in English Literature at Memorial University of Newfoundland, she worked as a freelance writer and editor before landing a job as a staff writer at a local publishing company.
+
+**Personality Traits**:
+Melinda is introverted, but once she gets to know someone, she opens up and is quite talkative. She is a dedicated and hard worker, often sacrificing her personal life for her writing. She is highly observant, with a keen eye for detail. She has a good sense of humor and is often the life of the party when she's with friends.
+
+**Secrets**:
+Melinda has always struggled with self-doubt, and she often second-guesses herself. This is something she keeps hidden from the world and is something she still struggles with to this day.
+
+**Strengths**:
+Melinda is a talented writer, with a unique voice and style that sets her apart from others. She is a creative problem-solver and is able to see the big picture. She is a good listener and is able to connect with people on a deep level.
+
+**Weaknesses**:
+Melinda's introverted nature can make it difficult for her to connect with others, and she often withdraws into her own world. She is a perfectionist, which can lead to her becoming overly critical of her own work.
+
+**Technical Skills**:
+Melinda is proficient in Microsoft Word, Adobe InDesign, and Google Docs. She has a good understanding of the publishing process and is familiar with the industry's standard formats and guidelines.
 
 **Goals**:
+Melinda's ultimate goal is to write and publish a novel that will be well-received by both critics and readers. She also wants to continue to improve her craft and become a better writer.
 
-To identify the major challenges facing the publishing industry
-To research and analyze the impact of technology on the publishing industry
-To explore the potential solutions to the challenges facing the publishing industry
-To develop a strategic plan for the future of the publishing industry
-Stakes:
-
-The publishing industry is facing numerous challenges, including the decline of physical book sales, the rise of self-publishing, and the increasing competition from digital media.
-If the publishing industry does not adapt to these challenges, it may become irrelevant in the near future.
-The failure to address the challenges facing the publishing industry could result in job losses and the decline of the literary arts.
-Reserves:
-
-Access to industry reports, data, and analysis
-Access to experts in the publishing industry
-Access to the latest technology and tools to support research and analysis
-Successful completion of the puzzle grants all contributing teammates XP and unlocks a new challenge in our ultimate quest to revolutionize the Publishing industry. This will help the team to continue to improve their skills and knowledge, and contribute to the growth and success of the publishing industry.
- 
+**Hobbies**:
+When she's not writing, Melinda enjoys reading, hiking, and practicing yoga. She is also an avid traveler and loves to explore new cultures and destinations.
 
 ---
 * **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: [:closed_book:](https://openai.com/blog/chatgpt/)

@@ -1,27 +1,22 @@
-Project Brief:
-Title: Virtual Physical Therapy Platform
-Team Leader: Adia
-Assignment: To create a virtual physical therapy platform for patients that is accessible from their homes and can be supervised by physical therapists in real-time.
+**Name**: Dr. Adia Ndume
+**Age**: 34
+**Location**: Pretoria, South Africa
 
-**Goals**:
+**History**: Adia was born and raised in a small village in rural South Africa. Growing up, she was always interested in sports and fitness, and spent many hours playing soccer and running with her friends. Her passion for helping others led her to pursue a career in physical therapy. She attended the University of Cape Town and graduated with a degree in Physical Therapy. After graduation, she worked in several clinics and hospitals in South Africa, gaining valuable experience in treating a wide range of injuries and conditions.
 
-To create a user-friendly platform that is accessible from any device with an internet connection.
-To provide a virtual space for patients to interact with physical therapists and receive real-time guidance and feedback.
-To increase access to physical therapy for patients who are unable to visit a physical therapist in person.
-To improve patient outcomes by providing more frequent and consistent physical therapy sessions.
-Stakes:
+**Personality Traits**: Adia is a dedicated and compassionate therapist who is passionate about helping her patients achieve their goals. She is patient, empathetic, and always puts the needs of her patients first. She has a strong sense of responsibility and is always willing to go the extra mile to help her patients.
 
-The physical therapy industry is facing a significant challenge as a result of the COVID-19 pandemic, with many patients unable to visit physical therapists in person.
-If the virtual physical therapy platform is not created and implemented successfully, patients will continue to face difficulties accessing physical therapy and may not receive the care they need to recover from their injuries or conditions.
-The success of this project has the potential to revolutionize the physical therapy industry and increase access to physical therapy for patients worldwide.
-Reserves:
+**Secrets**: Adia is a deeply private person and does not share much about her personal life with her colleagues or patients. She has a history of trauma that she keeps to herself and has never shared with anyone.
 
-The team will have 90 days to complete the project and deliver a functional virtual physical therapy platform.
-All team members will work remotely from their PC's at home.
-Adia will serve as the project leader and coordinate the efforts of the team.
-The team will have access to all necessary resources, including software, hardware, and support from technical experts.
-Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for physical therapists worldwide.
- 
+**Strengths**: Adia has a strong knowledge of the human body and is skilled in a wide range of physical therapy techniques. She is a skilled listener and is able to quickly assess her patients' needs and develop effective treatment plans. She is also very patient and able to work with patients who are in a lot of pain.
+
+**Weaknesses**: Adia can be a bit reserved and tends to keep to herself. She can be a bit too focused on her work at times, and can neglect her own health and well-being.
+
+**Technical Skills**: Adia is skilled in manual therapy, exercise prescription, and pain management. She is also trained in sports therapy and is able to work with athletes of all levels.
+
+**Goals**: Adia's ultimate goal is to open her own clinic in her home village where she can provide physical therapy services to people who may not otherwise have access to them.
+
+**Hobbies**: Adia enjoys running, playing soccer, and reading. She also enjoys travelling and exploring new cultures.
 
 ---
 * **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: [:closed_book:](https://openai.com/blog/chatgpt/)

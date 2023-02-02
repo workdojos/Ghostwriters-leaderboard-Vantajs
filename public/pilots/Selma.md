@@ -1,27 +1,25 @@
 Project Brief: Remote R&D Solutions for the R&D Industry
+**Name**: Dr. Selma Hadzic
+**Age**: 35
+**Location**: Sarajevo, Bosnia
 
-Team Leader: Selma
+**History**: Dr. Selma Hadzic was born and raised in Sarajevo, Bosnia. She grew up during the Bosnian War and witnessed firsthand the devastation and destruction caused by the conflict. This experience instilled in her a deep desire to understand and prevent similar atrocities from happening in the future.
 
-Assignment: To research and develop a solution for the R&D industry that will allow remote teams of researchers to work effectively from their PC's at home.
+After completing her undergraduate degree in political science, Selma decided to pursue a PhD in international relations. She received her doctorate from the University of Sarajevo and has been working as a researcher ever since.
 
-**Goals**:
+**Personality Traits**: Selma is a deeply driven and dedicated individual. She is highly analytical and logical, and is always looking for ways to improve her understanding of the world. Despite her serious nature, she is also quite empathetic and is always willing to help others.
 
-To improve productivity and efficiency for remote R&D teams.
-To ensure that remote researchers have access to the same resources and tools as their in-office counterparts.
-To reduce the cost and time associated with commuting to and from work.
-To promote a more flexible and environmentally-friendly work environment.
-Stakes:
+**Secrets**: Selma is haunted by the memories of the Bosnian War and the atrocities she witnessed as a child. She is also deeply ashamed of her failure to prevent the war from happening.
 
-The success of this project will have a significant impact on the R&D industry and its ability to compete in a rapidly-changing global marketplace.
-The R&D industry is facing increasing pressure from clients and investors to reduce costs and increase efficiency, making the successful completion of this project more important than ever.
-The success of this project will also have an impact on the quality of life of remote researchers and their families, as well as on the environment.
-Reserves:
+**Strengths**: Selma is a highly skilled researcher and has a deep understanding of international relations. She is also a gifted communicator and is able to effectively convey her ideas to others.
 
-A budget of $100,000 has been allocated for the project.
-The team will have access to all necessary software, tools, and equipment to complete the project.
-Selma will lead the project and manage the team, but all members will be expected to contribute their expertise and ideas to the project.
-Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for researchers worldwide.
- 
+**Weaknesses**: Selma is often consumed by her work and can neglect other aspects of her life. She also struggles with feelings of guilt and shame over her inability to prevent the Bosnian War.
+
+**Technical Skills**: Selma is proficient in a variety of research methods and statistical analysis techniques. She is also proficient in several languages, including English, German, and French.
+
+**Goals**: Selma's ultimate goal is to use her research to prevent future conflicts and promote peace and stability in the world.
+
+**Hobbies**: In her free time, Selma enjoys reading and writing. She is also an avid traveler and enjoys exploring new cultures and meeting new people.
 
 ---
 * **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: [:closed_book:](https://openai.com/blog/chatgpt/)

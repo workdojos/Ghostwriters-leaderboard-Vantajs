@@ -1,26 +1,24 @@
-Project Brief: Revolutionizing the Film Industry for Screenwriters
+**Name**: Tina Kowalska
+**Age**: 35
+**Location**: Warsaw, Poland
 
-Team Leader: Tina
+**History**: Tina was born and raised in Warsaw, Poland. She grew up in a working-class family and always had a passion for storytelling. From a young age, she would write short stories and plays, and would often perform them for her family and friends. As she got older, she knew that she wanted to pursue a career in screenwriting.
 
-Assignment: To create a solution that revolutionizes the film industry for screenwriters and reduces the impact of industry struggles on the creative process.
+After graduating from high school, Tina attended the National Film School in Lodz, where she learned the technical skills of screenwriting. After graduation, she moved to Warsaw, where she has been working as a freelance screenwriter for the past ten years.
 
-**Goals**:
+**Personality Traits**: Tina is a driven and ambitious person. She is always looking for new opportunities to improve her craft and is always willing to take risks. She is also very detail-oriented and is always looking for ways to improve her scripts. She is also a very private person and doesn't like to share too much about her personal life with others.
 
-To create a platform that connects screenwriters with producers, directors, and investors directly.
-To provide a secure and user-friendly interface for screenwriters to share their work and receive feedback from industry professionals.
-To implement a transparent and fair payment system for screenwriters based on their contribution to a project.
-To educate screenwriters on the best practices for protecting their intellectual property and negotiating fair deals.
-Stakes:
+**Secrets**: Tina has a secret fear of failure. Despite her success as a screenwriter, she is always worried that she will not be able to come up with a good idea for her next script.
 
-The film industry is facing major challenges, including a decline in traditional funding methods and an increase in competition.
-Screenwriters are often underpaid and undervalued, resulting in a lack of motivation and creativity.
-The creative process is negatively impacted by these industry struggles, leading to a decrease in quality content.
-Reserves:
+**Strengths**: Tina is a very skilled screenwriter, with a keen eye for detail and a talent for creating compelling characters. She is also very good at working under pressure and is able to meet tight deadlines.
 
-The team will have 90 days to complete the project, working remotely from their PCs at home.
-The team will have access to resources such as industry experts, market research, and professional software.
-The team will have access to the latest technology and design tools to create a user-friendly platform.
-Successful completion of the project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for screenwriters worldwide. The project outcome will have real-world consequences for the film industry and have the potential to transform the way screenwriters work and are valued in the industry.
+**Weaknesses**: Tina can be a bit of a perfectionist, which can sometimes make it difficult for her to let go of a script and move on to the next project. She also struggles with self-doubt and can be hard on herself when she doesn't think her work is good enough.
+
+**Technical Skills**: Tina is proficient in screenwriting software such as Final Draft and has a good understanding of the film and television industry. She also has a good understanding of the Polish film market and knows how to write scripts that will appeal to Polish audiences.
+
+**Goals**: Tina's ultimate goal is to write a feature film that will be well-received by audiences and critics alike. She is also working on a few scripts that she hopes will get picked up by a major production company.
+
+**Hobbies**: When she's not writing, Tina enjoys reading, watching films, and spending time with her family and friends. She is also a big fan of Polish literature and is always looking for new books to read.
 
 
 ---

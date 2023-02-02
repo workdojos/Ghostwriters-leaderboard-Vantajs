@@ -1,20 +1,19 @@
-Project Brief: Remote Sales Coaching Initiative
 
-Team Leader: Josh
+Josh is a 35-year-old sales coach from Sydney, Australia. He grew up in a small town in the outback and always had a passion for business and sales. He went to college and studied marketing, and after graduation, he landed a job as a sales representative for a big pharmaceutical company. He quickly climbed the ranks and became a top performer, earning a reputation as a skilled negotiator and a natural leader.
 
-Assignment: To increase the effectiveness and impact of executive coaching in the sales industry.
+Josh is a charismatic and outgoing person, always eager to make new connections and build relationships. He is a natural leader and is respected by his colleagues for his ability to motivate and inspire others. He is also a great listener and is always willing to help others achieve their goals.
 
-**Goals**:
+Josh has a secret, though. He struggles with imposter syndrome, despite his many successes. He often worries that he's not good enough and that his colleagues will find out he's a fraud. This insecurity can sometimes hold him back from taking risks and reaching his full potential.
 
-To improve the communication skills of sales coaches through innovative and interactive training methods.
-To enhance the knowledge of sales coaches on the latest sales techniques and strategies.
-To create a platform that connects sales coaches with potential clients, providing them with a wider audience.
-Stakes: The sales coaching industry is facing major challenges due to the COVID-19 pandemic, with a significant decrease in client engagement and sales. By successfully completing this project, we aim to re-energize the sales coaching industry and provide sales coaches with new opportunities to increase their income and help their clients succeed.
+Josh's strengths include his ability to connect with others, his natural leadership skills, and his ability to think outside the box. He is also highly organized and is able to prioritize tasks effectively.
 
-Reserves: The team will have access to online training resources and will be able to utilize the latest communication tools to collaborate and communicate with each other. A budget of $10,000 has been allocated for the project to cover any expenses related to training materials, software, and marketing.
+His weaknesses include his tendency to be too perfectionistic and his tendency to procrastinate. He also struggles with self-doubt and can be overly critical of himself.
 
-Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for sales coaches worldwide. This project is crucial for the growth and success of the sales coaching industry and will provide a much-needed boost to the sales coaching community.
- 
+Josh is highly skilled in sales techniques and strategies, as well as marketing and advertising. He is also proficient in using CRM software and data analysis tools.
+
+Josh's goal is to become the head of sales for his company and to eventually start his own consulting business. He wants to help other salespeople achieve their goals and reach their full potential.
+
+In his free time, Josh enjoys travelling, hiking, and playing guitar. He also volunteers at a local charity that helps at-risk youth.
 
 ---
 * **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: [:closed_book:](https://openai.com/blog/chatgpt/)

@@ -1,25 +1,25 @@
-Project Brief: Social Media Influencer Campaign for Better Online Privacy and Cybersecurity
+**Name**: Lila Kiwi
 
-Team Leader: Lila
+**Age**: 24
 
-Assignment:
-The social media industry is rapidly growing and has become an integral part of our daily lives. However, with this growth comes the increasing threat of online privacy and cybersecurity breaches. As influencers, we have a responsibility to our followers and must take action to address this issue.
+**Location**: Auckland, New Zealand
 
-**Goals**:
+**History**: Lila grew up in a small town in New Zealand and always had a passion for photography. She started posting her photos on Instagram and soon gained a following. She then started to collaborate with local brands and became a social media influencer.
 
-To create awareness and educate the public on online privacy and cybersecurity risks.
-To work with leading cybersecurity experts and social media companies to implement new privacy and security measures.
-To promote the use of secure online tools and best practices for social media users.
-Stakes:
-The stakes are high as online privacy and cybersecurity breaches can lead to serious consequences such as identity theft, financial loss, and even harm to personal reputation. By taking action, we can protect ourselves and our followers and promote a safer online environment.
+**Personality Traits**: Confident, outgoing, charismatic, and creative.
 
-Reserves:
+**Secrets**: Lila struggles with anxiety and tries to keep it hidden from her followers.
 
-Budget for engaging with leading cybersecurity experts and social media companies.
-Access to digital marketing tools and platforms to promote our campaign.
-Time commitment from all team members for a minimum of 90 days to work on this project remotely.
-Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for influencers worldwide. By addressing this critical issue, we can demonstrate our leadership and commitment to making a positive impact in our industry.
- 
+**Strengths**: Excellent communication skills, the ability to engage with her audience, and an eye for aesthetics.
+
+**Weaknesses**: Sometimes too impulsive, lacks organization, and can be overly critical of herself.
+
+**Technical Skills**: Proficient in Adobe Photoshop and Lightroom, photography, and videography.
+
+**Goals**: To build her brand and become a global influencer while also using her platform to advocate for mental health awareness.
+
+**Hobbies**: Photography, travel, and practicing yoga to manage her anxiety.
+
 
 ---
 * **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: [:closed_book:](https://openai.com/blog/chatgpt/)

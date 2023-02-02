@@ -1,27 +1,31 @@
-Project Brief: Support Group Industry Project
 
-Team Leader: Martina
+**Name**: Martina Garcia
+**Age**: 35
+**Location**: Buenos Aires, Argentina
 
-Assignment: The support group industry has seen a significant increase in demand due to the COVID-19 pandemic and the resulting shift to remote work. The industry needs to adapt to the changes in order to continue providing effective support to individuals. The team of moderators will work remotely from their PC's at home to solve the challenges facing the support group industry within 90 days.
+**History**:
+Martina was born and raised in Buenos Aires, Argentina. Growing up, she struggled with anxiety and depression, which led her to seek help through therapy and support groups. As she began to heal and find peace within herself, she decided to pursue a career in psychology and helping others. She earned her degree in psychology and started working as a therapist, but found her true passion in moderating support groups.
+
+**Personality Traits**:
+Martina is a warm and empathetic person. She is a good listener and is able to create a safe and comfortable space for her group members to share their stories. She is patient and understanding, but also firm when it comes to setting boundaries and rules within the group. She is a strong advocate for mental health and is dedicated to helping others find the support they need.
+
+**Secrets**:
+Martina has a secret fear of failure. Despite her successful career, she is constantly worried that she is not doing enough or that she is not good enough. This fear often causes her to overwork herself and push herself too hard.
+
+**Strengths**:
+Martina is a great communicator and is able to create a safe and comfortable space for her group members to share their stories. She is also a good listener and is able to empathize with her group members. She is also very organized and is able to keep the group running smoothly.
+
+**Weaknesses**:
+Martina can be a bit of a perfectionist and can be hard on herself when things do not go as planned. She also struggles with setting boundaries and can sometimes take on too much work.
+
+**Technical Skills**:
+Martina is skilled in various therapy techniques, such as cognitive behavioral therapy and mindfulness-based therapy. She is also proficient in using various online tools and platforms for therapy and support groups.
 
 **Goals**:
+Martina's goal is to continue to help as many people as she can through her support groups and to raise awareness about mental health in Argentina.
 
-Enhance the virtual support group experience for individuals, ensuring that it is equivalent to in-person support groups.
-Improve the efficiency of virtual support groups to ensure that moderators can handle larger groups with ease.
-Develop new technology solutions to enhance the virtual support group experience, such as virtual reality and augmented reality.
-Increase the accessibility of support groups to individuals, regardless of their location or device.
-Stakes:
-
-The success of this project will directly impact the well-being of individuals who rely on support groups to improve their mental and emotional health.
-The support group industry must adapt to the changes brought about by the pandemic in order to remain relevant and effective.
-Failure to complete this project successfully may lead to a decline in the support group industry, resulting in the loss of jobs and reduction of support for individuals in need.
-Reserves:
-
-The team will have access to the latest technology and tools to enhance their virtual support group experience.
-The team will receive training and support from industry experts to ensure that they have the skills and knowledge to complete the project successfully.
-The team will be provided with a virtual workspace where they can collaborate and communicate with one another, as well as access to a project management tool to track progress.
-Successful completion of this project will grant all contributing members XP and unlock a new challenge in the quest to revolutionize the workplace for moderators worldwide.
- 
+**Hobbies**:
+In her free time, Martina enjoys practicing yoga, reading, and traveling. She is also a big fan of Argentine tango and enjoys dancing and learning more about the dance and its culture.
 
 ---
 * **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: [:closed_book:](https://openai.com/blog/chatgpt/)

@@ -1,22 +1,30 @@
-Project Brief: Revolutionizing the Travel Industry for Backpackers
+**Name**: Dr. Rebecca Jenkins
+**Age**: 35
+**Location**: Seattle, Washington
 
-Team Leader: Becca
+**History**:
+Rebecca grew up in a small town in the Pacific Northwest and always had a passion for the natural world. She attended college at the University of Washington where she earned her Bachelor's and Master's degrees in Biology. She then went on to earn her Ph.D. in Ecology from the University of California, Berkeley. After completing her education, she took a job as a research biologist at the Seattle Aquarium, where she has been working for the past 8 years.
 
-Assignment: The travel industry has been greatly impacted by the pandemic, and backpackers are facing numerous challenges in their travels. Our team's goal is to create a solution that will help make traveling easier and more affordable for backpackers.
+**Personality Traits**:
+Rebecca is a dedicated and hard-working individual who is passionate about her work. She is also a bit of a perfectionist, which can sometimes make her a bit of a control freak. She is also very analytical and logical, which helps her to think through complex problems.
+
+**Secrets**:
+Rebecca has a secret fear of failure, which she works hard to keep hidden from her colleagues. She also has a secret love of fantasy novels, which she only indulges in when she has some free time.
+
+**Strengths**:
+Rebecca's greatest strength is her ability to think critically and problem-solve. She is also very detail-oriented, which helps her to spot patterns and connections that others might miss.
+
+**Weaknesses**:
+Rebecca's biggest weakness is her tendency to be a bit of a control freak. This can sometimes make it difficult for her to work well with others, and can also lead to her being a bit of a micromanager.
+
+**Technical Skills**:
+Rebecca is highly skilled in data analysis and statistics, and is also proficient in several programming languages. She is also an expert in marine biology and ecology, and has a deep understanding of the behavior and physiology of marine animals.
 
 **Goals**:
+Rebecca's primary goal is to make a significant contribution to the field of marine biology through her research. She also hopes to one day become the head of the research department at the Seattle Aquarium.
 
-Develop an online platform that connects backpackers with local hosts for affordable accommodation options.
-Create a virtual currency system that allows backpackers to exchange goods and services with local communities.
-Offer a range of travel insurance options that cater to the specific needs of backpackers.
-Develop a mobile app that provides real-time information on local events, activities, and cultural experiences.
-Establish partnerships with local organizations and businesses to support sustainable tourism and benefit local communities.
-Stakes: The successful completion of this project will have a significant impact on the travel industry and will help to restore the confidence of backpackers in traveling. In addition, the project will provide a much-needed solution to the current challenges faced by backpackers and will benefit both local communities and the environment.
-
-Reserves: The team will have 90 days to complete the project, and all members will be working remotely from their PC's at home. To ensure successful completion, the team will need to collaborate effectively and utilize their individual strengths to achieve the goals set out in the project brief.
-
-Successful completion of the project will grant all contributing members XP and will unlock a new challenge in our ultimate quest to revolutionize the freelance market for travelers worldwide.
- 
+**Hobbies**:
+In her free time, Rebecca enjoys reading fantasy novels and playing board games with friends. She also enjoys hiking and camping in the Pacific Northwest, and spends as much time as she can exploring the local wilderness.
 
 ---
 * **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: [:closed_book:](https://openai.com/blog/chatgpt/)

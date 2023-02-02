@@ -1,28 +1,23 @@
-Project Brief: Improving Medication Administration Accuracy in the Healthcare Industry
+**Name**: Maria Gomez
+**Age**: 32
+**Location**: Madrid, Spain
 
-Team Leader: Maria
-Team Members: Registered Nurses
+**History**: Maria was born and raised in Madrid, Spain. She was always interested in the medical field and knew from a young age that she wanted to become a nurse. She studied nursing at the University of Madrid and graduated with honors. After graduation, she worked as a registered nurse at a hospital in Madrid for several years before deciding to move to the United States to work as a travel nurse. She has been working in various hospitals across the United States for the past two years and is currently working at a hospital in New York City.
 
-Assignment:
-The registered nurse team will work remotely to design and implement a solution that addresses the issue of medication administration errors in the healthcare industry. The team will have 90 days to complete the project.
+**Personality Traits**: Maria is a dedicated and compassionate nurse who is always willing to go the extra mile to help her patients. She is patient and empathetic, and always makes sure to listen to her patients' concerns and address them in a timely manner. She is also a strong leader and is not afraid to speak up when she sees something that needs to be addressed.
 
-**Goals**:
+**Secrets**: Maria has a secret fear of failure and often worries that she is not good enough as a nurse. She also struggles with homesickness and misses her family and friends back in Madrid.
 
-To reduce medication administration errors by 50% within 90 days of implementation.
-To develop a standard operating procedure (SOP) that ensures accurate and consistent medication administration.
-To train all healthcare workers on the new SOP and its importance in patient safety.
-Stakes:
+**Strengths**: Maria's greatest strength is her ability to connect with her patients and make them feel comfortable. She is also a skilled nurse, with expertise in critical care and emergency medicine. She is also a team player and is always willing to lend a helping hand to her colleagues.
 
-Medication administration errors can result in serious harm or even death to patients.
-Such errors can lead to malpractice lawsuits, loss of license, and decreased trust in the healthcare industry.
-Improving medication administration accuracy will lead to better patient outcomes and satisfaction.
-Reserves:
+**Weaknesses**: Maria struggles with time management and often finds herself overwhelmed with the demands of her job. She also tends to be a perfectionist and can be hard on herself when things don't go as planned.
 
-The team will be given access to relevant research articles, guidelines, and best practices related to medication administration.
-The team leader will be available to provide guidance and support throughout the project.
-The team will have access to technology that can help streamline the implementation process.
-Successful completion of this project will grant all contributing members XP and unlock a new challenge in the ultimate quest to revolutionize the workplace for registered nurses worldwide.
- 
+**Technical Skills**: Maria is trained in advanced cardiac life support, basic life support, and trauma nursing. She is also skilled in administering IV medications and performing wound care.
+
+**Goals**: Maria's goal is to become a nurse practitioner and to continue to grow and develop as a nurse. She also hopes to one day return to Madrid and open her own clinic.
+
+**Hobbies**: In her free time, Maria enjoys traveling and exploring new places. She also loves to cook and try new recipes, and is an avid reader of historical fiction.
+
 
 ---
 * **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: [:closed_book:](https://openai.com/blog/chatgpt/)

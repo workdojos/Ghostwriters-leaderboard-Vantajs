@@ -1,26 +1,22 @@
-Project Brief: Improving the Efficiency of Political Decision Making Processes
+**Name**: Julia Schmidt
+**Age**: 42
+**Location**: Berlin, Germany
 
-Team Leader: Julia
+**History**: Julia grew up in a working-class family in East Germany, where her parents were active in the trade union movement. She was politically active from a young age, joining the Social Democratic Party in her teens. After reunification, she studied political science at the University of Berlin and then worked as a researcher for a think tank. She was elected to the German Bundestag in her 30s and quickly rose through the ranks of her party, becoming a leading voice on economic and social issues.
 
-Assignment: The team of politicians will work remotely from their PC's at home to improve the efficiency of the political decision making processes. The goal is to reduce the time it takes for decisions to be made and increase the accuracy of the decisions that are made.
+**Personality Traits**: Julia is a charismatic and passionate speaker, known for her ability to connect with voters from all backgrounds. She is also a skilled debater and negotiator, able to hold her own against opponents in the Bundestag. However, she can be stubborn and unwilling to compromise on certain issues, which has sometimes led to tension with her colleagues.
 
-**Goals**:
+**Secrets**: Julia has a secret child from a previous relationship, who she rarely sees due to the demands of her political career. She also has a history of gambling addiction, which she has managed to keep hidden from the public.
 
-To streamline the decision making process and reduce the time it takes for decisions to be made by 50%
-To increase the accuracy of the decisions that are made by 80%
-To improve communication and collaboration among team members to ensure that everyone is on the same page and that decisions are made in a timely manner
-Stakes:
+**Strengths**: Julia is an expert on economic policy and has a deep understanding of the needs of working-class voters. She is also a skilled communicator and can connect with voters in a way that few other politicians can.
 
-If the team fails to meet the goals, they will lose the trust of the people and their constituents.
-The reputation of the politics industry will be negatively impacted if the team fails to meet the goals.
-The team will not receive the XP and unlock a new challenge in the quest to revolutionize the workplace for politicians worldwide if the goals are not met.
-Reserves:
+**Weaknesses**: Julia can be impulsive and has a tendency to act without fully thinking through the consequences. She also struggles with time management, often overcommitting herself to too many projects and events.
 
-The team will have access to the latest technology and tools to help streamline the decision making process.
-The team will receive training and support from experts in the field to help them reach the goals.
-The team will have regular check-ins and updates from Julia to ensure that everyone is on track and that the project is moving forward as planned.
-Successful completion of this project will grant all contributing members XP and unlock a new challenge in the ultimate quest to revolutionize the workplace for politicians worldwide. The team's success in this project will be a stepping stone towards a more efficient and effective political decision making process, which will ultimately benefit the people and their constituents.
- 
+**Technical Skills**: Julia is proficient in several languages, including German, English, and French. She is also well-versed in data analysis and is able to use this skill to inform her policy positions.
+
+**Goals**: Julia's ultimate goal is to become Chancellor of Germany, but in the short-term, she is focused on pushing for more progressive economic policies and increasing government support for working-class families.
+
+**Hobbies**: In her free time, Julia enjoys hiking and reading historical biographies. She is also an avid collector of art and has a particular interest in contemporary German painters.
 
 ---
 * **Disclaimer**: The text above was generated using the latest from OpenAI's [**ChatGPT**](https://openai.com/blog/chatgpt/).  All characters are fictional.  To learn more about [**ChatGPT**](https://openai.com/blog/chatgpt/) (or to try it yourself), please click the following link: [:closed_book:](https://openai.com/blog/chatgpt/)
