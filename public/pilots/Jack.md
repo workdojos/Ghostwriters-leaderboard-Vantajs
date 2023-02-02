@@ -27,4 +27,4 @@ Jack is a certified wilderness first responder, and often leads off-roading trip
 
 To claim this character and gain access to all respective missions, please click the red diamond, sign up, and await further instructions:  
 
-[:diamonds:](https://blog.workmates.live/jack)
+[:round_pushpin:](https://blog.workmates.live/jack)
