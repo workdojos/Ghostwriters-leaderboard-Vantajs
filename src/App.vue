@@ -80,13 +80,13 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003",
+      "mission_slug": "003a",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "003",
-          "name": "4x4 Industry Solutions",
+          "slug": "003a",
+          "name": "Dojo",
           "status": "start"
         },
         {
@@ -1547,9 +1547,9 @@ export default {
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
         "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerSubtitle": "Dojo's World",
+        "subheaderTitle": "Built with Vanta JS and Foundry VTT",
+        "subheaderSubtitle": "You don't need Big Tech if you have your own server! (and if you're a gamer with a co-pilot to boot!),
       },
       "options":{
         "eventsMarkdownPerMission": true
