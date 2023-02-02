@@ -2,7 +2,7 @@
 Age: 35
 Location: Paris, France
 
-History: Adalynn was born and raised in Paris, the daughter of a successful businessman and a renowned opera singer. From a young age, she was exposed to the world of theatre and performance, and quickly developed a love for writing plays. She studied playwriting at the Sorbonne, and after graduation, began writing and producing her own plays in Parisian theatres.
+****History****: Adalynn was born and raised in Paris, the daughter of a successful businessman and a renowned opera singer. From a young age, she was exposed to the world of theatre and performance, and quickly developed a love for writing plays. She studied playwriting at the Sorbonne, and after graduation, began writing and producing her own plays in Parisian theatres.
 
 Personality Traits: Adalynn is a fiercely independent and ambitious individual, driven to succeed in her career as a playwright. She is confident in her abilities and is not afraid to speak her mind. However, she can also be stubborn and hard to work with at times. She is fiercely protective of her work and can be quite secretive about her creative process.
 
