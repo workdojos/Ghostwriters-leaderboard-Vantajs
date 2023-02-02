@@ -24,7 +24,7 @@ Name: Adalynn
 ---
 * Disclaimer:  Text above was generated using the latest AI chatbot ChatGPT.  All characters are fictional.  To learn more about ChatGPT (or to try it yourself!), please click the following link:
 
-https://openai.com/blog/chatgpt/ [:diamonds:](https://openai.com/blog/chatgpt/)
+https://openai.com/blog/chatgpt/ [:ferris_wheel:](https://openai.com/blog/chatgpt/)
 
 To claim this character and gain access to all respective missions, please click the following link for 25% off our $25/month price:  
 
@@ -32,7 +32,7 @@ https://blog.workmates.live/deal-on-a-dojo [:diamonds:](https://blog.workmates.l
 
 Browse other AI-generated missions to the lower left of your screen, other co-pilots to the right.
 
-Purchase a co-pilot including its own server and dojo via the following link:
+Every dojo has its own server AND co-pilot, get one via the following link:
 
 https://workmates.live/marketplace [:diamonds:](https://workmates.live/marketplace)
 
