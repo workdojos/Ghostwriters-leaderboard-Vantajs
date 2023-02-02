@@ -1544,12 +1544,12 @@ export default {
         "planet": "DOJO's WORLD (coming soon)",
         "year": "2023",
         "system": "Foundry VTT",
-        "gate": "Open to the ublic",
+        "gate": "PUBLIC",
         "ring": "workdojos.com",
         "headerTitle": "WORKDOJOS",
         "headerSubtitle": "COMPENDIUM",
         "subheaderTitle": "BUILT WITH VANTA JS",
-        "subheaderSubtitle": "CO-PILOTS",
+        "subheaderSubtitle": "MISSIONS & CO-PILOTS",
       },
       "options":{
         "eventsMarkdownPerMission": true
