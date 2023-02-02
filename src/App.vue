@@ -86,22 +86,7 @@ export default {
       "missions": [
         {
           "slug": "Template",
-          "name": "4x4 Industry Solutions",
-          "status": "start"
-        },
-        {
-          "slug": "Template",
-          "name": "Bug-Hunt",
-          "status": "start"
-        },
-        {
-          "slug": "Template",
-          "name": "Vigilant Gaze",
-          "status": "start"
-        },
-        {
-          "slug": "Template",
-          "name": "4x4 Industry Solutions",
+          "name": "Template",
           "status": "start"
         },
         {
@@ -111,7 +96,22 @@ export default {
         },
         {
           "slug": "Template",
-          "name": "Vigilant Gaze",
+          "name": "Template",
+          "status": "start"
+        },
+        {
+          "slug": "Template",
+          "name": "Template",
+          "status": "start"
+        },
+        {
+          "slug": "Template",
+          "name": "Template",
+          "status": "start"
+        },
+        {
+          "slug": "Template",
+          "name": "Template",
           "status": "start"
         },
       ],
