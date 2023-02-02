@@ -80,13 +80,13 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003a",
+      "mission_slug": "003",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "003a",
-          "name": "Dojo",
+          "slug": "003",
+          "name": "4x4 Industry Solutions",
           "status": "start"
         },
         {
@@ -103,7 +103,7 @@ export default {
       "pilots": [
         {
           "callsign": "Adalynn",
-          "alias": "Adalynn Chowder",
+          "alias": "Adalynn Chantelle",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Perfoming Arts ",
@@ -126,7 +126,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Complementary And Alternative Medicine ",
-          "mech": "Clinician"
+          "mech": "Healer"
         },
 
 
@@ -1352,7 +1352,7 @@ export default {
 
 
         {
-          "callsign": "Susanna",
+          "callsign": "Samantha",
           "alias": "Samantha Smith",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
@@ -1521,7 +1521,7 @@ export default {
         },
         {
           "callsign": "Marika",
-          "alias": "Marika Meier",
+          "alias": "",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Data Science ",
@@ -1547,9 +1547,9 @@ export default {
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
         "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Dojo's World",
-        "subheaderTitle": "Built with Vanta JS and Foundry VTT",
-        "subheaderSubtitle": "You don't need Big Tech if you have your own server! (and if you're a gamer with a co-pilot to boot!),
+        "headerSubtitle": "Mercenary Company",
+        "subheaderTitle": "Crisis Response",
+        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
       },
       "options":{
         "eventsMarkdownPerMission": true
@@ -1610,8 +1610,8 @@ export default {
 
 <style lang="scss">
 #app {
-  width: 1702px;
-  height: 1402px;
+  width: 1902px;
+  height: 910px;
   overflow: hidden;
 }
 </style>
