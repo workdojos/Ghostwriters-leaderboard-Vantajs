@@ -1,10 +1,10 @@
-Name: Dr. Farid Al-Bashir
+Name: Dr. Marika Al-Bashir
 Age: 45
 Location: Dubai, United Arab Emirates
 
 **History**:
 
-Dr. Farid Al-Bashir was born and raised in Dubai, and studied economics at the American University of Beirut. He later received his PhD in economics from the University of Cambridge. After working for several years as an economic analyst for a large consulting firm, Farid started his own economic research firm in Dubai. His expertise in Middle Eastern economics and his extensive network of contacts have made him a sought-after consultant for governments and corporations alike.
+Dr. Marika Al-Bashir was born and raised in Dubai, and studied economics at the American University of Beirut. He later received his PhD in economics from the University of Cambridge. After working for several years as an economic analyst for a large consulting firm, Marika started his own economic research firm in Dubai. His expertise in Middle Eastern economics and his extensive network of contacts have made him a sought-after consultant for governments and corporations alike.
 
 **Personality Traits**:
 
@@ -12,7 +12,7 @@ Dr. Al-Bashir is highly analytical and precise, with a dry sense of humor. He is
 
 **Secrets**:
 
-Farid has a secret gambling addiction, which has led him to accumulate significant debts. He has also been involved in some unethical business dealings in the past, which he keeps hidden from those around him.
+Marika has a secret gambling addiction, which has led him to accumulate significant debts. He has also been involved in some unethical business dealings in the past, which he keeps hidden from those around him.
 
 **Strengths**:
 
