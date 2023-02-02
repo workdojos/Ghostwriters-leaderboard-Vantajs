@@ -26,6 +26,6 @@
 
 * Missions are to the lower left of your screen, co-pilots to the right. Get a [**Dojo**](https://workmates.live/marketplace) with the co-pilot of your choice for $25/mo: [:ledger:](https://workmates.live/marketplace)  Claim this character, join the world's first **Office AARG** (Augmented Alternate Reality Game). Build real-world businesses with a dash of fantasy! **25% off** for a limited time, via the following link: [:closed_book:](https://blog.workmates.live/deal-on-a-dojo) 
 
-* What's a [**Dojo?**](https://workdojos.com): [:blue_book:](https://workdojos.com)  Go to [**Dojo's World**](https://dojos.world): [:green_book:](https://dojos.world)  Learn about [**Foundry Virtual Tabletop (VTT)**:](https://foundryvtt.com [:ledger:](https://foundryvtt.com/)
+* What's a [**Dojo?**](https://workdojos.com): [:blue_book:](https://workdojos.com)  Go to [**Dojo's World**](https://dojos.world): [:green_book:](https://dojos.world)  Learn about [**Foundry Virtual Tabletop (VTT)**](https://foundryvtt.com): [:ledger:](https://foundryvtt.com/)
 
 * [**Chat now**](https://chat.workmates.live/channel/support): [:orange_book:](https://chat.workmates.live/channel/support)
