@@ -1541,15 +1541,15 @@ export default {
 
       ],
       "header": {
-        "planet": "Dojo's World",
-        "year": "2023 (coming soon)",
+        "planet": "DOJO's WORLD (coming soon)",
+        "year": "2023",
         "system": "Foundry VTT",
-        "gate": "Open to the Public",
+        "gate": "Open to the ublic",
         "ring": "workdojos.com",
-        "headerTitle": "Work",
-        "headerSubtitle": "Dojos",
-        "subheaderTitle": "PROJECT BRIEFING & ROSTER",
-        "subheaderSubtitle": "A mundane adventure from 9-5.",
+        "headerTitle": "WORKDOJOS",
+        "headerSubtitle": "COMPENDIUM",
+        "subheaderTitle": "PROJECT BRIEFING",
+        "subheaderSubtitle": "Co-Pilots",
       },
       "options":{
         "eventsMarkdownPerMission": true
