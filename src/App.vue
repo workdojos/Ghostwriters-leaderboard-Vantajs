@@ -1563,7 +1563,7 @@ export default {
         "ring": "workdojos.com",
         "headerTitle": "WORKDOJOS",
         "headerSubtitle": "COMPENDIUM",
-        "subheaderTitle": "BUILT WITH VANTA JS",
+        "subheaderTitle": "BUILT WITH VANTA.JS",
         "subheaderSubtitle": "MISSIONS & CO-PILOTS",
       },
       "options":{
