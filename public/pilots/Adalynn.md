@@ -24,15 +24,15 @@ Name: Adalynn
 ---
 * Disclaimer:  Text above was generated using the latest AI chatbot ChatGPT.  All characters are fictional.  To learn more about ChatGPT (or to try it yourself!), please click the following link: [:green_book:](https://openai.com/blog/chatgpt/)
 
-To claim this character and gain access to all respective missions, please click the following link for 25% off our $25/month price: [:closed_book:](https://blog.workmates.live/deal-on-a-dojo)
+Claim this character, 25% off for a limited time via the following link: [:closed_book:](https://blog.workmates.live/deal-on-a-dojo)
 
-Browse other AI-generated missions to the lower left of your screen, other co-pilots to the right.
+Browse missions to the lower left of your screen, co-pilots to the right.
 
-Every dojo has its own server AND co-pilot, get one via the following link: [:orange_book:](https://workmates.live/marketplace)
+Every dojo has its own server AND co-pilot for $25/month.  Get one via the following link: [:orange_book:](https://workmates.live/marketplace)
 
-If you would like to learn about the coolest Virtual Tabletop software (VTT), please visit: [:ledger:](https://foundryvtt.com/)
+Learn about Foundry Virtual Tabletop (VTT): [:ledger:](https://foundryvtt.com/)
 
-To learn more about our $25/month work dojos or to try out our service for free for 14 days: [:blue_book:](https://workdojos.com)
+To learn more or try one out for yourself: [:blue_book:](https://workdojos.com)
 
 Go to Dojo's World: [:notebook_with_decorative_cover:](https://dojos.world)
 
