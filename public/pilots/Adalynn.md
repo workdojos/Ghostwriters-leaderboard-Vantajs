@@ -26,7 +26,7 @@ Name: Adalynn
 
 https://openai.com/blog/chatgpt/ [:diamonds:](https://openai.com/blog/chatgpt/)
 
-To claim this character and gain access to all respective missions, please click the following link for 25% our $25/month price:  
+To claim this character and gain access to all respective missions, please click the following link for 25% off our $25/month price:  
 
 https://blog.workmates.live/deal-on-a-dojo [:diamonds:](https://blog.workmates.live/deal-on-a-dojo)
 
