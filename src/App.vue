@@ -85,17 +85,32 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "003",
+          "slug": "Template",
           "name": "4x4 Industry Solutions",
           "status": "start"
         },
         {
-          "slug": "001",
+          "slug": "Template",
           "name": "Bug-Hunt",
           "status": "start"
         },
         {
-          "slug": "002",
+          "slug": "Template",
+          "name": "Vigilant Gaze",
+          "status": "start"
+        },
+        {
+          "slug": "Template",
+          "name": "4x4 Industry Solutions",
+          "status": "start"
+        },
+        {
+          "slug": "Template",
+          "name": "Template",
+          "status": "start"
+        },
+        {
+          "slug": "Template",
           "name": "Vigilant Gaze",
           "status": "start"
         },
