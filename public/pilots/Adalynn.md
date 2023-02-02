@@ -51,4 +51,4 @@ https://dojos.world [:diamonds:](https://dojos.world)
 
 Chat now:
 
-https://chat.workmates.live/channel/support [:diamonds:](https://chat.workmates.live/channel/support)
+https://chat.workmates.live/channel/support [:diamonds:](https://chat.workmates.live/channel/support)sd
