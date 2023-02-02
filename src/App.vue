@@ -1548,8 +1548,8 @@ export default {
         "ring": "workdojos.com",
         "headerTitle": "WORKDOJOS",
         "headerSubtitle": "COMPENDIUM",
-        "subheaderTitle": "PROJECT BRIEFING",
-        "subheaderSubtitle": "Co-Pilots",
+        "subheaderTitle": "BUILT WITH VANTA JS",
+        "subheaderSubtitle": "CO-PILOTS",
       },
       "options":{
         "eventsMarkdownPerMission": true
