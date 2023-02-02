@@ -22,7 +22,9 @@ Name: Adalynn
 -
 
 ---
-* Disclaimer:  Text above was generated using the latest AI chatbot ChatGPT.  All characters are fictional.  To learn more about ChatGPT (or to try it yourself!), please click the following link: [:green_book:](https://openai.com/blog/chatgpt/)
+# * Disclaimer:  
+
+Text above was generated using the latest AI chatbot ChatGPT.  All characters are fictional.  To learn more about ChatGPT (or to try it yourself!), please click the following link: [:green_book:](https://openai.com/blog/chatgpt/)
 
 Claim this character, 25% off for a limited time via the following link: [:closed_book:](https://blog.workmates.live/deal-on-a-dojo)
 
