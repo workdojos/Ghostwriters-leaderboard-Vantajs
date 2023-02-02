@@ -12,29 +12,28 @@ Pierre is a confident and charismatic businessman. He is a master at negotiating
 Pierre has a secret love child from a brief fling he had while on a business trip. He has never publicly acknowledged the child and provides for them financially, but has never had any involvement in their life.
 
 **Strengths**:
-
 Expertise in international trade and importing
 Strong negotiation and sales skills
 Excellent attention to detail
 Strong leadership skills
 Fluent in French, English, and Spanish
-**Weaknesses**:
 
+**Weaknesses**:
 Can be demanding and stubborn
 Has a tendency to work too much and neglect his personal life
 Can be secretive and closed off emotionally
-**Technical Skills**:
 
+**Technical Skills**:
 Proficient in Microsoft Office and various import/export software
 Knowledge of international trade laws and regulations
 Experience with logistics and supply chain management
-**Goals**:
 
+**Goals**:
 Expand his business to new markets, specifically Asia
 Build a strong and loyal team
 Eventually pass the business down to his children
-**Hobbies**:
 
+**Hobbies**:
 Traveling to new destinations for both business and pleasure
 Wine collecting
 Playing the piano
