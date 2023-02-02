@@ -6,7 +6,7 @@ Team Members: Registered Nurses
 Assignment:
 The registered nurse team will work remotely to design and implement a solution that addresses the issue of medication administration errors in the healthcare industry. The team will have 90 days to complete the project.
 
-Goals:
+**Goals**:
 
 To reduce medication administration errors by 50% within 90 days of implementation.
 To develop a standard operating procedure (SOP) that ensures accurate and consistent medication administration.

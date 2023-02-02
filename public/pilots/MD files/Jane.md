@@ -6,7 +6,7 @@ Dr. Jane Doe, CEO of SatComm Solutions, with over 15 years of experience in the 
 Assignment:
 The team of business owners from various satellite communication companies will collaborate to solve the problem of unreliable and costly satellite communication services. The team will focus on identifying new technologies and strategies that can improve the reliability and cost-effectiveness of satellite communication services.
 
-Goals:
+**Goals**:
 
 To identify new and innovative technologies and strategies that can improve the reliability and cost-effectiveness of satellite communication services.
 To create a prototype of a cost-effective and reliable satellite communication system that can be tested and implemented in the real-world.

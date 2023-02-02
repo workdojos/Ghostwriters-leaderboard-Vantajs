@@ -1,33 +1,33 @@
-Name: Ivana Petrovic
-Age: 32
-Location: Zagreb, Croatia
+**Name**: Ivana Petrovic
+**Age**: 32
+**Location**: Zagreb, Croatia
 
-History:
+**History**:
 Ivana was born and raised in Zagreb, Croatia. From a young age, she was always interested in technology and programming. She taught herself how to code at the age of 12 and started creating small games and apps for fun. She studied computer science at the University of Zagreb and graduated with honors.
 
 After graduation, Ivana landed a job at a local tech company working as a software developer. She quickly made a name for herself as a talented and hardworking developer and was soon promoted to lead developer.
 
 However, Ivana's true passion was always the metaverse. She had always dreamed of creating a virtual world that would allow people to experience new things and connect with others in ways that were not possible in the real world. In her spare time, she started working on her own metaverse project, and after several years of hard work, she finally launched her own metaverse development company.
 
-Personality Traits:
+**Personality Traits**:
 Ivana is a driven and ambitious person. She is always looking for new challenges and is not afraid to take risks. She is also very focused and dedicated to her work, often putting in long hours to achieve her goals. Despite her busy schedule, Ivana is also a very social person and enjoys spending time with friends and family.
 
-Secrets:
+**Secrets**:
 Ivana has always been secretive about her metaverse project, only sharing details with a select few. She is also hiding a past relationship that ended badly and she doesn't want to talk about it anymore.
 
-Strengths:
+**Strengths**:
 Ivana is a highly skilled developer with a deep understanding of the latest technologies and trends in the metaverse. She is also a natural leader, able to inspire and motivate her team to achieve great things.
 
-Weaknesses:
+**Weaknesses**:
 Ivana can be a bit of a perfectionist, which can lead to her being overly critical of her own work. She also tends to be a bit of a workaholic, often neglecting her personal life in favor of her work.
 
-Technical Skills:
+**Technical Skills**:
 Ivana is an expert in virtual reality development, with a particular focus on the metaverse. She is proficient in a variety of programming languages, including C++, Python, and JavaScript. She also has experience with game engines such as Unity and Unreal Engine.
 
-Goals:
+**Goals**:
 Ivana's ultimate goal is to create the most immersive and interactive metaverse possible, one that will allow people to experience new things and connect with others in ways that are not possible in the real world.
 
-Hobbies:
+**Hobbies**:
 When Ivana is not working, she enjoys hiking and traveling. She also enjoys playing video games and trying out new virtual reality experiences. She is also a bit of a foodie and likes to explore new restaurants and cuisines.
  
 

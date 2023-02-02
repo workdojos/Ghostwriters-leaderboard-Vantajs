@@ -1,22 +1,22 @@
-Name: Marcia Williams
-Age: 42
+**Name**: Marcia Williams
+**Age**: 42
 Occupation: Administrator
 
-History: Marcia grew up in a small town in the Midwest, where she was raised by her single mother. Despite her humble beginnings, she was always driven and ambitious, excelling in her studies and working part-time jobs to help support her family. After graduating high school, she attended a local university and earned a degree in business administration.
+**History**: Marcia grew up in a small town in the Midwest, where she was raised by her single mother. Despite her humble beginnings, she was always driven and ambitious, excelling in her studies and working part-time jobs to help support her family. After graduating high school, she attended a local university and earned a degree in business administration.
 
 After college, Marcia moved to the city and landed a job as an administrative assistant at a large corporation. She quickly worked her way up the ranks, impressing her superiors with her attention to detail and ability to multitask. Eventually, she was promoted to the position of administrator, where she has been for the past 10 years.
 
-Personality Traits: Marcia is a highly organized and efficient individual who takes her job very seriously. She is a perfectionist and expects the same from those around her. She can be a bit demanding and is not afraid to speak her mind, but she is also a fair and just leader who cares about the well-being of her team.
+**Personality Traits**: Marcia is a highly organized and efficient individual who takes her job very seriously. She is a perfectionist and expects the same from those around her. She can be a bit demanding and is not afraid to speak her mind, but she is also a fair and just leader who cares about the well-being of her team.
 
-Best Kept Secrets: Despite her professional persona, Marcia struggles with a gambling addiction that she keeps hidden from her colleagues. She also has a strained relationship with her family, stemming from her decision to leave her hometown and pursue her career.
+Best Kept **Secrets**: Despite her professional persona, Marcia struggles with a gambling addiction that she keeps hidden from her colleagues. She also has a strained relationship with her family, stemming from her decision to leave her hometown and pursue her career.
 
-Strengths: Marcia is a skilled leader who is able to delegate tasks effectively and keep her team on track. She is also a master of time management, able to juggle multiple projects at once without missing a beat.
+**Strengths**: Marcia is a skilled leader who is able to delegate tasks effectively and keep her team on track. She is also a master of time management, able to juggle multiple projects at once without missing a beat.
 
-Weaknesses: Marcia can be too hard on herself and those around her, which can lead to burnout and resentment. She also has a tendency to micromanage, which can stifle creativity and innovation.
+**Weaknesses**: Marcia can be too hard on herself and those around her, which can lead to burnout and resentment. She also has a tendency to micromanage, which can stifle creativity and innovation.
 
-Goals: Marcia's ultimate goal is to one day become the CEO of her company. She is also working on overcoming her gambling addiction and repairing her relationships with her family.
+**Goals**: Marcia's ultimate goal is to one day become the CEO of her company. She is also working on overcoming her gambling addiction and repairing her relationships with her family.
 
-Hobbies: Marcia is a fitness enthusiast and enjoys running and weightlifting. She also enjoys reading business books and attending industry conferences to stay up-to-date on the latest trends and developments.
+**Hobbies**: Marcia is a fitness enthusiast and enjoys running and weightlifting. She also enjoys reading business books and attending industry conferences to stay up-to-date on the latest trends and developments.
  
 
 ---

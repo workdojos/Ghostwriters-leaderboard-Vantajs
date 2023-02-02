@@ -4,7 +4,7 @@ Team Leader: Orazali
 
 Assignment: To create a project with real-world consequences for the philosophical studies industry that will be solved in 90 days working remotely from their PC's at home.
 
-Goals:
+**Goals**:
 
 To improve the efficiency and productivity of philosophers in their workplace
 To develop a new and innovative solution that will benefit the philosophical studies industry

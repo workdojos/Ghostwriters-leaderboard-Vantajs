@@ -1,39 +1,39 @@
-Name: Janine "Sam" Williams
-Age: 35
-Location: New York City
+**Name**: Janine "Sam" Williams
+**Age**: 35
+**Location**: New York City
 
-History:
+**History**:
 Janine Williams, or "Sam" as she prefers to be called, grew up in a small town in rural America. She always had a love for writing and spent her free time scribbling stories and poems in her notebook. After graduating high school, she attended a prestigious university in New York City where she earned her degree in creative writing.
 
 After graduation, she struggled to make a name for herself as a writer. Desperate for work, she stumbled upon an ad for a ghostwriter and decided to give it a shot. Sam quickly found that she had a talent for ghostwriting and it quickly became her full-time career. She's been working as a ghostwriter for over 10 years now, and has written for a variety of clients, from politicians to celebrities.
 
-Personality Traits:
+**Personality Traits**:
 Sam is a quiet and reserved individual, but she's also fiercely determined and hardworking. She's a bit of a perfectionist and is always striving to improve her craft. Despite her reserved nature, she has a good sense of humor and can be quite witty when she wants to be. She's also incredibly loyal to her clients and will go above and beyond to ensure that they're satisfied with her work.
 
-Secrets:
+**Secrets**:
 Sam has a secret love for true crime stories and spends her free time reading books and articles about famous cases. She's also been working on a true crime novel for years, but keeps it hidden from her clients, not wanting them to think she's anything less than professional.
 
-Strengths:
+**Strengths**:
 
 Sam is an excellent writer with a natural talent for storytelling.
 She's able to write in a variety of styles and tones, making her versatile and adaptable to different clients.
 She's incredibly discreet and is able to keep her clients' secrets safe.
-Weaknesses:
+**Weaknesses**:
 
 Sam can be a bit of a workaholic and can have a hard time disconnecting from her work.
 She's a bit of a perfectionist and can be her own worst critic.
 She can be too loyal to her clients, sometimes at the expense of her own well-being.
-Technical Skills:
+**Technical Skills**:
 
 Sam is proficient in Microsoft Word and is able to format documents with ease.
 She's also well-versed in research techniques and is able to gather information quickly and efficiently.
 She's also familiar with basic SEO techniques and is able to write content that is optimized for search engines.
-Goals:
+**Goals**:
 
 Sam's ultimate goal is to publish her true crime novel and make a name for herself as an author.
 She also wants to expand her business and take on more high-profile clients.
 She's also determined to improve her work-life balance and make more time for herself.
-Hobbies:
+**Hobbies**:
 
 Sam's favorite hobby is reading, especially true crime stories.
 She also enjoys hiking and spending time in nature.

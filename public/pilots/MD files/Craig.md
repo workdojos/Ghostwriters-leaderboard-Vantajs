@@ -1,43 +1,43 @@
-Name: Craig Smith
-Age: 32
-Location: San Francisco, California
+**Name**: Craig Smith
+**Age**: 32
+**Location**: San Francisco, California
 
-History:
+**History**:
 Craig grew up in a small town in California and always had a passion for technology. He taught himself how to code at a young age and was always tinkering with computers and software. He attended a local community college and then transferred to a university in San Francisco to study computer science. After graduating, he landed a job at a tech company and quickly worked his way up to becoming a lead developer. He eventually left the company to start his own app development company, which has been successful.
 
-Personality Traits:
+**Personality Traits**:
 
 Driven and ambitious
 Confident in his abilities
 Can be stubborn at times
 Can be a bit arrogant
 Can be a workaholic
-Secrets:
+**Secrets**:
 
 Craig has a secret addiction to video games, which he often plays late into the night when he's feeling stressed.
 He also has a fear of failure and worries that his company will fail one day.
-Strengths:
+**Strengths**:
 
 Skilled in multiple programming languages
 Strong problem-solving skills
 A natural leader
 Good at multitasking
-Weaknesses:
+**Weaknesses**:
 
 Can be impatient
 Can be a bit overbearing with his team
 Can be a bit of a perfectionist
-Technical Skills:
+**Technical Skills**:
 
 Proficient in Java, Swift, and C++
 Experience with various programming frameworks and libraries
 Experience with app development for both iOS and Android platforms
-Goals:
+**Goals**:
 
 To continue growing his app development company
 To develop a revolutionary app that will change the way people interact with technology
 To eventually take his company public
-Hobbies:
+**Hobbies**:
 
 Playing video games
 Biking

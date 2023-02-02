@@ -1,22 +1,22 @@
-Name: Emma Rogers
-Age: 27
-Location: Seattle, Washington
+**Name**: Emma Rogers
+**Age**: 27
+**Location**: Seattle, Washington
 
-History: Emma grew up in a small town in Oregon, where she always had a passion for coffee. She moved to Seattle after graduating from high school to pursue her dream of becoming a barista. She started out as a barista at a local coffee shop and worked her way up to becoming the head barista at a popular café in the city.
+**History**: Emma grew up in a small town in Oregon, where she always had a passion for coffee. She moved to Seattle after graduating from high school to pursue her dream of becoming a barista. She started out as a barista at a local coffee shop and worked her way up to becoming the head barista at a popular café in the city.
 
-Personality Traits: Emma is outgoing and friendly, always eager to strike up a conversation with customers. She is passionate about coffee and takes great pride in her creations. She is also a bit of a perfectionist, always striving to make the perfect cup of coffee.
+**Personality Traits**: Emma is outgoing and friendly, always eager to strike up a conversation with customers. She is passionate about coffee and takes great pride in her creations. She is also a bit of a perfectionist, always striving to make the perfect cup of coffee.
 
-Secrets: Emma has a secret love for poetry and spends her free time writing and performing at open mic nights. She is also a bit of a coffee snob, only drinking high-quality beans and refusing to serve anything less than the best to her customers.
+**Secrets**: Emma has a secret love for poetry and spends her free time writing and performing at open mic nights. She is also a bit of a coffee snob, only drinking high-quality beans and refusing to serve anything less than the best to her customers.
 
-Strengths: Emma is an expert at latte art and can create intricate designs in the foam of a latte. She is also very efficient, able to make multiple drinks at once without getting flustered.
+**Strengths**: Emma is an expert at latte art and can create intricate designs in the foam of a latte. She is also very efficient, able to make multiple drinks at once without getting flustered.
 
-Weaknesses: Emma can be a bit of a control freak, often micromanaging her fellow baristas. She also has a tendency to get too caught up in her work, sometimes neglecting her personal life.
+**Weaknesses**: Emma can be a bit of a control freak, often micromanaging her fellow baristas. She also has a tendency to get too caught up in her work, sometimes neglecting her personal life.
 
-Technical Skills: Emma is skilled in all aspects of coffee making, including brewing, steaming, and latte art. She is also proficient in using various coffee machines and grinders.
+**Technical Skills**: Emma is skilled in all aspects of coffee making, including brewing, steaming, and latte art. She is also proficient in using various coffee machines and grinders.
 
-Goals: Emma's ultimate goal is to open her own coffee shop, where she can showcase her passion for coffee and poetry.
+**Goals**: Emma's ultimate goal is to open her own coffee shop, where she can showcase her passion for coffee and poetry.
 
-Hobbies: In her free time, Emma enjoys writing poetry and performing at open mic nights. She also enjoys trying different types of coffee and experimenting with new brewing methods.
+**Hobbies**: In her free time, Emma enjoys writing poetry and performing at open mic nights. She also enjoys trying different types of coffee and experimenting with new brewing methods.
 
  
 

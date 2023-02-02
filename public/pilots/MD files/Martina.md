@@ -4,7 +4,7 @@ Team Leader: Martina
 
 Assignment: The support group industry has seen a significant increase in demand due to the COVID-19 pandemic and the resulting shift to remote work. The industry needs to adapt to the changes in order to continue providing effective support to individuals. The team of moderators will work remotely from their PC's at home to solve the challenges facing the support group industry within 90 days.
 
-Goals:
+**Goals**:
 
 Enhance the virtual support group experience for individuals, ensuring that it is equivalent to in-person support groups.
 Improve the efficiency of virtual support groups to ensure that moderators can handle larger groups with ease.

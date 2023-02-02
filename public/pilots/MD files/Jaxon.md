@@ -2,7 +2,7 @@ Project Brief: The Digital Marketing Crisis
 
 Assignment: The digital marketing industry is facing a critical challenge as the number of scams and fraudulent activities has skyrocketed in recent months. Jaxon, the team leader, is assembling a team of web jedis to solve this puzzle and restore credibility.
 
-Goals:
+**Goals**:
 
 To identify and eliminate all forms of scams and fraudulent activities within the digital marketing industry.
 To establish new security protocols and measures to prevent similar activities from taking place in the future.

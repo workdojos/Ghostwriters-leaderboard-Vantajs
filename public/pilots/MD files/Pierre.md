@@ -1,39 +1,39 @@
-Name: Pierre Dubois
-Age: 42
-Location: Paris, France
+**Name**: Pierre Dubois
+**Age**: 42
+**Location**: Paris, France
 
-History:
+**History**:
 Pierre was born and raised in a small town in the south of France. His father owned a small import/export business and Pierre grew up helping him with it. He quickly developed a love for the industry and decided to pursue it as a career. After studying international business in college, he took over his father's business and expanded it significantly. He now operates a successful import company based in Paris, importing luxury goods from all over Europe.
 
-Personality Traits:
+**Personality Traits**:
 Pierre is a confident and charismatic businessman. He is a master at negotiating and closing deals. He is also a bit of a perfectionist and can be quite demanding of his employees. He can be stubborn and set in his ways, but is also very fair and just. He values loyalty and hard work.
 
-Secrets:
+**Secrets**:
 Pierre has a secret love child from a brief fling he had while on a business trip. He has never publicly acknowledged the child and provides for them financially, but has never had any involvement in their life.
 
-Strengths:
+**Strengths**:
 
 Expertise in international trade and importing
 Strong negotiation and sales skills
 Excellent attention to detail
 Strong leadership skills
 Fluent in French, English, and Spanish
-Weaknesses:
+**Weaknesses**:
 
 Can be demanding and stubborn
 Has a tendency to work too much and neglect his personal life
 Can be secretive and closed off emotionally
-Technical Skills:
+**Technical Skills**:
 
 Proficient in Microsoft Office and various import/export software
 Knowledge of international trade laws and regulations
 Experience with logistics and supply chain management
-Goals:
+**Goals**:
 
 Expand his business to new markets, specifically Asia
 Build a strong and loyal team
 Eventually pass the business down to his children
-Hobbies:
+**Hobbies**:
 
 Traveling to new destinations for both business and pleasure
 Wine collecting

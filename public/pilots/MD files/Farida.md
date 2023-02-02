@@ -5,7 +5,7 @@ Team Leader: Farida
 Assignment:
 The web design industry is facing a significant challenge in terms of the working conditions of web designers. With the advancement of technology, it has become increasingly possible for web designers to work remotely from their homes, but this has also led to a lack of work-life balance and increased stress levels. The team's mission is to revolutionize the workplace for web designers by creating a solution that will improve the working conditions and provide a better work-life balance.
 
-Goals:
+**Goals**:
 
 Develop a solution that enables web designers to work remotely from their homes while maintaining a healthy work-life balance.
 Create a system that promotes collaboration and communication between remote workers.

@@ -1,22 +1,22 @@
-Name: Helene von Strudel
-Age: 27
-Location: Zurich, Switzerland
+**Name**: Helene von Strudel
+**Age**: 27
+**Location**: Zurich, Switzerland
 
-History: Helene was born into a wealthy family in Zurich, Switzerland. Growing up, she was always the center of attention, and she loved it. Her parents were always busy with their own lives and barely paid attention to her, so she learned to entertain herself and others to gain their attention. As she got older, she discovered her love for exhibitionism and would often sneak out of the house to perform in public places.
+**History**: Helene was born into a wealthy family in Zurich, Switzerland. Growing up, she was always the center of attention, and she loved it. Her parents were always busy with their own lives and barely paid attention to her, so she learned to entertain herself and others to gain their attention. As she got older, she discovered her love for exhibitionism and would often sneak out of the house to perform in public places.
 
-Personality Traits: Helene is confident, outgoing, and loves to be the center of attention. She is also very flirtatious and enjoys the thrill of being watched. She is not afraid to push boundaries and is always looking for new ways to express herself.
+**Personality Traits**: Helene is confident, outgoing, and loves to be the center of attention. She is also very flirtatious and enjoys the thrill of being watched. She is not afraid to push boundaries and is always looking for new ways to express herself.
 
-Secrets: Helene has a secret addiction to exhibitionism and cannot help but perform in public places. She also has a secret fear of being rejected and not being loved by others.
+**Secrets**: Helene has a secret addiction to exhibitionism and cannot help but perform in public places. She also has a secret fear of being rejected and not being loved by others.
 
-Strengths: Helene is confident and outgoing, which helps her to perform in public without feeling nervous. She is also very creative and is always coming up with new and exciting ways to express herself.
+**Strengths**: Helene is confident and outgoing, which helps her to perform in public without feeling nervous. She is also very creative and is always coming up with new and exciting ways to express herself.
 
-Weaknesses: Helene's addiction to exhibitionism can sometimes get her into trouble. She is also very self-absorbed and can be rude to others who do not give her the attention she craves.
+**Weaknesses**: Helene's addiction to exhibitionism can sometimes get her into trouble. She is also very self-absorbed and can be rude to others who do not give her the attention she craves.
 
-Technical Skills: Helene is skilled in various forms of dance and performance art. She also has a talent for makeup and costume design.
+**Technical Skills**: Helene is skilled in various forms of dance and performance art. She also has a talent for makeup and costume design.
 
-Goals: Helene's goal is to become a famous performance artist and to be recognized for her talents. She also wants to overcome her addiction to exhibitionism and to be loved for who she truly is.
+**Goals**: Helene's goal is to become a famous performance artist and to be recognized for her talents. She also wants to overcome her addiction to exhibitionism and to be loved for who she truly is.
 
-Hobbies: Helene's hobbies include performing in public places, dancing, and experimenting with makeup and costume design. She also enjoys traveling to new places to perform and to meet new people.
+**Hobbies**: Helene's hobbies include performing in public places, dancing, and experimenting with makeup and costume design. She also enjoys traveling to new places to perform and to meet new people.
  
 
 ---

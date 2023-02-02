@@ -4,7 +4,7 @@ Team Leader: Becca
 
 Assignment: The travel industry has been greatly impacted by the pandemic, and backpackers are facing numerous challenges in their travels. Our team's goal is to create a solution that will help make traveling easier and more affordable for backpackers.
 
-Goals:
+**Goals**:
 
 Develop an online platform that connects backpackers with local hosts for affordable accommodation options.
 Create a virtual currency system that allows backpackers to exchange goods and services with local communities.

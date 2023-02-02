@@ -1,11 +1,11 @@
 Project Brief:
-Project Name: Streamlining the Freelance Industry
+Project **Name**: Streamlining the Freelance Industry
 Team Leader: Olga
 
 Assignment:
 The freelance industry is growing rapidly, but with its growth comes a number of challenges. Remote workers often struggle to find work, manage their finances, and connect with clients. This project aims to address these challenges and streamline the freelance industry to make it easier for remote workers to find and secure work, manage their finances, and connect with clients.
 
-Goals:
+**Goals**:
 
 Develop a platform that connects remote workers with clients.
 Implement a financial management system for remote workers.

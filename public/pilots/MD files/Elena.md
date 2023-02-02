@@ -4,7 +4,7 @@ Team Leader: Elena
 
 Assignment: Develop a new energy storage solution for renewable energy sources
 
-Goals:
+**Goals**:
 
 Develop a new energy storage solution that is more efficient and cost-effective compared to existing solutions.
 Test and validate the solution in real-world conditions.

@@ -4,7 +4,7 @@ Team Leader: Steffi
 
 Assignment: The religious organizations industry is facing numerous challenges in today's rapidly changing world. In order to address these challenges and help ensure the continued growth and success of religious organizations, a team of theologians is being assembled to work remotely from their PC's at home over the course of 90 days. The goal of this project is to create a roadmap for the future of religious organizations that addresses the most pressing challenges and provides a clear path forward for the industry.
 
-Goals:
+**Goals**:
 
 Identify the most pressing challenges facing religious organizations today.
 Develop a set of recommendations for addressing these challenges.

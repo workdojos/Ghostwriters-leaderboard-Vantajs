@@ -5,7 +5,7 @@ Team Leader: Pippi
 Assignment:
 The behavioral health industry is facing numerous challenges in providing access to mental health services for low-income populations. The current system is inadequate and leaves many individuals without access to the care they need. The goal of this project is to find a solution to this problem and improve access to behavioral health services for low-income populations.
 
-Goals:
+**Goals**:
 
 To research the current state of access to behavioral health services for low-income populations.
 To identify the barriers that prevent low-income individuals from accessing these services.

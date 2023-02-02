@@ -4,7 +4,7 @@ Team Leader: Josh
 
 Assignment: To increase the effectiveness and impact of executive coaching in the sales industry.
 
-Goals:
+**Goals**:
 
 To improve the communication skills of sales coaches through innovative and interactive training methods.
 To enhance the knowledge of sales coaches on the latest sales techniques and strategies.

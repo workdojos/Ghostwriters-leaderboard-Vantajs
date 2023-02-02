@@ -1,22 +1,22 @@
-Name: Dr. Carla Murphy
-Age: 45
-Location: Toronto, Canada
+**Name**: Dr. Carla Murphy
+**Age**: 45
+**Location**: Toronto, Canada
 
-History: Carla grew up in a small town in rural Ontario, where she developed a love for learning at a young age. She attended the University of Toronto for her undergraduate and graduate studies, earning a PhD in History. After completing her studies, she landed a teaching position at a small college in Ontario before moving on to teach at the University of Toronto. She has been a professor at the University of Toronto for the past 15 years, where she specializes in Canadian and Indigenous history.
+**History**: Carla grew up in a small town in rural Ontario, where she developed a love for learning at a young age. She attended the University of Toronto for her undergraduate and graduate studies, earning a PhD in **History**. After completing her studies, she landed a teaching position at a small college in Ontario before moving on to teach at the University of Toronto. She has been a professor at the University of Toronto for the past 15 years, where she specializes in Canadian and Indigenous history.
 
-Personality Traits: Carla is a dedicated and passionate professor, known for her engaging lectures and interactive teaching style. She is also quite reserved and can come across as cold or distant to those who don't know her well. She is a stickler for punctuality and expects the same from her students. She can be quite critical and is not afraid to give her honest opinion, but is always willing to give constructive feedback to help her students improve.
+**Personality Traits**: Carla is a dedicated and passionate professor, known for her engaging lectures and interactive teaching style. She is also quite reserved and can come across as cold or distant to those who don't know her well. She is a stickler for punctuality and expects the same from her students. She can be quite critical and is not afraid to give her honest opinion, but is always willing to give constructive feedback to help her students improve.
 
-Secrets: Carla has a secret love for gardening and spends her summers tending to her large vegetable garden. She also has a hidden talent for painting and has a small collection of her own work hanging in her home.
+**Secrets**: Carla has a secret love for gardening and spends her summers tending to her large vegetable garden. She also has a hidden talent for painting and has a small collection of her own work hanging in her home.
 
-Strengths: Carla is a highly knowledgeable and experienced professor, well-versed in Canadian and Indigenous history. She is also a skilled communicator and is able to convey complex ideas in a clear and understandable way.
+**Strengths**: Carla is a highly knowledgeable and experienced professor, well-versed in Canadian and Indigenous history. She is also a skilled communicator and is able to convey complex ideas in a clear and understandable way.
 
-Weaknesses: Carla can be quite strict and demanding, which can sometimes lead to conflict with her students. She can also be quite reserved and may struggle to connect with her students on a personal level.
+**Weaknesses**: Carla can be quite strict and demanding, which can sometimes lead to conflict with her students. She can also be quite reserved and may struggle to connect with her students on a personal level.
 
-Technical Skills: Carla is proficient in various research and presentation software, including Microsoft Office and Adobe Creative Suite. She also has experience with online teaching platforms and is able to create engaging and interactive digital content for her classes.
+**Technical Skills**: Carla is proficient in various research and presentation software, including Microsoft Office and Adobe Creative Suite. She also has experience with online teaching platforms and is able to create engaging and interactive digital content for her classes.
 
-Goals: Carla's main goal is to continue to publish research and to share her knowledge and passion for Canadian and Indigenous history with her students. She also hopes to continue to grow her gardening and painting hobbies, and to one day have her own exhibition of her work.
+**Goals**: Carla's main goal is to continue to publish research and to share her knowledge and passion for Canadian and Indigenous history with her students. She also hopes to continue to grow her gardening and painting hobbies, and to one day have her own exhibition of her work.
 
-Hobbies: In addition to gardening and painting, Carla enjoys hiking and camping in the Canadian wilderness. She also enjoys reading and has a particular interest in historical fiction.
+**Hobbies**: In addition to gardening and painting, Carla enjoys hiking and camping in the Canadian wilderness. She also enjoys reading and has a particular interest in historical fiction.
  
 
 ---

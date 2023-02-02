@@ -4,7 +4,7 @@ Team Leader: Selma
 
 Assignment: To research and develop a solution for the R&D industry that will allow remote teams of researchers to work effectively from their PC's at home.
 
-Goals:
+**Goals**:
 
 To improve productivity and efficiency for remote R&D teams.
 To ensure that remote researchers have access to the same resources and tools as their in-office counterparts.

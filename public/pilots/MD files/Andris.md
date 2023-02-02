@@ -4,7 +4,7 @@ Team Leader: Andris
 
 Assignment: To develop and implement a telemedicine platform for remote patient monitoring and care.
 
-Goals:
+**Goals**:
 
 To provide a secure and reliable platform for remote patient monitoring and care.
 To improve patient outcomes through enhanced communication between patients and healthcare providers.

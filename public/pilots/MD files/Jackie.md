@@ -5,7 +5,7 @@ Team Leader: Jackie
 Assignment:
 To create a solution that addresses the real-world consequences of the video game industry and how it affects both the players and the industry itself.
 
-Goals:
+**Goals**:
 
 To research and analyze the current state of the video game industry, including its strengths, weaknesses, opportunities, and challenges.
 To identify the key areas of concern for players, including issues such as addiction, violence, and exploitation.

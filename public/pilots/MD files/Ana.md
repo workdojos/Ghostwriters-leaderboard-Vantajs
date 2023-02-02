@@ -1,29 +1,29 @@
-Name: Dr. Ana Rodriguez
-Age: 38
-Location: Madrid, Spain
+**Name**: Dr. Ana Rodriguez
+**Age**: 38
+**Location**: Madrid, Spain
 
-History:
+**History**:
 Dr. Ana Rodriguez was born and raised in Madrid, Spain. She always had a passion for healthcare and knew from a young age that she wanted to become a doctor. She attended the University of Madrid Medical School and graduated with honors. After completing her residency, she worked in a hospital in Madrid for several years before deciding to open her own practice.
 
-Personality Traits:
+**Personality Traits**:
 Dr. Rodriguez is a dedicated and compassionate healthcare professional. She is always willing to go the extra mile to ensure that her patients receive the best care possible. She is patient, empathetic, and always puts the needs of her patients first. She is also very organized and efficient, making sure that her patients are seen in a timely manner and that their needs are met.
 
-Secrets:
+**Secrets**:
 Dr. Rodriguez has a secret addiction to prescription drugs. She started taking them to help her deal with the stress of her job but has since become dependent on them. She is ashamed of her addiction and goes to great lengths to keep it hidden from her colleagues and patients.
 
-Strengths:
+**Strengths**:
 Dr. Rodriguez is an excellent diagnostician and has a keen sense of observation. She is also a skilled surgeon and is well-versed in the latest medical treatments and technologies. She is also a natural leader and is respected by her colleagues.
 
-Weaknesses:
+**Weaknesses**:
 Dr. Rodriguez's addiction to prescription drugs is her biggest weakness. It has led to her neglecting her own health and has put her in a vulnerable position. She also struggles with perfectionism and can be overly critical of herself and others.
 
-Technical Skills:
+**Technical Skills**:
 Dr. Rodriguez is skilled in a wide range of medical procedures, including surgery, diagnostics, and emergency medicine. She is also well-versed in the latest medical technologies and is always looking for ways to improve her practice.
 
-Goals:
+**Goals**:
 Dr. Rodriguez's main goal is to help as many people as possible and to make a positive impact on the lives of her patients. She also wants to overcome her addiction to prescription drugs and regain control of her life.
 
-Hobbies:
+**Hobbies**:
 Dr. Rodriguez enjoys reading, traveling, and spending time with her family. She also has a passion for cooking and likes to experiment with new recipes in her free time.
  
 

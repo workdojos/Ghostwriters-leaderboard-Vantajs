@@ -4,7 +4,7 @@ Team Leader: Tina
 
 Assignment: To create a solution that revolutionizes the film industry for screenwriters and reduces the impact of industry struggles on the creative process.
 
-Goals:
+**Goals**:
 
 To create a platform that connects screenwriters with producers, directors, and investors directly.
 To provide a secure and user-friendly interface for screenwriters to share their work and receive feedback from industry professionals.

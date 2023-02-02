@@ -4,9 +4,9 @@ Team Leader: Melinda
 Team: Writers
 Assignment: Solve the Publishing Industry Puzzle
 Duration: 1 Month
-Location: Remote (PC's at Home)
+**Location**: Remote (PC's at Home)
 
-Goals:
+**Goals**:
 
 To identify the major challenges facing the publishing industry
 To research and analyze the impact of technology on the publishing industry

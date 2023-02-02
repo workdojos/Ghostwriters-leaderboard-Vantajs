@@ -1,24 +1,24 @@
-Name: Jerry "Green Thumb" Johnson
+**Name**: Jerry "Green Thumb" Johnson
 
-Age: 42
+**Age**: 42
 
-Location: Humboldt County, California
+**Location**: Humboldt County, California
 
-History: Jerry grew up in a small farming community in rural California. From a young age, he was fascinated with plants and gardening. As he grew older, he became more interested in the world of cannabis cultivation. After studying horticulture in college, he moved to Humboldt County to pursue a career as a cannabis grower.
+**History**: Jerry grew up in a small farming community in rural California. From a young age, he was fascinated with plants and gardening. As he grew older, he became more interested in the world of cannabis cultivation. After studying horticulture in college, he moved to Humboldt County to pursue a career as a cannabis grower.
 
-Personality Traits: Jerry is a laid-back, easy-going guy who is passionate about cannabis cultivation. He is a bit of a perfectionist when it comes to growing and is always experimenting with new strains and techniques. He is a bit of a loner and prefers to spend his time tending to his plants rather than socializing.
+**Personality Traits**: Jerry is a laid-back, easy-going guy who is passionate about cannabis cultivation. He is a bit of a perfectionist when it comes to growing and is always experimenting with new strains and techniques. He is a bit of a loner and prefers to spend his time tending to his plants rather than socializing.
 
-Secrets: Jerry is a bit of a lone wolf and keeps to himself, so not many people know much about him. He does have a secret, though - he has a small side-business selling high-quality cannabis to a select group of customers.
+**Secrets**: Jerry is a bit of a lone wolf and keeps to himself, so not many people know much about him. He does have a secret, though - he has a small side-business selling high-quality cannabis to a select group of customers.
 
-Strengths: Jerry is a master grower with a deep understanding of cannabis cultivation. He is an expert in soil and nutrient management, pest control, and crop management. He is also skilled at breeding and developing new strains of cannabis.
+**Strengths**: Jerry is a master grower with a deep understanding of cannabis cultivation. He is an expert in soil and nutrient management, pest control, and crop management. He is also skilled at breeding and developing new strains of cannabis.
 
-Weaknesses: Jerry's biggest weakness is his tendency to get lost in his work. He can become so focused on growing that he neglects other aspects of his life, such as relationships and personal health.
+**Weaknesses**: Jerry's biggest weakness is his tendency to get lost in his work. He can become so focused on growing that he neglects other aspects of his life, such as relationships and personal health.
 
-Technical Skills: Jerry is an expert in cannabis cultivation and has a deep understanding of the plant's genetics and physiology. He is skilled in using advanced growing techniques such as hydroponics, LED lighting, and climate control.
+**Technical Skills**: Jerry is an expert in cannabis cultivation and has a deep understanding of the plant's genetics and physiology. He is skilled in using advanced growing techniques such as hydroponics, LED lighting, and climate control.
 
-Goals: Jerry's ultimate goal is to develop the perfect strain of cannabis that will be recognized as the best in the world. He also wants to grow his side-business and become known as one of the best cannabis growers in the industry.
+**Goals**: Jerry's ultimate goal is to develop the perfect strain of cannabis that will be recognized as the best in the world. He also wants to grow his side-business and become known as one of the best cannabis growers in the industry.
 
-Hobbies: Jerry's main hobby is cannabis cultivation. He also enjoys hiking and camping in the beautiful wilderness of Humboldt County. He is also an avid collector of cannabis-related literature and memorabilia.
+**Hobbies**: Jerry's main hobby is cannabis cultivation. He also enjoys hiking and camping in the beautiful wilderness of Humboldt County. He is also an avid collector of cannabis-related literature and memorabilia.
 
 
 ---

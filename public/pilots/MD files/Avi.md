@@ -1,22 +1,22 @@
-Name: Avi Cohen
-Age: 42
-Location: Tel Aviv, Israel
+**Name**: Avi Cohen
+**Age**: 42
+**Location**: Tel Aviv, Israel
 
-History: Avi was born and raised in Tel Aviv, and from a young age, he was fascinated by the intricate designs and sparkling beauty of precious stones and jewelry. He began experimenting with jewelry making as a teenager, honing his skills and learning the art from his grandfather, a renowned jeweler in the city. After completing his schooling, Avi decided to pursue his passion and opened his own jewelry store in Tel Aviv.
+**History**: Avi was born and raised in Tel Aviv, and from a young age, he was fascinated by the intricate designs and sparkling beauty of precious stones and jewelry. He began experimenting with jewelry making as a teenager, honing his skills and learning the art from his grandfather, a renowned jeweler in the city. After completing his schooling, Avi decided to pursue his passion and opened his own jewelry store in Tel Aviv.
 
-Personality Traits: Avi is a creative and passionate individual, always eager to experiment with new designs and techniques. He is also a perfectionist, never satisfied until everything is just right. He is a friendly and outgoing person, always eager to meet new people and make connections. However, he can also be a bit of a workaholic, often neglecting his personal life in favor of his business.
+**Personality Traits**: Avi is a creative and passionate individual, always eager to experiment with new designs and techniques. He is also a perfectionist, never satisfied until everything is just right. He is a friendly and outgoing person, always eager to meet new people and make connections. However, he can also be a bit of a workaholic, often neglecting his personal life in favor of his business.
 
-Secrets: Avi has a secret love for vintage jewelry, often buying and collecting pieces from different eras and cultures. He also has a secret fear of failure, which often drives him to work harder and push himself to the limit.
+**Secrets**: Avi has a secret love for vintage jewelry, often buying and collecting pieces from different eras and cultures. He also has a secret fear of failure, which often drives him to work harder and push himself to the limit.
 
-Strengths: Avi is a skilled and experienced jeweler, with an eye for detail and a passion for creating beautiful and unique pieces. He is also a savvy businessman, with a keen understanding of the market and an ability to connect with customers.
+**Strengths**: Avi is a skilled and experienced jeweler, with an eye for detail and a passion for creating beautiful and unique pieces. He is also a savvy businessman, with a keen understanding of the market and an ability to connect with customers.
 
-Weaknesses: Avi's perfectionism can sometimes be a liability, leading him to spend too much time on a single piece and neglecting other important aspects of his business. He also struggles to maintain a work-life balance, often neglecting his personal relationships in favor of his work.
+**Weaknesses**: Avi's perfectionism can sometimes be a liability, leading him to spend too much time on a single piece and neglecting other important aspects of his business. He also struggles to maintain a work-life balance, often neglecting his personal relationships in favor of his work.
 
-Technical Skills: Avi is a master of traditional jewelry making techniques, such as setting stones, soldering, and engraving. He is also proficient in modern techniques such as 3D printing and laser cutting.
+**Technical Skills**: Avi is a master of traditional jewelry making techniques, such as setting stones, soldering, and engraving. He is also proficient in modern techniques such as 3D printing and laser cutting.
 
-Goals: Avi's ultimate goal is to create a global brand, with a reputation for quality and craftsmanship. He also hopes to continue to expand and diversify his product line, experimenting with new materials and designs.
+**Goals**: Avi's ultimate goal is to create a global brand, with a reputation for quality and craftsmanship. He also hopes to continue to expand and diversify his product line, experimenting with new materials and designs.
 
-Hobbies: In his free time, Avi enjoys traveling and exploring different cultures, often incorporating elements from his travels into his jewelry designs. He also enjoys reading and learning about the history of jewelry and precious stones.
+**Hobbies**: In his free time, Avi enjoys traveling and exploring different cultures, often incorporating elements from his travels into his jewelry designs. He also enjoys reading and learning about the history of jewelry and precious stones.
 
 
 

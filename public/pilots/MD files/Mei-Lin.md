@@ -1,13 +1,13 @@
 Project Brief:
 
-Project Name: Sociological Solutions for Social Inequality
+Project **Name**: Sociological Solutions for Social Inequality
 
 Team Leader: Mei-Lin
 
 Assignment:
 The team of sociologists will be working on a project aimed at finding solutions for social inequality in a real-world setting. The goal is to gather data, analyze it, and come up with recommendations that can be implemented to reduce the gap between different social classes.
 
-Goals:
+**Goals**:
 
 Conduct a thorough analysis of the current state of social inequality in a specific region.
 Identify the root causes of social inequality and the factors that contribute to it.

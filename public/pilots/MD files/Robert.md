@@ -4,7 +4,7 @@ Team Leader: Robert
 
 Assignment: The racing industry is facing major challenges in the current climate. As a team of race car drivers, you have been tasked with finding solutions to these problems and improving the future of the industry.
 
-Goals:
+**Goals**:
 
 Increase safety for all participants on the track, including drivers, crews, and fans.
 Increase the sustainability of the industry, with a focus on reducing waste and carbon emissions.

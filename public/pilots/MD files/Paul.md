@@ -1,29 +1,29 @@
-Name: Paul LeBlanc
-Age: 45
-Location: New Orleans, Louisiana
+**Name**: Paul LeBlanc
+**Age**: 45
+**Location**: New Orleans, Louisiana
 
-History:
+**History**:
 Paul LeBlanc was born and raised in the French Quarter of New Orleans. He grew up in a family of restaurateurs and learned the ins and outs of the food industry from a young age. After graduating from culinary school, Paul worked as a chef in several restaurants before deciding to strike out on his own and open his own franchise business.
 
-Personality Traits:
+**Personality Traits**:
 Paul is a charismatic and passionate individual. He is a natural leader and is well-liked by his employees. He is also a bit of a perfectionist and can be demanding when it comes to the quality of his food. Despite this, he is also known for his sense of humor and ability to make everyone feel at ease.
 
-Secrets:
+**Secrets**:
 Paul has a bit of a gambling addiction that he keeps hidden from most people. He frequents the casinos in the city and often loses more money than he can afford.
 
-Strengths:
+**Strengths**:
 Paul is a skilled chef and has a keen eye for detail when it comes to food preparation. He is also a savvy businessman and has been able to grow his franchise into a successful chain.
 
-Weaknesses:
+**Weaknesses**:
 Paul's gambling addiction can be a major weakness and has caused him financial difficulties in the past. He also tends to be a bit of a control freak and can struggle to delegate tasks to others.
 
-Technical Skills:
+**Technical Skills**:
 Paul is an expert in French cuisine and has a particular talent for creating delicious sauces. He is also well-versed in food safety regulations and has a deep understanding of the food industry as a whole.
 
-Goals:
+**Goals**:
 Paul's ultimate goal is to expand his franchise to multiple locations across the country. He also wants to open a high-end restaurant in the French Quarter that will showcase his culinary skills.
 
-Hobbies:
+**Hobbies**:
 Paul enjoys gambling in his free time and also likes to play poker with friends. He also has a passion for collecting vintage wine and spends a lot of time researching different bottles and vintages.
 
 

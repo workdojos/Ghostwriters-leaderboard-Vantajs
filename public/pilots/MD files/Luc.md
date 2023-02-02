@@ -5,7 +5,7 @@ Team Leader: Luc
 Assignment:
 The pharmaceutical industry is facing a significant challenge in prescription accuracy. With the increasing demand for prescription drugs, pharmacists are under increased pressure to dispense the right medication to patients. This project aims to improve the accuracy of prescriptions to ensure patient safety and reduce the risk of adverse drug events.
 
-Goals:
+**Goals**:
 
 Develop a comprehensive system to verify prescription accuracy in real-time.
 Reduce the number of prescription errors by 25% in the next 90 days.

@@ -5,7 +5,7 @@ Team Leader: Amadou
 Assignment:
 To improve reputation management strategies for the public relations industry in order to protect the reputation of clients and maintain a positive image in the public eye.
 
-Goals:
+**Goals**:
 
 Research and analyze current reputation management strategies in the public relations industry.
 Develop new and innovative reputation management strategies that address the challenges faced by PR reps in the current climate.

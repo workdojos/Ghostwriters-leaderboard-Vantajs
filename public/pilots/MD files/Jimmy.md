@@ -1,39 +1,39 @@
-Name: Rev. Jimmy Sunderland
-Age: 50
-Location: Los Angeles, CA
+**Name**: Rev. Jimmy Sunderland
+**Age**: 50
+**Location**: Los Angeles, CA
 
-History:
+**History**:
 Rev. Jimmy Sunderland was born and raised in a small town in Texas. He grew up in a devout Christian family and attended church every Sunday. As a teenager, he felt a calling to become a minister and decided to attend seminary school. After graduation, he became an associate pastor at a local church and eventually worked his way up to becoming the senior pastor. He built a strong following in his community and was known for his powerful sermons and ability to connect with people.
 
 In his late 30s, Rev. Sunderland felt a calling to reach a larger audience and decided to move to Los Angeles to start an evangelistic ministry. He has been traveling around the country for the past 10 years, preaching at churches, conferences, and rallies. He has gained a reputation as a dynamic and inspiring speaker, and his ministry has grown to reach thousands of people.
 
-Personality Traits:
+**Personality Traits**:
 Rev. Sunderland is a charismatic and passionate speaker who is deeply committed to his faith. He is also a kind and compassionate person who cares deeply about the well-being of others. He is a strong leader who is not afraid to take risks and is always looking for ways to reach more people with his message.
 
-Secrets:
+**Secrets**:
 Rev. Sunderland has struggled with a gambling addiction for many years. He has been able to keep it hidden from his family and congregation, but it has caused him to accumulate a significant amount of debt.
 
-Strengths:
+**Strengths**:
 
 Strong public speaking skills
 Ability to connect with people from all walks of life
 Strong leadership skills
 Passionate and committed to his faith
-Weaknesses:
+**Weaknesses**:
 
 Struggles with gambling addiction
 Can be a bit impulsive at times
 Can be overworked and neglect self-care
-Technical Skills:
+**Technical Skills**:
 
 Familiar with social media and online marketing
 Can use video editing software
-Goals:
+**Goals**:
 
 To reach even more people with his message
 To overcome his gambling addiction
 To build a larger and more diverse congregation
-Hobbies:
+**Hobbies**:
 
 Playing golf
 Reading theology books

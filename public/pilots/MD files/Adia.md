@@ -3,7 +3,7 @@ Title: Virtual Physical Therapy Platform
 Team Leader: Adia
 Assignment: To create a virtual physical therapy platform for patients that is accessible from their homes and can be supervised by physical therapists in real-time.
 
-Goals:
+**Goals**:
 
 To create a user-friendly platform that is accessible from any device with an internet connection.
 To provide a virtual space for patients to interact with physical therapists and receive real-time guidance and feedback.

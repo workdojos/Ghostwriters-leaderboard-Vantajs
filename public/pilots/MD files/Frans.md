@@ -4,7 +4,7 @@ Assignment: The Wholesale Industry Puzzle
 
 Team Leader: Frans
 
-Goals:
+**Goals**:
 
 To increase the overall efficiency of the wholesale industry by reducing the cost of production and distribution of goods.
 To improve the accuracy of inventory management to ensure that products are always in stock and readily available for customers.

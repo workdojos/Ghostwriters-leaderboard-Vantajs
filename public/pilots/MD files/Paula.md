@@ -1,5 +1,5 @@
-Name: Paula Randall
-Age: 32
+**Name**: Paula Randall
+**Age**: 32
 Occupation: Digital Marketer
 
 Appearance: Paula is a young, ambitious professional with a keen eye for detail. She has a polished, professional appearance and is always dressed in the latest fashion. She has a friendly, approachable demeanor and a quick wit.
@@ -27,7 +27,7 @@ Background: Paula has a degree in Marketing and has been working in the digital 
 
 Personality: Paula is a highly motivated and driven individual who is always looking for ways to improve her skills and advance her career. She is a natural leader and enjoys working in a team environment. She is also a creative thinker and is always looking for new and innovative ways to reach her target audience. She is a great problem solver and is always willing to go the extra mile to ensure the success of her campaigns.
 
-Goals: Paula's ultimate goal is to become a manager in a digital marketing agency and lead a team of marketers. She is also interested in starting her own digital marketing agency one day and is always looking for new opportunities to grow her skills and network.
+**Goals**: Paula's ultimate goal is to become a manager in a digital marketing agency and lead a team of marketers. She is also interested in starting her own digital marketing agency one day and is always looking for new opportunities to grow her skills and network.
  
 
 ---

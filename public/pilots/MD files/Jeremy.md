@@ -1,29 +1,29 @@
-Name: Jeremy Collins
-Age: 38
-Location: Los Angeles, California
+**Name**: Jeremy Collins
+**Age**: 38
+**Location**: Los Angeles, California
 
-History:
+**History**:
 Jeremy was born in a small town in Iowa and raised by his grandparents. He was fascinated by numbers and statistics from a young age, and was determined to pursue a career in the field of actuarial science. After graduating with a degree in mathematics from the University of Iowa, he moved to Los Angeles to work for a large insurance company. Over the years, he has become a respected actuary and has established himself as an expert in the field.
 
-Personality Traits:
+**Personality Traits**:
 Jeremy is a quiet and reserved person, who is often described as intelligent and analytical. He is a natural problem solver and has a keen eye for detail. He is also known for his patience and persistence, and is often able to find solutions to complex problems that others have overlooked. Despite his introverted nature, Jeremy has a great sense of humor and enjoys making people laugh.
 
-Secrets:
+**Secrets**:
 Jeremy has a secret love for country music, which he hides from his colleagues because he doesn't want to be judged for his taste in music. He also has a secret fear of public speaking, which he has been trying to overcome for years.
 
-Strengths:
+**Strengths**:
 Jeremy is an excellent problem solver and has a strong understanding of mathematical concepts. He is also a great communicator, and is able to explain complex ideas in simple terms.
 
-Weaknesses:
+**Weaknesses**:
 Jeremy can be a bit of a perfectionist, and can get bogged down in details. He can also be a bit reserved and can struggle to form close relationships with others.
 
-Technical Skills:
+**Technical Skills**:
 Jeremy is an expert in actuarial science, with a strong understanding of probability, statistics, and financial modeling. He is also proficient in data analysis and programming languages such as Python and R.
 
-Goals:
+**Goals**:
 Jeremy's ultimate goal is to become a partner in his firm and to help others understand the importance of actuarial science. He also wants to continue to develop his technical skills and to stay up to date with the latest developments in the field.
 
-Hobbies:
+**Hobbies**:
 In his free time, Jeremy enjoys reading science fiction novels, playing chess, and practicing his guitar. He also enjoys hiking and exploring the mountains in the nearby National Forest.
  
 

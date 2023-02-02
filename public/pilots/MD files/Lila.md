@@ -5,7 +5,7 @@ Team Leader: Lila
 Assignment:
 The social media industry is rapidly growing and has become an integral part of our daily lives. However, with this growth comes the increasing threat of online privacy and cybersecurity breaches. As influencers, we have a responsibility to our followers and must take action to address this issue.
 
-Goals:
+**Goals**:
 
 To create awareness and educate the public on online privacy and cybersecurity risks.
 To work with leading cybersecurity experts and social media companies to implement new privacy and security measures.

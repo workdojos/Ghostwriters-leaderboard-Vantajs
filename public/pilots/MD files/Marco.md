@@ -1,35 +1,35 @@
-Name: Marco Fenech
-Age: 35
-Location: Malta
+**Name**: Marco Fenech
+**Age**: 35
+**Location**: Malta
 
-History:
+**History**:
 Marco was born and raised in Malta, the son of a successful businessman. From a young age, he was exposed to the world of finance and investment, and quickly developed a passion for it. He attended university in London, where he earned a degree in economics and finance. After graduation, he returned to Malta and landed a job at a top investment bank.
 
-Personality Traits:
+**Personality Traits**:
 Marco is a highly ambitious and driven individual. He is confident in his abilities and is not afraid to take risks. He is also very analytical and detail-oriented, which helps him to make informed decisions. He is also very competitive and always strives to be the best.
 
-Secrets:
+**Secrets**:
 Despite his success, Marco has a deep-seated fear of failure. He also has a gambling addiction that he has managed to keep hidden from his colleagues and friends.
 
-Strengths:
+**Strengths**:
 
 Strong analytical skills
 Excellent problem-solving abilities
 Strong knowledge of financial markets and trends
 Good communication and negotiation skills
-Weaknesses:
+**Weaknesses**:
 
 Tendency to be overconfident
 Risk-taking behavior that can sometimes lead to poor decisions
 Difficulty with balancing work and personal life
-Technical Skills:
+**Technical Skills**:
 
 Advanced knowledge of Excel and financial modeling software
 Strong understanding of financial markets and investment strategies
-Goals:
+**Goals**:
 Marco's ultimate goal is to become a partner at his investment bank and to build a successful portfolio of investments. He also wants to be able to retire comfortably and to travel the world.
 
-Hobbies:
+**Hobbies**:
 
 Playing poker
 Traveling

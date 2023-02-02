@@ -4,7 +4,7 @@ Team Leader: Misty
 
 Assignment: To create a comprehensive plan and strategy for revamping the sales and marketing industry by utilizing social media management techniques and tools.
 
-Goals:
+**Goals**:
 
 To improve brand visibility and customer engagement through effective social media marketing campaigns.
 To create a strong online presence for the sales and marketing industry through innovative content creation and community building.

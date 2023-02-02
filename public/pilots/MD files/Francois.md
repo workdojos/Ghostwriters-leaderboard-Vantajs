@@ -1,40 +1,40 @@
-Name: Francois Dubois
-Age: 40
-Location: Paris, France
+**Name**: Francois Dubois
+**Age**: 40
+**Location**: Paris, France
 
-History:
+**History**:
 Francois was born and raised in Paris, France. He grew up in a family that owned a small coffee shop in the city center. From a young age, he was fascinated by the art of coffee making and would often help out in the shop during his free time. After finishing high school, he decided to pursue a career in the coffee industry and attended a prestigious coffee-making school in Italy.
 
 After graduation, he returned to Paris and took over the family coffee shop. He turned the small, local shop into a popular destination for coffee lovers from all over the city. He also opened a second location in a trendy neighborhood, catering to a younger crowd.
 
-Personality Traits:
+**Personality Traits**:
 Francois is a passionate and ambitious person. He takes great pride in the quality of his coffee and is always experimenting with new blends and brewing methods. He is also a perfectionist and is always striving to improve his craft. He is a friendly and welcoming person, and enjoys interacting with his customers.
 
-Secrets:
+**Secrets**:
 Francois has a secret love for poetry, and often writes poetry in his free time. He also has a fear of heights, and avoids going to the top of tall buildings.
 
-Strengths:
+**Strengths**:
 
 Expertise in coffee-making
 Strong business acumen
 Strong customer service skills
 Strong attention to detail
 Strong passion for his craft
-Weaknesses:
+**Weaknesses**:
 
 Perfectionism can lead to overworking and burnout
 Fear of heights can limit his ability to expand his business to taller buildings
-Technical Skills:
+**Technical Skills**:
 
 Expertise in coffee roasting and blending
 Strong knowledge of different brewing methods
 Strong knowledge of coffee equipment maintenance
-Goals:
+**Goals**:
 
 To open a third location in a different city in Europe
 To create a signature blend that will be recognized worldwide
 To expand his business to include online sales of coffee beans and equipment
-Hobbies:
+**Hobbies**:
 
 Writing poetry
 Traveling to different countries to try different types of coffee

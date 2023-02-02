@@ -1,22 +1,22 @@
-Name: Rina Andriamaro
-Age: 27
-Location: Antananarivo, Madagascar
+**Name**: Rina Andriamaro
+**Age**: 27
+**Location**: Antananarivo, Madagascar
 
-History: Rina was born and raised in Antananarivo, the capital city of Madagascar. She grew up in a musical family and was exposed to traditional Malagasy music from a young age. Rina's father was a musician and taught her how to play the valiha, a traditional Malagasy bamboo tube zither. Rina quickly fell in love with music and began writing her own songs.
+**History**: Rina was born and raised in Antananarivo, the capital city of Madagascar. She grew up in a musical family and was exposed to traditional Malagasy music from a young age. Rina's father was a musician and taught her how to play the valiha, a traditional Malagasy bamboo tube zither. Rina quickly fell in love with music and began writing her own songs.
 
 Personality: Rina is a shy and introverted person, but she is also very passionate about music. She is a perfectionist and is always striving to improve her skills. Rina is also a very sensitive person and is deeply affected by the struggles and injustices she sees in her country.
 
-Secrets: Rina has a secret love for Western pop music and often listens to it in private. She is also a bit of a hopeless romantic and has had a few unrequited crushes in the past.
+**Secrets**: Rina has a secret love for Western pop music and often listens to it in private. She is also a bit of a hopeless romantic and has had a few unrequited crushes in the past.
 
-Strengths: Rina's greatest strength is her musical talent. She is an exceptional valiha player and has a beautiful singing voice. Rina is also a very dedicated and hardworking person.
+**Strengths**: Rina's greatest strength is her musical talent. She is an exceptional valiha player and has a beautiful singing voice. Rina is also a very dedicated and hardworking person.
 
-Weaknesses: Rina's biggest weakness is her shyness. She struggles with stage fright and is often nervous when performing in front of large crowds. Rina is also very sensitive and can be easily hurt by criticism.
+**Weaknesses**: Rina's biggest weakness is her shyness. She struggles with stage fright and is often nervous when performing in front of large crowds. Rina is also very sensitive and can be easily hurt by criticism.
 
-Technical Skills: Rina is a skilled valiha player and singer. She is also proficient in playing the kabosy, a small Malagasy guitar. Rina is also a talented songwriter and often writes her own music.
+**Technical Skills**: Rina is a skilled valiha player and singer. She is also proficient in playing the kabosy, a small Malagasy guitar. Rina is also a talented songwriter and often writes her own music.
 
-Goals: Rina's ultimate goal is to become a successful musician and to use her music to raise awareness about the struggles of the Malagasy people. She also wants to share the beauty of Malagasy music with the world.
+**Goals**: Rina's ultimate goal is to become a successful musician and to use her music to raise awareness about the struggles of the Malagasy people. She also wants to share the beauty of Malagasy music with the world.
 
-Hobbies: Rina enjoys listening to music, writing songs, and playing her instruments. She also loves to read and watch movies in her free time. Rina is also a big fan of nature and likes to spend time in the countryside.
+**Hobbies**: Rina enjoys listening to music, writing songs, and playing her instruments. She also loves to read and watch movies in her free time. Rina is also a big fan of nature and likes to spend time in the countryside.
  
 
 ---

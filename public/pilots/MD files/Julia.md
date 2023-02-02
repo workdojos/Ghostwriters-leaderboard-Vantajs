@@ -4,7 +4,7 @@ Team Leader: Julia
 
 Assignment: The team of politicians will work remotely from their PC's at home to improve the efficiency of the political decision making processes. The goal is to reduce the time it takes for decisions to be made and increase the accuracy of the decisions that are made.
 
-Goals:
+**Goals**:
 
 To streamline the decision making process and reduce the time it takes for decisions to be made by 50%
 To increase the accuracy of the decisions that are made by 80%

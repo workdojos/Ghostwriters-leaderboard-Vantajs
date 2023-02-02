@@ -5,7 +5,7 @@ Title: The Climate Change Crisis
 Assignment:
 The team of yoga instructors, led by Isadora, is tasked with solving the dire consequences of climate change. The team will be working remotely from their PCs at home for one week.
 
-Goals:
+**Goals**:
 
 Research and analyze the causes and effects of climate change.
 Identify sustainable solutions to reduce the impact of climate change on the environment.

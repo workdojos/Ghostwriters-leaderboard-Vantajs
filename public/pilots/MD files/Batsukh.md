@@ -1,29 +1,29 @@
-Name: Batsukh Lkhagvasuren
-Age: 43
-Location: Ulaanbaatar, Mongolia
+**Name**: Batsukh Lkhagvasuren
+**Age**: 43
+**Location**: Ulaanbaatar, Mongolia
 
-History:
+**History**:
 Batsukh was born and raised in Ulaanbaatar, the capital of Mongolia. Growing up, he was always fascinated by the rich culture and history of his country. He studied history and archaeology at the National University of Mongolia and later went on to pursue a PhD in anthropology at the University of Moscow.
 
-Personality Traits:
+**Personality Traits**:
 Batsukh is a passionate and dedicated individual who is deeply committed to preserving and promoting Mongolian culture. He is a natural leader and is respected by his peers for his knowledge and expertise. He is also a gifted public speaker and is known for his ability to make complex concepts accessible to a wide audience.
 
-Secrets:
+**Secrets**:
 Batsukh has a secret fear of public speaking, despite his reputation as a gifted speaker. He often spends hours preparing for his speeches and is plagued by anxiety before each presentation.
 
-Strengths:
+**Strengths**:
 Batsukh is an expert in Mongolian history and culture, with a particular focus on the nomadic way of life. He is also a skilled researcher, with a talent for uncovering previously unknown historical facts.
 
-Weaknesses:
+**Weaknesses**:
 Batsukh can be a bit of a perfectionist and can be hard on himself when things don't go as planned. He can also be stubborn at times and can be resistant to change.
 
-Technical Skills:
+**Technical Skills**:
 Batsukh is proficient in several languages, including Mongolian, Russian, and English. He is also skilled in using various research tools, such as databases and archives.
 
-Goals:
+**Goals**:
 Batsukh's ultimate goal is to write a comprehensive history of Mongolia that will be used as a reference for generations to come. He also hopes to establish a cultural center in Ulaanbaatar that will promote Mongolian culture to a global audience.
 
-Hobbies:
+**Hobbies**:
 In his free time, Batsukh enjoys reading about Mongolian history and culture, as well as hiking and camping in the beautiful Mongolian wilderness. He is also an avid traveler and loves to explore new cultures and places.
  
 

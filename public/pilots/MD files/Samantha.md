@@ -1,24 +1,24 @@
-Name: Samantha "Sam" Smith
-Age: 27
-Location: Los Angeles, California
+**Name**: Samantha "Sam" Smith
+**Age**: 27
+**Location**: Los Angeles, California
 
-History: Samantha grew up in a small town in rural Ohio, where she developed a love for drawing and animation at a young age. She spent her childhood creating flip books and stop-motion animations with her siblings. In high school, she won a scholarship to attend an animation summer program at a prestigious art school in New York City. This experience solidified her desire to pursue a career in animation.
+**History**: Samantha grew up in a small town in rural Ohio, where she developed a love for drawing and animation at a young age. She spent her childhood creating flip books and stop-motion animations with her siblings. In high school, she won a scholarship to attend an animation summer program at a prestigious art school in New York City. This experience solidified her desire to pursue a career in animation.
 
 After graduating from high school, Samantha attended the California Institute of the Arts where she earned a degree in animation. She began her career as a junior animator at a small animation studio in Los Angeles. She quickly worked her way up the ranks and is now a lead animator at a well-known animation studio.
 
-Personality Traits: Samantha is highly creative and imaginative. She is a perfectionist and is always striving to improve her craft. She is also a team player and enjoys working with others to bring their ideas to life. She is confident in her abilities, but can also be a bit shy when it comes to sharing her own personal work.
+**Personality Traits**: Samantha is highly creative and imaginative. She is a perfectionist and is always striving to improve her craft. She is also a team player and enjoys working with others to bring their ideas to life. She is confident in her abilities, but can also be a bit shy when it comes to sharing her own personal work.
 
-Secrets: Samantha has a secret collection of flip books that she created as a child, which she keeps hidden in her closet. She is also secretly working on a personal animation project that she hopes to submit to a film festival in the near future.
+**Secrets**: Samantha has a secret collection of flip books that she created as a child, which she keeps hidden in her closet. She is also secretly working on a personal animation project that she hopes to submit to a film festival in the near future.
 
-Strengths: Samantha is highly skilled in animation software, such as Adobe After Effects and Maya. She is also a skilled artist and can create detailed storyboards and character designs. She is able to work well under pressure and is a quick learner.
+**Strengths**: Samantha is highly skilled in animation software, such as Adobe After Effects and Maya. She is also a skilled artist and can create detailed storyboards and character designs. She is able to work well under pressure and is a quick learner.
 
-Weaknesses: Samantha can be a bit of a control freak when it comes to her work, which can cause tension with her team members. She can also be prone to procrastination when it comes to personal projects.
+**Weaknesses**: Samantha can be a bit of a control freak when it comes to her work, which can cause tension with her team members. She can also be prone to procrastination when it comes to personal projects.
 
-Technical Skills: Samantha is an expert in 2D and 3D animation, as well as motion graphics. She is also proficient in Adobe Creative Suite, including Photoshop and Illustrator.
+**Technical Skills**: Samantha is an expert in 2D and 3D animation, as well as motion graphics. She is also proficient in Adobe Creative Suite, including Photoshop and Illustrator.
 
-Goals: Samantha's ultimate goal is to become a director of animation for a major studio. She is also working on building a portfolio of her own personal projects that she can use to pitch her ideas to studios.
+**Goals**: Samantha's ultimate goal is to become a director of animation for a major studio. She is also working on building a portfolio of her own personal projects that she can use to pitch her ideas to studios.
 
-Hobbies: Samantha enjoys drawing and painting in her free time. She also enjoys watching animated films and reading graphic novels. She is also an avid gamer and enjoys playing video games with her friends.
+**Hobbies**: Samantha enjoys drawing and painting in her free time. She also enjoys watching animated films and reading graphic novels. She is also an avid gamer and enjoys playing video games with her friends.
  
 
 ---

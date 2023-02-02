@@ -1,31 +1,31 @@
-Name: Dr. Elizabeth "Liz" Green
-Age: 35
-Location: Seattle, Washington, USA
+**Name**: Dr. Elizabeth "Liz" Green
+**Age**: 35
+**Location**: Seattle, Washington, USA
 
-History:
+**History**:
 Liz grew up in a small town in rural Oregon, where she spent most of her childhood exploring the forest and learning about the different plants and animals that lived there. She became fascinated with botany at a young age and decided to pursue it as a career. She attended the University of Oregon, where she earned a degree in botany, and then went on to earn a PhD in plant ecology at the University of Washington.
 
 After completing her education, Liz began working as a botanist for the National Park Service, where she spent several years studying the plant life in various national parks across the United States. She then took a job as a research scientist at the University of Washington, where she focused on the study of invasive plant species and their impact on the environment.
 
-Personality Traits:
+**Personality Traits**:
 Liz is a dedicated and passionate scientist, who is deeply committed to her work. She is also a bit of a perfectionist, and can be a bit of a workaholic at times. She is also very patient and methodical, and takes a great deal of care in her research.
 
-Secrets:
+**Secrets**:
 Liz has a secret fear of failure, and is often plagued by self-doubt. She also has a secret love of gardening, and often spends her free time tending to her own garden at home.
 
-Strengths:
+**Strengths**:
 Liz is an expert in botany, and is particularly knowledgeable about invasive plant species and their impact on the environment. She is also very detail-oriented and methodical in her work, which allows her to make accurate and reliable observations.
 
-Weaknesses:
+**Weaknesses**:
 Liz can be a bit of a workaholic, and can sometimes neglect her personal life in favor of her work. She can also be a bit of a perfectionist, and can be quite critical of herself when things don't go as planned.
 
-Technical Skills:
+**Technical Skills**:
 Liz is proficient in a variety of botanical techniques, including fieldwork, lab work, and data analysis. She is also proficient in a variety of software programs, including GIS, R, and Excel.
 
-Goals:
+**Goals**:
 Liz's goal is to make a significant contribution to the field of botany, and to improve our understanding of invasive plant species and their impact on the environment. She also hopes to eventually become a professor at a university, where she can teach and mentor young scientists.
 
-Hobbies:
+**Hobbies**:
 Liz's hobbies include gardening, hiking, and reading. She also enjoys traveling, and often takes trips to different parts of the world to study different plant species.
 
 

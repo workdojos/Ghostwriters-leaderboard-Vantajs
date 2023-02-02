@@ -5,7 +5,7 @@ Team Leader: Anna
 Assignment:
 A new virus has broken out in the zoo, infecting the animals and causing them to become aggressive and dangerous. The virus is spreading rapidly and the zookeepers must work together to find a cure before it’s too late.
 
-Goals:
+**Goals**:
 
 Identify the cause of the virus and determine the best course of action to cure it.
 Work together to gather all the information necessary to develop a cure.

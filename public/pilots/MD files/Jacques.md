@@ -5,7 +5,7 @@ Team Leader: Jacques
 Assignment:
 The wine industry is facing a major crisis as a new species of grapevine pest has been discovered and is rapidly spreading throughout vineyards, causing widespread damage and reducing yields. The pest is resistant to all known insecticides and fungicides, and there is no cure or solution in sight.
 
-Goals:
+**Goals**:
 The main goal of this puzzle challenge is to find a way to stop the spread of the grapevine pest and develop a solution to prevent further damage to the vineyards.
 
 Stakes:

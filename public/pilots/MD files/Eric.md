@@ -4,7 +4,7 @@ Team Leader: Eric
 
 Assignment: The clandestine services industry is facing a growing threat from cyber-attacks and data breaches. Our team of operations specialists is tasked with developing a secure and effective solution to address this issue in 90 days, while working remotely from their PC's at home.
 
-Goals:
+**Goals**:
 
 Conduct a thorough assessment of current cybersecurity measures used in the clandestine services industry
 Identify and analyze potential risks and vulnerabilities

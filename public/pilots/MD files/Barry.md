@@ -1,29 +1,29 @@
-Name: Barry Baker
-Age: 45
-Location: Chicago, Illinois
+**Name**: Barry Baker
+**Age**: 45
+**Location**: Chicago, Illinois
 
-History:
+**History**:
 Barry was born and raised in the South Side of Chicago, where he grew up in a working-class family. He was the first in his family to attend college, earning a degree in political science from the University of Illinois at Chicago. After graduation, he worked as a community organizer and eventually ran for and won a seat in the Illinois State Assembly. He has been serving as a legislator for the past 10 years and is now running for a seat in the United States Congress.
 
-Personality Traits:
+**Personality Traits**:
 Barry is a passionate and dedicated politician who is deeply committed to fighting for the rights and needs of his constituents. He is a strong believer in social justice and equality, and is not afraid to speak out against injustice and corruption. He is also a natural leader and is respected by his colleagues for his intelligence and integrity.
 
-Secrets:
+**Secrets**:
 Barry has a secret gambling addiction that he has been struggling to keep hidden from his family and colleagues. He often finds himself in debt and has even been known to make questionable decisions in order to pay off his debts.
 
-Strengths:
+**Strengths**:
 Barry is a skilled orator and is able to effectively communicate his message to a wide range of audiences. He is also a skilled negotiator and is able to bring different sides together to find common ground.
 
-Weaknesses:
+**Weaknesses**:
 Barry can be stubborn and unwilling to compromise on certain issues. He can also be easily swayed by powerful lobbyists and special interest groups.
 
-Technical Skills:
+**Technical Skills**:
 Barry is proficient in Microsoft Office and is able to use various social media platforms to connect with his constituents.
 
-Goals:
+**Goals**:
 Barry's ultimate goal is to become a United States Senator and use his position to bring about meaningful change on a national level.
 
-Hobbies:
+**Hobbies**:
 In his free time, Barry enjoys playing basketball and chess, and is also a avid reader of political biographies and non-fiction books.
  
 

@@ -1,29 +1,29 @@
-Name: Dr. Kavango Ndhlovu
-Age: 38
-Location: Windhoek, Namibia
+**Name**: Dr. Kavango Ndhlovu
+**Age**: 38
+**Location**: Windhoek, Namibia
 
-History:
+**History**:
 Dr. Ndhlovu grew up in a small village in rural Namibia, where he was first inspired to become a doctor by the local healer who helped his community. He was the first person in his village to attend university, where he studied medicine. After completing his studies, he returned to Namibia and began working as a neurologist in Windhoek.
 
-Personality Traits:
+**Personality Traits**:
 Dr. Ndhlovu is a dedicated and compassionate doctor who is deeply committed to helping his patients. He is also a deeply private person and keeps to himself outside of work. He is a bit of a perfectionist, always striving to improve his skills and knowledge.
 
-Secrets:
+**Secrets**:
 Dr. Ndhlovu has a secret fear of failure, stemming from his childhood where he was the only one who could escape his village and make something of himself.
 
-Strengths:
+**Strengths**:
 Dr. Ndhlovu is an expert in the field of neurology, with a particular focus on brain tumors and stroke. He is also a skilled surgeon and is known for his precision and attention to detail.
 
-Weaknesses:
+**Weaknesses**:
 Dr. Ndhlovu can be a bit aloof and distant with his colleagues, which can make it difficult for him to build strong relationships with them.
 
-Technical Skills:
+**Technical Skills**:
 Dr. Ndhlovu is skilled in a variety of diagnostic techniques and treatments, including MRI, CT scans, and brain surgery.
 
-Goals:
+**Goals**:
 Dr. Ndhlovu's ultimate goal is to establish a world-class neurology clinic in Namibia, where patients can receive the best possible care.
 
-Hobbies:
+**Hobbies**:
 In his free time, Dr. Ndhlovu enjoys reading and learning new things. He also enjoys hiking and exploring the natural beauty of Namibia.
  
 

@@ -4,7 +4,7 @@ Team Leader: Giovanni
 
 Assignment: The coaching industry is facing several challenges in terms of its impact on the workplace. The goal of this project is to find innovative ways for spiritual coaches to increase the effectiveness of their coaching sessions and make a tangible difference in their clients' lives.
 
-Goals:
+**Goals**:
 
 To develop a new coaching approach that integrates spiritual practices with traditional coaching techniques.
 To create a system that helps spiritual coaches measure the impact of their coaching sessions.

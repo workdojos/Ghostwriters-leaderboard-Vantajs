@@ -4,7 +4,7 @@ Team Leader: Michael
 
 Assignment: The fiduciary & security services industry is in need of a solution to streamline their processes and improve the overall efficiency of their operations. The team of trustees is tasked with developing and implementing a solution that addresses the current challenges faced by the industry within 90 days.
 
-Goals:
+**Goals**:
 
 Increase the speed of transactions and reduce the time required to complete them.
 Improve the accuracy and reliability of financial data and reporting.

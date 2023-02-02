@@ -1,29 +1,29 @@
-Name: Captain John "Jack" Hunter
-Age: 45
-Location: Currently based in San Francisco, California
+**Name**: Captain John "Jack" Hunter
+**Age**: 45
+**Location**: Currently based in San Francisco, California
 
-History:
+**History**:
 Captain Hunter was born and raised in a small coastal town in Maine. From a young age, he knew he wanted to be a sailor and set his sights on becoming a captain. After completing his education, he joined the merchant marine and worked his way up the ranks. He has spent the last 20 years working as a captain, mostly on cargo ships, but also has experience working on cruise ships.
 
-Personality Traits:
+**Personality Traits**:
 Captain Hunter is a strong leader who commands respect from his crew. He is level-headed and calm under pressure, which has helped him navigate through some dangerous situations. He is also a very detail-oriented person and is always checking and double-checking everything to ensure the safety of his crew and ship.
 
-Secrets:
+**Secrets**:
 Captain Hunter has a secret love for writing poetry, which he keeps hidden from everyone. He has a small notebook where he writes down his thoughts and feelings during his time at sea.
 
-Strengths:
+**Strengths**:
 Captain Hunter is a skilled navigator and is well-versed in all aspects of ship navigation and operation. He is also very experienced in handling emergency situations and is able to think on his feet.
 
-Weaknesses:
+**Weaknesses**:
 Despite his strong leadership skills, Captain Hunter can be a bit of a perfectionist, which can sometimes make him hard to work with. He also struggles with being away from his family for extended periods of time.
 
-Technical Skills:
+**Technical Skills**:
 Captain Hunter is certified in all aspects of ship navigation and operation. He is also proficient in using radar, GPS, and other navigation systems.
 
-Goals:
+**Goals**:
 Captain Hunter's ultimate goal is to retire and open a small bed and breakfast by the sea where he can write poetry and spend time with his family.
 
-Hobbies:
+**Hobbies**:
 When he's not at sea, Captain Hunter enjoys reading and writing poetry, fishing, and spending time with his family.
 
 

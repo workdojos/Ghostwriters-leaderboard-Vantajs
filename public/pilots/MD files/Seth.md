@@ -5,7 +5,7 @@ Team Leader: Seth
 
 Assignment: The National Park System is facing numerous challenges that are impacting its health and beauty, including invasive species, deforestation, and litter. The park rangers are being tasked with finding solutions to these challenges and implementing them within 90 days. The team will work remotely from their PCs at home.
 
-Goals:
+**Goals**:
 
 Identify the most pressing challenges facing the National Park System.
 Develop a comprehensive plan to address the challenges, including strategies for eradicating invasive species, reforestation, and reducing litter.

@@ -4,7 +4,7 @@ Team Leader: Renate
 
 Assignment: To create a virtual classroom experience that is engaging, interactive and effective for both teachers and students, with a focus on real-world applications.
 
-Goals:
+**Goals**:
 
 To design a virtual classroom that is user-friendly, intuitive and accessible to all teachers and students.
 To incorporate real-world scenarios and problem-solving activities that are relevant to the subject matter being taught.

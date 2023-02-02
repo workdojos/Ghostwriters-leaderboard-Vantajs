@@ -5,7 +5,7 @@ Team Leader: Andreas
 Assignment:
 The team of pathologists is assigned to conduct a study on virology in a remote work setting. The aim is to find a solution to a current issue in virology and present the findings within 90 days.
 
-Goals:
+**Goals**:
 
 To understand the current challenges in virology and the impact they have on public health.
 To identify potential solutions to the current challenges.

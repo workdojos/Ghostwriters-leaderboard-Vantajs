@@ -5,7 +5,7 @@ Team Leader: Anders
 Assignment:
 To develop a comprehensive digital preservation solution that will address the critical challenges facing the digital preservation industry in the real world.
 
-Goals:
+**Goals**:
 
 To increase the efficiency of digital preservation processes, thereby reducing the risk of data loss and corruption.
 To improve the accessibility of digital assets, making it easier for researchers and the public to access valuable historical and cultural content.

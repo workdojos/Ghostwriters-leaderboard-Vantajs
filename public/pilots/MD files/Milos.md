@@ -5,7 +5,7 @@ Team Leader: Milos
 Assignment:
 To improve communication and collaboration among remote teams in the business industry.
 
-Goals:
+**Goals**:
 
 To develop a system that allows remote teams to communicate and collaborate effectively in real-time.
 To increase the efficiency and productivity of remote teams.

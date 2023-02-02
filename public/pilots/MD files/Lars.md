@@ -5,7 +5,7 @@ Team Leader: Lars
 Assignment:
 The statistics industry is increasingly relying on predictive analytics to make informed business decisions. However, there is a growing concern that the accuracy of these predictions is not up to par. The team of statisticians is tasked with improving the accuracy of predictive analytics by 10% in 90 days.
 
-Goals:
+**Goals**:
 
 Identify and address the sources of error in current predictive analytics models
 Develop and implement strategies for improving the accuracy of predictive analytics

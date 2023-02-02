@@ -4,7 +4,7 @@ Team Leader: Isabella
 
 Assignment: To develop a solution that addresses the real-world consequences faced by the performing arts industry and revolutionize the workplace for thespians worldwide.
 
-Goals:
+**Goals**:
 
 To improve the overall financial stability of the performing arts industry
 To provide a platform for thespians to showcase their skills and connect with potential employers

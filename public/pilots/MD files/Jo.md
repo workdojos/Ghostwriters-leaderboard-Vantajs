@@ -1,12 +1,12 @@
 Project Brief:
-Project Name: Improving Customer Satisfaction in the Travel Industry
+Project **Name**: Improving Customer Satisfaction in the Travel Industry
 
 Team Leader: Jo
 
 Assignment:
 The travel industry has been impacted significantly by the COVID-19 pandemic, leading to decreased customer satisfaction and trust. The aim of this project is to improve customer satisfaction by offering personalized travel solutions to meet their unique needs and preferences.
 
-Goals:
+**Goals**:
 
 Research and understand customer needs and preferences in the travel industry.
 Identify and Jolyze customer feedback and complaints to understand areas of improvement.

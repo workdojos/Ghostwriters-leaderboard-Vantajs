@@ -4,7 +4,7 @@ Team Leader: Consuela
 
 Assignment: To find solutions to a common challenge in the retail industry and implement them in 90 days while working remotely from home.
 
-Goals:
+**Goals**:
 
 Increase sales and customer satisfaction
 Streamline processes and improve efficiency

@@ -1,24 +1,24 @@
-Name: Leila Bouaziz
+**Name**: Leila Bouaziz
 
-Age: 32
+**Age**: 32
 
-Location: Tunis, Tunisia
+**Location**: Tunis, Tunisia
 
-History: Leila was born and raised in Tunis, the capital city of Tunisia. She comes from a middle-class family and was raised in a traditional Tunisian household. She attended university in Tunis and graduated with a degree in International Relations. After graduation, she began working as a liaison for the Tunisian government, working closely with foreign diplomats and government officials.
+**History**: Leila was born and raised in Tunis, the capital city of Tunisia. She comes from a middle-class family and was raised in a traditional Tunisian household. She attended university in Tunis and graduated with a degree in International Relations. After graduation, she began working as a liaison for the Tunisian government, working closely with foreign diplomats and government officials.
 
-Personality Traits: Leila is a confident and charismatic individual. She is very good at communicating with people from all backgrounds and cultures. She is also very organized and efficient, which makes her great at her job. She is also very loyal to her country and is always looking for ways to promote Tunisia's interests on the world stage.
+**Personality Traits**: Leila is a confident and charismatic individual. She is very good at communicating with people from all backgrounds and cultures. She is also very organized and efficient, which makes her great at her job. She is also very loyal to her country and is always looking for ways to promote Tunisia's interests on the world stage.
 
-Secrets: Leila has a secret fear that she will never be able to live up to her family's expectations. She also has a secret passion for writing, but she has never shared this with anyone.
+**Secrets**: Leila has a secret fear that she will never be able to live up to her family's expectations. She also has a secret passion for writing, but she has never shared this with anyone.
 
-Strengths: Leila is very good at negotiating and building relationships. She is also very knowledgeable about Tunisia's history and culture, which is a great asset in her job.
+**Strengths**: Leila is very good at negotiating and building relationships. She is also very knowledgeable about Tunisia's history and culture, which is a great asset in her job.
 
-Weaknesses: Leila can be a bit too trusting of people, which has gotten her into trouble in the past. She can also be a bit too focused on her work, which can cause her to neglect her personal life.
+**Weaknesses**: Leila can be a bit too trusting of people, which has gotten her into trouble in the past. She can also be a bit too focused on her work, which can cause her to neglect her personal life.
 
-Technical Skills: Leila is proficient in several languages, including Arabic, French, and English. She is also very good with technology and is proficient in several software programs.
+**Technical Skills**: Leila is proficient in several languages, including Arabic, French, and English. She is also very good with technology and is proficient in several software programs.
 
-Goals: Leila's main goal is to promote Tunisia's interests on the world stage and to make sure that her country is recognized as a major player in the international community.
+**Goals**: Leila's main goal is to promote Tunisia's interests on the world stage and to make sure that her country is recognized as a major player in the international community.
 
-Hobbies: Leila enjoys reading, writing, and traveling. She also likes to cook traditional Tunisian dishes and is an avid collector of Tunisian art.
+**Hobbies**: Leila enjoys reading, writing, and traveling. She also likes to cook traditional Tunisian dishes and is an avid collector of Tunisian art.
  
 
 ---

@@ -2,7 +2,7 @@ Project Brief:
 
 Team Leader: Pim
 Assignment: Real-world Consequences for the Cryptocurrency Industry
-Goals: To solve a real-world problem in the cryptocurrency industry in 90 days, working remotely from home.
+**Goals**: To solve a real-world problem in the cryptocurrency industry in 90 days, working remotely from home.
 Stakes: The successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for token developers worldwide.
 Reserves: A budget of $100,000 will be allocated to cover any necessary expenses for the project, including software, hardware, and team member salaries.
 

@@ -1,26 +1,26 @@
-Name: Viktor Kuznetsov
-Age: 37
-Location: London, England
+**Name**: Viktor Kuznetsov
+**Age**: 37
+**Location**: London, England
 
-History: Viktor was born and raised in Moscow, Russia, where he studied computer science at a prestigious university. After graduation, he worked for several major tech companies in Russia before moving to London to pursue more international opportunities. He has been working as a consultant for the past 5 years, mostly helping companies in the finance and technology sectors.
+**History**: Viktor was born and raised in Moscow, Russia, where he studied computer science at a prestigious university. After graduation, he worked for several major tech companies in Russia before moving to London to pursue more international opportunities. He has been working as a consultant for the past 5 years, mostly helping companies in the finance and technology sectors.
 
-Personality Traits: Viktor is a confident and ambitious individual who is not afraid to speak his mind. He is also highly analytical and logical, which makes him a great problem-solver. However, he can come across as arrogant and dismissive of others' ideas at times.
+**Personality Traits**: Viktor is a confident and ambitious individual who is not afraid to speak his mind. He is also highly analytical and logical, which makes him a great problem-solver. However, he can come across as arrogant and dismissive of others' ideas at times.
 
-Secrets: Viktor has a gambling addiction that he keeps hidden from his colleagues and clients. He also has a strained relationship with his family back in Russia, as they disapprove of his lifestyle and career choices.
+**Secrets**: Viktor has a gambling addiction that he keeps hidden from his colleagues and clients. He also has a strained relationship with his family back in Russia, as they disapprove of his lifestyle and career choices.
 
-Strengths: Viktor is highly skilled in programming languages such as Python and Java, as well as database management and data analysis. He is also excellent at communicating technical concepts to non-technical stakeholders.
+**Strengths**: Viktor is highly skilled in programming languages such as Python and Java, as well as database management and data analysis. He is also excellent at communicating technical concepts to non-technical stakeholders.
 
-Weaknesses: Despite his analytical skills, Viktor struggles with understanding and empathizing with people's emotions and perspectives. He also tends to procrastinate and put off important tasks until the last minute.
+**Weaknesses**: Despite his analytical skills, Viktor struggles with understanding and empathizing with people's emotions and perspectives. He also tends to procrastinate and put off important tasks until the last minute.
 
-Technical Skills:
+**Technical Skills**:
 
 Programming languages: Python, Java, C++
 Database management: SQL, MongoDB
 Data analysis: R, SAS, Excel
 Cloud computing: AWS, Azure, Google Cloud
-Goals: Viktor's ultimate goal is to start his own consulting firm and become a leading expert in his field. He also hopes to one day overcome his gambling addiction and repair his relationship with his family.
+**Goals**: Viktor's ultimate goal is to start his own consulting firm and become a leading expert in his field. He also hopes to one day overcome his gambling addiction and repair his relationship with his family.
 
-Hobbies: In his free time, Viktor enjoys playing chess and reading science fiction novels. He also enjoys traveling to new cities and trying different cuisines.
+**Hobbies**: In his free time, Viktor enjoys playing chess and reading science fiction novels. He also enjoys traveling to new cities and trying different cuisines.
  
 
 ---

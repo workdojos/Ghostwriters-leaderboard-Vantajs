@@ -4,7 +4,7 @@ Team Leader: Dirk
 
 Assignment: The consulting industry has been facing a major challenge with the shift to remote work, resulting in a decrease in the efficiency of consulting teams. The team's goal is to address this issue by researching and implementing strategies to improve the efficiency of remote consulting teams.
 
-Goals:
+**Goals**:
 
 To increase the efficiency of remote consulting teams by 10% within 90 days.
 To provide practical recommendations for the consulting industry to improve the efficiency of remote consulting teams in the long term.

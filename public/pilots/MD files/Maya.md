@@ -1,22 +1,22 @@
-Name: Maya Patel
-Age: 32
-Location: Los Angeles, CA
+**Name**: Maya Patel
+**Age**: 32
+**Location**: Los Angeles, CA
 
-History: Maya was born and raised in Los Angeles, and always had a passion for film. She studied at the prestigious American Film Institute and graduated with a degree in Cinematography. After graduation, she worked as a camera assistant on various independent films and music videos before eventually working her way up to becoming a full-fledged cinematographer.
+**History**: Maya was born and raised in Los Angeles, and always had a passion for film. She studied at the prestigious American Film Institute and graduated with a degree in Cinematography. After graduation, she worked as a camera assistant on various independent films and music videos before eventually working her way up to becoming a full-fledged cinematographer.
 
-Personality Traits: Maya is a determined and hardworking individual who is dedicated to her craft. She is also very confident in her abilities and is not afraid to speak up for herself when it comes to making creative decisions on set. Despite her success, she is still humble and always willing to learn from others.
+**Personality Traits**: Maya is a determined and hardworking individual who is dedicated to her craft. She is also very confident in her abilities and is not afraid to speak up for herself when it comes to making creative decisions on set. Despite her success, she is still humble and always willing to learn from others.
 
-Secrets: Maya struggles with imposter syndrome and often feels like she doesn't belong in the film industry. She also has a fear of failure and often second-guesses herself.
+**Secrets**: Maya struggles with imposter syndrome and often feels like she doesn't belong in the film industry. She also has a fear of failure and often second-guesses herself.
 
-Strengths: Maya has a keen eye for composition and lighting, and is able to create beautiful and evocative images. She is also very organized and efficient on set, which helps her to stay on schedule and within budget.
+**Strengths**: Maya has a keen eye for composition and lighting, and is able to create beautiful and evocative images. She is also very organized and efficient on set, which helps her to stay on schedule and within budget.
 
-Weaknesses: Maya can be a bit of a perfectionist, which can sometimes lead to her being overly critical of herself and others. She also has a tendency to overwork herself and neglect her own well-being.
+**Weaknesses**: Maya can be a bit of a perfectionist, which can sometimes lead to her being overly critical of herself and others. She also has a tendency to overwork herself and neglect her own well-being.
 
-Technical Skills: Maya is skilled in using a variety of cameras and lenses, as well as lighting and grip equipment. She is also proficient in post-production software such as Final Cut Pro and Adobe Premiere.
+**Technical Skills**: Maya is skilled in using a variety of cameras and lenses, as well as lighting and grip equipment. She is also proficient in post-production software such as Final Cut Pro and Adobe Premiere.
 
-Goals: Maya's ultimate goal is to become a director of photography on feature films. She also wants to use her platform to tell stories that represent underrepresented communities and promote diversity in the film industry.
+**Goals**: Maya's ultimate goal is to become a director of photography on feature films. She also wants to use her platform to tell stories that represent underrepresented communities and promote diversity in the film industry.
 
-Hobbies: In her free time, Maya enjoys photography and travel. She also enjoys hiking and practicing yoga to clear her mind and relax.
+**Hobbies**: In her free time, Maya enjoys photography and travel. She also enjoys hiking and practicing yoga to clear her mind and relax.
  
 
 ---
