@@ -1541,15 +1541,15 @@ export default {
 
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "planet": "Dojo's World",
+        "year": "2023 (coming soon)",
+        "system": "Foundry VTT",
+        "gate": "Open to the Public",
+        "ring": "workdojos.com",
+        "headerTitle": "Work",
+        "headerSubtitle": "Dojos",
+        "subheaderTitle": "PROJECT BRIEFING & ROSTER",
+        "subheaderSubtitle": "A mundane adventure from 9-5.",
       },
       "options":{
         "eventsMarkdownPerMission": true
