@@ -24,7 +24,7 @@ Name: Adalynn
 ---
 * Disclaimer:  Text above was generated using the latest AI chatbot ChatGPT.  All characters are fictional.  To learn more about ChatGPT (or to try it yourself!), please click the following link:
 
-https://openai.com/blog/chatgpt/ [:ferris_wheel:](https://openai.com/blog/chatgpt/)
+https://openai.com/blog/chatgpt/ [:round_pushpin:](https://openai.com/blog/chatgpt/)
 
 To claim this character and gain access to all respective missions, please click the following link for 25% off our $25/month price:  
 
@@ -42,7 +42,7 @@ https://foundryvtt.com/ [:round_pushpin:](https://foundryvtt.com/)
 
 To learn more about our $25/month work dojos or to try out our service for free for 14 days:   
 
-https://workdojos.com [:round_pushpin:](https://workdojos)
+https://workdojos.com [:round_pushpin:](https://workdojos.com)
 
 Go to Dojo's World:   
 
