@@ -1,7 +1,7 @@
 <template>
   <Header :header="this.header" />
   <div class="content-container">
-    <section class="section-container" id="missions" style="width:435px; height:914px;">
+    <section class="section-container" id="missions" style="width:435px; height:714px;">
       <div class="section-header clipped-medium-backward">
         <img src="/icons/mission-icon.svg" />
         <h1>Background</h1>
@@ -21,7 +21,7 @@
         </div>
       </div>
     </section>
-    <section class="section-container" id="pilots" style="width:894px; height:914px;">
+    <section class="section-container" id="pilots" style="width:894px; height:714px;">
       <div style="height:52px; overflow:hidden;">
         <div class="section-header clipped-medium-backward-pilot">
           <img src="/icons/pilot-icon.svg" />
