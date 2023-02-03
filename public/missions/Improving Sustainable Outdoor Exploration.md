@@ -1,5 +1,28 @@
-# Mission // #
+# Mission // #Improving Sustainable Outdoor Exploration
 
+Project Brief:
+Project Title: Improving Sustainable Outdoor Exploration
+
+Team Leader: Alex
+
+Assignment:
+To create a sustainable outdoor exploration solution that reduces the impact of human activities on the environment, wildlife and wildlife habitats, while enhancing the exploration experience.
+
+Goals:
+
+Develop and implement a new set of eco-friendly guidelines for outdoor exploration
+Create a mapping system that minimizes the human footprint on the environment
+Reduce the use of single-use plastics in the exploration process
+Promote alternative energy sources for powering equipment during expeditions
+Stakes:
+The stakes for this project are high, as the negative impact of human activities on the environment has far-reaching consequences. If this project is successful, it will have a positive impact on the environment and wildlife, and will help to preserve it for future generations.
+
+Reserves:
+
+Access to satellite imagery and mapping technology
+Budget to support the purchase of eco-friendly equipment and supplies
+Collaboration with experts in the field of environmental science, wildlife conservation, and sustainable exploration
+Successful completion of this project will grant all contributing members XP and will unlock a new challenge in our ultimate quest to revolutionize exploration worldwide. By implementing sustainable solutions, we hope to inspire others in the industry to take similar action and to create a lasting impact on the environment.
 
 ---
 
