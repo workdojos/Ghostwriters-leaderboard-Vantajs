@@ -594,57 +594,57 @@ export default {
           "status": "start"
         },
         {
-          "slug": "Revitalizing the Arcade Industry",
+          "slug": "098",
           "name": "Revitalizing the Arcade Industry",
           "status": "start"
         },
         {
-          "slug": "Revitalizing the Art Industry",
+          "slug": "099",
           "name": "Revitalizing the Art Industry",
           "status": "start"
         },
         {
-          "slug": "Revitalizing the Beer Brewing Industry",
+          "slug": "100",
           "name": "Revitalizing the Beer Brewing Industry",
           "status": "start"
         },
         {
-          "slug": "Revitalizing the Performing Arts Industry",
+          "slug": "101",
           "name": "Revitalizing the Performing Arts Industry",
           "status": "start"
         },
         {
-          "slug": "Revitalizing the Publishing Industry for Ghostwriters",
+          "slug": "102",
           "name": "Revitalizing the Publishing Industry for Ghostwriters",
           "status": "start"
         },
         {
-          "slug": "Revolutionize the Automotive Industry for Dealership Owners",
+          "slug": "103",
           "name": "Revolutionize the Automotive Industry for Dealership Owners",
           "status": "start"
         },
         {
-          "slug": "Revolutionizing Book-keeping for Administrators",
+          "slug": "104",
           "name": "Revolutionizing Book-keeping for Administrators",
           "status": "start"
         },
         {
-          "slug": "Revolutionizing Higher Education Industry",
+          "slug": "105",
           "name": "Revolutionizing Higher Education Industry",
           "status": "start"
         },
         {
-          "slug": "Revolutionizing Journalism",
+          "slug": "106",
           "name": "Revolutionizing Journalism",
           "status": "start"
         },
         {
-          "slug": "Revolutionizing the Advertising Industry",
+          "slug": "107",
           "name": "Revolutionizing the Advertising Industry",
           "status": "start"
         },
         {
-          "slug": "Revolutionizing the Exhibition Industry",
+          "slug": "108",
           "name": "Revolutionizing the Exhibition Industry",
           "status": "start"
         },
@@ -659,72 +659,67 @@ export default {
           "status": "start"
         },
         {
-          "slug": "Revolutionizing the Martial Arts Industry",
+          "slug": "111",
           "name": "Revolutionizing the Martial Arts Industry",
           "status": "start"
         },
         {
-          "slug": "Revolutionizing the Publishing Industry",
+          "slug": "110",
           "name": "Revolutionizing the Publishing Industry",
           "status": "start"
         },
         {
-          "slug": "Revolutionizing the Startup Financing Industry",
+          "slug": "112",
           "name": "Revolutionizing the Startup Financing Industry",
           "status": "start"
         },
         {
-          "slug": "Revolutionizing the Travel Industry for Backpackers",
+          "slug": "113",
           "name": "Revolutionizing the Travel Industry for Backpackers",
           "status": "start"
         },
         {
-          "slug": "Revolutionizing the Workplace for Philosophers",
+          "slug": "114",
           "name": "Revolutionizing the Workplace for Philosophers",
           "status": "start"
         },
         {
-          "slug": "Revolutionizing the Workplace for Web Designers",
+          "slug": "115",
           "name": "Revolutionizing the Workplace for Web Designers",
           "status": "start"
         },
         {
-          "slug": "Revolutionizing the Writing & Publishing Industry",
+          "slug": "116",
           "name": "Revolutionizing the Writing & Publishing Industry",
           "status": "start"
         },
         {
-          "slug": "Revolutionizing Web Design",
+          "slug": "117",
           "name": "Revolutionizing Web Design",
           "status": "start"
         },
         {
-          "slug": "Risk Assessment Model for Natural Disasters",
+          "slug": "118",
           "name": "Risk Assessment Model for Natural Disasters",
           "status": "start"
         },
         {
-          "slug": "Social Media Influencer Campaign for Better Online Privacy",
+          "slug": "119",
           "name": "Social Media Influencer Campaign for Better Online Privacy",
           "status": "start"
         },
         {
-          "slug": "Social Media Influencer Campaign for Better Online Privacy",
-          "name": "Social Media Influencer Campaign for Better Online Privacy",
-          "status": "start"
-        },
-        {
-          "slug": "Sociological Solutions for Social Inequality",
+          "slug": "120",
           "name": "Sociological Solutions for Social Inequality",
           "status": "start"
         },
         {
-          "slug": "Solve Police Corruption in 90 Days",
+          "slug": "121",
           "name": "Solve Police Corruption in 90 Days",
           "status": "start"
         },
         {
-          "slug": "Solve the Publishing Industry Puzzle",
+          "slug": "122",
           "name": "Solve the Publishing Industry Puzzle",
           "status": "start"
         },
@@ -734,117 +729,117 @@ export default {
           "status": "start"
         },
         {
-          "slug": "Streamlining the Freelance Industry",
+          "slug": "123",
           "name": "Streamlining the Freelance Industry",
           "status": "start"
         },
         {
-          "slug": "Sustainability in the Coffee Industry",
+          "slug": "124",
           "name": "Sustainability in the Coffee Industry",
           "status": "start"
         },
         {
-          "slug": "The Biotech Revolution",
+          "slug": "125",
           "name": "The Biotech Revolution",
           "status": "start"
         },
         {
-          "slug": "The Climate Change Crisis for Yogis",
+          "slug": "126",
           "name": "The Climate Change Crisis for Yogis",
           "status": "start"
         },
         {
-          "slug": "The Digital Marketing Crisis",
+          "slug": "127",
           "name": "The Digital Marketing Crisis",
           "status": "start"
         },
         {
-          "slug": "The Effect of Artificial Intelligence on Employment",
+          "slug": "128",
           "name": "The Effect of Artificial Intelligence on Employment",
           "status": "start"
         },
         {
-          "slug": "The Future of Cinema",
+          "slug": "129",
           "name": "The Future of Cinema",
           "status": "start"
         },
         {
-          "slug": "The Future of Racing",
+          "slug": "130",
           "name": "The Future of Racing",
           "status": "start"
         },
         {
-          "slug": "The Future of Religious Organizations",
+          "slug": "131",
           "name": "The Future of Religious Organizations",
           "status": "start"
         },
         {
-          "slug": "The Future of Sustainable Design",
+          "slug": "132",
           "name": "The Future of Sustainable Design",
           "status": "start"
         },
         {
-          "slug": "The Impact of Climate Change on the Outdoor Adventure Industry",
+          "slug": "133",
           "name": "The Impact of Climate Change on the Outdoor Adventure Industry",
           "status": "start"
         },
         {
-          "slug": "The Remote Revolution in Performing Arts",
+          "slug": "134",
           "name": "The Remote Revolution in Performing Arts",
           "status": "start"
         },
         {
-          "slug": "The Remote Startup Industry Challenge",
+          "slug": "135",
           "name": "The Remote Startup Industry Challenge",
           "status": "start"
         },
         {
-          "slug": "The Retail Industry Challenge",
+          "slug": "136",
           "name": "The Retail Industry Challenge",
           "status": "start"
         },
         {
-          "slug": "The Weekend Warrior Challenge",
+          "slug": "138",
           "name": "The Weekend Warrior Challenge",
           "status": "start"
         },
         {
-          "slug": "The Wholesale Industry Puzzle",
+          "slug": "139",
           "name": "The Wholesale Industry Puzzle",
           "status": "start"
         },
         {
-          "slug": "Uncovering Corporate Espionage",
+          "slug": "140",
           "name": "Uncovering Corporate Espionage",
           "status": "start"
         },
         {
-          "slug": "Virology Study",
+          "slug": "141",
           "name": "Virology Study",
           "status": "start"
         },
         {
-          "slug": "Virtual Managed Services Project",
+          "slug": "142",
           "name": "Virtual Managed Services Project",
           "status": "start"
         },
         {
-          "slug": "Virtual Physical Therapy Platform",
+          "slug": "143",
           "name": "Virtual Physical Therapy Platform",
           "status": "start"
         },
         {
-          "slug": "Virtual Reality Training and Safety Standards",
+          "slug": "144",
           "name": "Virtual Reality Training and Safety Standards",
           "status": "start"
         },
         {
-          "slug": "Wine Industry Puzzle Challenge",
+          "slug": "145",
           "name": "Wine Industry Puzzle Challenge",
           "status": "start"
         },
         {
-          "slug": "Zookeeper Puzzle",
+          "slug": "146",
           "name": "Zookeeper Puzzle",
           "status": "start"
         },
