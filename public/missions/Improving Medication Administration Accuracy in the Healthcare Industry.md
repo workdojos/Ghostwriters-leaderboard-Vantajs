@@ -1,5 +1,29 @@
-# Mission // #
+# Mission // #Improving Medication Administration Accuracy in the Healthcare Industry
 
+Project Brief: Improving Medication Administration Accuracy in the Healthcare Industry
+
+Team Leader: Maria
+Team Members: Registered Nurses
+
+Assignment:
+The registered nurse team will work remotely to design and implement a solution that addresses the issue of medication administration errors in the healthcare industry. The team will have 90 days to complete the project.
+
+Goals:
+
+To reduce medication administration errors by 50% within 90 days of implementation.
+To develop a standard operating procedure (SOP) that ensures accurate and consistent medication administration.
+To train all healthcare workers on the new SOP and its importance in patient safety.
+Stakes:
+
+Medication administration errors can result in serious harm or even death to patients.
+Such errors can lead to malpractice lawsuits, loss of license, and decreased trust in the healthcare industry.
+Improving medication administration accuracy will lead to better patient outcomes and satisfaction.
+Reserves:
+
+The team will be given access to relevant research articles, guidelines, and best practices related to medication administration.
+The team leader will be available to provide guidance and support throughout the project.
+The team will have access to technology that can help streamline the implementation process.
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in the ultimate quest to revolutionize the workplace for registered nurses worldwide.
 
 ---
 

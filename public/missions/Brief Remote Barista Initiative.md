@@ -1,5 +1,25 @@
-# Mission // #
+# Mission // #Brief Remote Barista Initiative
 
+Project Brief: Remote Barista Initiative
+
+Team Leader: Emma
+
+Assignment:
+The coffee and hospitality industry has been hit hard by the pandemic, with many coffee shops closing their doors and baristas facing unemployment. Our team of baristas will work together remotely to find a solution to the challenges faced by the industry and to create a brighter future for those who work in it.
+
+Goals:
+
+To identify and analyze the major challenges faced by the coffee and hospitality industry in the current climate.
+To develop a comprehensive strategy to address these challenges and to support baristas and coffee shops in their efforts to survive and thrive.
+To implement and evaluate the impact of this strategy over a 90-day period.
+Stakes:
+The success of this project has real-world consequences for baristas and coffee shops worldwide. A successful outcome will ensure that baristas can continue to work in the industry and that coffee shops can remain open, providing much-needed employment and services to their communities.
+
+Reserves:
+The team will have access to relevant industry data, expert insights, and the latest technological tools to support their work. The team will also receive support from experienced baristas and coffee industry experts to help them achieve their goals.
+
+Successful Completion:
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for baristas worldwide. The results of this project will also be shared with baristas and coffee shops around the world to help them overcome the challenges they face and to create a brighter future for the industry.
 
 ---
 

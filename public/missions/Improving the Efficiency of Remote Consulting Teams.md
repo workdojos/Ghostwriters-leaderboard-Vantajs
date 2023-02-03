@@ -1,5 +1,20 @@
-# Mission // #
+# Mission // #Improving the Efficiency of Remote Consulting Teams
 
+Project Brief: Improving the Efficiency of Remote Consulting Teams
+
+Team Leader: Dirk
+
+Assignment: The consulting industry has been facing a major challenge with the shift to remote work, resulting in a decrease in the efficiency of consulting teams. The team's goal is to address this issue by researching and implementing strategies to improve the efficiency of remote consulting teams.
+
+Goals:
+
+To increase the efficiency of remote consulting teams by 10% within 90 days.
+To provide practical recommendations for the consulting industry to improve the efficiency of remote consulting teams in the long term.
+Stakes: The success of this project has real-world consequences for the consulting industry. Improving the efficiency of remote consulting teams can lead to increased productivity and revenue, and can also benefit the reputation of the consulting industry as a whole.
+
+Reserves: The team will be provided with a budget of $50,000 to be used for research and implementation of the strategies. The team will also have access to various resources such as databases, industry reports, and academic journals.
+
+Successful completion of the project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for strategists worldwide.
 
 ---
 

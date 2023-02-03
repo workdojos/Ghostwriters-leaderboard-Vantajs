@@ -1,5 +1,28 @@
-# Mission // #
+# Mission // #The Remote Revolution in Performing Arts
 
+Project Brief: The Remote Revolution in Performing Arts
+
+Team Leader: Isabella
+
+Assignment: To develop a solution that addresses the real-world consequences faced by the performing arts industry and revolutionize the workplace for thespians worldwide.
+
+Goals:
+
+To improve the overall financial stability of the performing arts industry
+To provide a platform for thespians to showcase their skills and connect with potential employers
+To increase the accessibility of performing arts to a wider audience
+To enhance the collaboration and networking opportunities within the industry
+Stakes:
+
+The performing arts industry is facing financial strain due to the COVID-19 pandemic and the closure of live venues.
+Many thespians are struggling to find work and are facing unemployment.
+The industry is facing a decline in audience numbers due to the lack of live performances.
+Reserves:
+
+The team has 90 days to complete the project and present a solution to the industry.
+The team will work remotely from their PC's at home.
+The team will have access to industry experts and relevant resources to support their research and development.
+Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for thespians worldwide. The project outcome will be evaluated based on its ability to meet the goals, improve the industry, and benefit the thespians.
 
 ---
 

@@ -1,5 +1,30 @@
-# Mission // #
+# Mission // #Sociological Solutions for Social Inequality
 
+Project Brief:
+
+Project Name: Sociological Solutions for Social Inequality
+
+Team Leader: Mei-Lin
+
+Assignment:
+The team of sociologists will be working on a project aimed at finding solutions for social inequality in a real-world setting. The goal is to gather data, analyze it, and come up with recommendations that can be implemented to reduce the gap between different social classes.
+
+Goals:
+
+Conduct a thorough analysis of the current state of social inequality in a specific region.
+Identify the root causes of social inequality and the factors that contribute to it.
+Develop recommendations for reducing social inequality and promoting equality of opportunity.
+Communicate the findings and recommendations to the relevant stakeholders and organizations.
+Stakes:
+The success of this project has significant real-world consequences. The findings and recommendations of this project will be used by organizations and policymakers to tackle social inequality and promote equality of opportunity.
+
+Reserves:
+
+Access to relevant data and information on social inequality.
+A team of knowledgeable and experienced sociologists.
+Effective communication and collaboration tools for working remotely.
+Adequate resources, including time and budget, to complete the project.
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in the ultimate quest to revolutionize the workplace for sociologists worldwide.
 
 ---
 

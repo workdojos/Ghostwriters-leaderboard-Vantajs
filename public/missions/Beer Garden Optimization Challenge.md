@@ -1,5 +1,24 @@
-# Mission // #
+# Mission // #Beer Garden Optimization Challenge
 
+Project Brief: Beer Garden Optimization Challenge
+
+Team Leader: Uwe
+
+Assignment: To optimize the beer garden operations and increase profits while reducing costs and improving customer experience in 90 days.
+
+Goals:
+
+Increase beer sales by 10% through effective marketing strategies and promotions.
+Reduce operational costs by 5% by implementing cost-saving measures and streamlining processes.
+Improve customer satisfaction by 20% by enhancing the overall beer garden experience through upgrades and customer-focused initiatives.
+Stakes: The success of the beer garden industry depends on the ability to stay competitive in a crowded market. The consequences of failing to meet these goals could result in a decrease in profits, loss of customers, and ultimately, the closure of beer gardens.
+
+Reserves: The team will have access to the following resources:
+
+Data analytics software to track sales and customer behavior.
+Access to industry experts and consultants for advice and guidance.
+A budget of $50,000 to invest in upgrades, promotions, and marketing initiatives.
+Successful completion of this challenge will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize beer gardens worldwide. The team will have the opportunity to demonstrate their expertise and drive change in the industry, making a lasting impact on the future of beer gardens.
 
 ---
 

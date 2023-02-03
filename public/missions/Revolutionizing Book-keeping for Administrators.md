@@ -1,5 +1,28 @@
-# Mission // #
+# Mission // #Revolutionizing Book-keeping for Administrators
 
+Project Brief: Revolutionizing Book-keeping for Administrators
+
+Team Leader: Marcia
+
+Assignment: The book-keeping industry is facing numerous challenges in terms of efficiency, accuracy, and security. Our team of administrators will work together to come up with innovative solutions that can improve the way book-keeping is done in the real world.
+
+Goals:
+
+Develop a secure and user-friendly platform that streamlines the book-keeping process.
+Enhance the accuracy of financial records by implementing a robust verification and reconciliation system.
+Enhance the efficiency of the book-keeping process by introducing automation wherever possible.
+Develop a reporting system that provides real-time insights into financial data, helping businesses make informed decisions.
+Stakes:
+
+The book-keeping industry is an essential part of the financial system and a more efficient and accurate process will help businesses make better decisions.
+The success of this project will impact the careers and livelihoods of administrators worldwide.
+A more efficient and secure book-keeping process will help prevent financial fraud and ensure compliance with legal requirements.
+Reserves:
+
+The team will be working remotely from their PC's at home.
+The project will be completed within 90 days.
+The team will have access to the latest tools and technology to help them achieve their goals.
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for administrators worldwide.
 
 ---
 

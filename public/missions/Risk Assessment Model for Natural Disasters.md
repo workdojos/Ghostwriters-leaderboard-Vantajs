@@ -1,5 +1,36 @@
-# Mission // #
+# Mission // #Risk Assessment Model for Natural Disasters
 
+Project Brief:
+
+Team Leader: John Doe
+
+Assignment: Develop a Risk Assessment Model for Natural Disasters
+
+Goals:
+
+Develop a risk assessment model that accurately predicts the likelihood and potential consequences of natural disasters in a given area.
+
+Develop a data collection and analysis process that accurately represents the impact of natural disasters on different communities.
+
+Develop recommendations for mitigating the impact of natural disasters in the most vulnerable communities.
+
+Stakes:
+
+The risk assessment industry is facing increased scrutiny and pressure to provide accurate and reliable risk assessments.
+
+Natural disasters are becoming more frequent and severe, causing significant harm to communities, businesses, and governments.
+
+The insurance industry is relying on accurate risk assessments to ensure they are able to provide the coverage necessary to protect policyholders.
+
+Reserves:
+
+A team of actuaries with expertise in risk assessment, data analysis, and natural disasters.
+
+Access to data and research on natural disasters and their impact.
+
+An online collaboration platform to allow team members to work remotely from their PCs at home.
+
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for actuaries worldwide.
 
 ---
 

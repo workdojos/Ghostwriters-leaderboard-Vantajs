@@ -1,5 +1,27 @@
-# Mission // #
+# Mission // #Revitalizing the Performing Arts Industry
 
+Project Brief: Revitalizing the Performing Arts Industry
+
+Team Leader: Adalynn
+
+Assignment:
+To create a solution for the struggling performing arts industry that will increase audience attendance, revenue, and recognition for playwrights.
+
+Goals:
+
+Increase audience attendance by 20% in the first year.
+Increase revenue by 30% in the first year.
+Increase recognition for playwrights through innovative marketing strategies.
+Stakes:
+
+Failure to achieve the goals will result in a decrease in funding for the performing arts industry.
+A decline in the industry will lead to a decrease in opportunities for playwrights to showcase their work.
+Reserves:
+
+Access to market research data to understand audience trends.
+Budget to implement marketing strategies.
+Support from industry professionals to provide feedback and guidance.
+Successful completion of the project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for playwrights worldwide.
 
 ---
 

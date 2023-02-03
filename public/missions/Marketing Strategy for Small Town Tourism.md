@@ -1,5 +1,27 @@
-# Mission // #
+# Mission // #Marketing Strategy for Small Town Tourism
 
+Project Brief:
+
+Team Leader: [Insert team leader name here]
+
+Assignment: Develop a Marketing Strategy for Small Town Tourism
+
+Goals:
+
+To increase the number of tourists visiting the small town by 20% within 90 days.
+To promote the unique offerings of the small town to a wider audience.
+To create a strong online presence for the small town.
+Stakes:
+
+The tourism industry is a major contributor to the local economy and job market.
+A successful marketing strategy will lead to increased revenue for the small town business owners and a boost to the local economy.
+Failure to attract more tourists could result in a decline in the tourism industry and negative consequences for the local economy.
+Reserves:
+
+The team will have access to the latest marketing and technology tools to help with their efforts.
+A budget of $10,000 will be provided for the team to use for marketing and promotional purposes.
+The team will have access to expert advice and guidance from experienced marketing professionals.
+Successful completion of the project will grant all contributing members XP and unlock a new challenge in the ultimate quest to revolutionize tourism for small town business owners worldwide.
 
 ---
 

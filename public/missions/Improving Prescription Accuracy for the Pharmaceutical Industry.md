@@ -1,5 +1,29 @@
-# Mission // #
+# Mission // #Improving Prescription Accuracy for the Pharmaceutical Industry
 
+Project Brief:
+Project Title: Improving Prescription Accuracy for the Pharmaceutical Industry
+Team Leader: Luc
+
+Assignment:
+The pharmaceutical industry is facing a significant challenge in prescription accuracy. With the increasing demand for prescription drugs, pharmacists are under increased pressure to dispense the right medication to patients. This project aims to improve the accuracy of prescriptions to ensure patient safety and reduce the risk of adverse drug events.
+
+Goals:
+
+Develop a comprehensive system to verify prescription accuracy in real-time.
+Reduce the number of prescription errors by 25% in the next 90 days.
+Improve patient safety and satisfaction by reducing the risk of adverse drug events.
+Provide pharmacists with the tools and resources needed to improve prescription accuracy.
+Stakes:
+
+Prescription errors can lead to serious health consequences for patients and can result in legal liability for the pharmacist and the pharmaceutical company.
+Improving prescription accuracy will increase patient trust and loyalty, leading to increased business for the pharmaceutical industry.
+Failing to reduce prescription errors will result in decreased patient satisfaction and could lead to a loss of business for the pharmaceutical industry.
+Reserves:
+
+The team will have access to data on prescription errors to determine the root cause of the problem.
+The team will be provided with a budget to develop the necessary tools and resources to improve prescription accuracy.
+The team will have access to training and support from experts in the pharmaceutical industry.
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for pharmacists worldwide.
 
 ---
 

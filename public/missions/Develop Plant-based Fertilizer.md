@@ -1,5 +1,29 @@
-# Mission // #
+# Mission // #Develop Plant-based Fertilizer
 
+Project Brief
+Title: Development of a new plant-based fertilizer
+Team Leader: Rebecca
+Assignment: To develop a new plant-based fertilizer that is environmentally friendly, cost-effective, and provides optimal growth for crops.
+
+Goals:
+
+Research and analyze existing plant-based fertilizers in the market.
+Identify the key ingredients and methods used in the production of these fertilizers.
+Develop a formula for a new plant-based fertilizer that offers better results in terms of crop growth and yield.
+Test the new fertilizer on different crops to validate its effectiveness.
+Present a comprehensive report on the research, development, and testing of the new fertilizer.
+Stakes:
+
+A successful completion of the project would increase the competitiveness of the biosciences industry and lead to a more sustainable and profitable future.
+The new fertilizer could potentially be a game-changer in the agriculture industry, providing farmers with a more eco-friendly alternative to traditional fertilizers.
+A failure to complete the project would result in a loss of credibility for the team and the biosciences industry.
+Reserves:
+
+Access to relevant research material and databases for information gathering.
+Access to a laboratory for testing purposes.
+Access to relevant software for data analysis and report writing.
+A budget for the purchase of materials and equipment required for the research and development of the new fertilizer.
+Successful completion of the project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for biologists worldwide.
 
 ---
 

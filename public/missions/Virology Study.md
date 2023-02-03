@@ -1,5 +1,31 @@
-# Mission // #
+# Mission // #Virology Study
 
+Project Brief: Virology Study
+
+Team Leader: Andreas
+
+Assignment:
+The team of pathologists is assigned to conduct a study on virology in a remote work setting. The aim is to find a solution to a current issue in virology and present the findings within 90 days.
+
+Goals:
+
+To understand the current challenges in virology and the impact they have on public health.
+To identify potential solutions to the current challenges.
+To present the findings in a clear and concise manner, including potential next steps.
+Stakes:
+
+The findings of this study could have a significant impact on public health and the way virology is approached in the future.
+If the team is unable to present credible findings, it may harm their reputation as pathologists.
+Reserves:
+
+The team will have access to the latest research and technology, including access to a database of virology case studies.
+Regular progress reports will be submitted to the team leader to ensure that the study stays on track.
+The team will have access to any additional resources they may require.
+Successful Completion:
+
+Upon successful completion, all contributing members will receive XP and unlock a new challenge in the ultimate quest to revolutionize the workplace for pathologists worldwide.
+The team will have the opportunity to present their findings to a panel of experts, giving them a chance to share their work with the world and potentially shape the future of virology.
+Note: The team is expected to work remotely from their PCs at home, and must adhere to all relevant health and safety guidelines.
 
 ---
 

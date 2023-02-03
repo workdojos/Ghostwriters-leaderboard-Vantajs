@@ -1,5 +1,25 @@
-# Mission // #
+# Mission // #Live Event Industry Recovery Plan
 
+Project Brief: Live Event Industry Recovery Plan
+
+Team Leader: Francesca
+
+Assignment:
+The live events industry has been severely impacted by the COVID-19 pandemic and the shift towards remote work. The team is tasked with developing a comprehensive recovery plan to revitalize the industry, taking into account current global health and safety concerns.
+
+Goals:
+
+Research and analyze the current state of the live events industry
+Develop innovative solutions to overcome the challenges posed by the pandemic
+Create a roadmap for the industry's recovery
+Engage with stakeholders to gain support for the recovery plan
+Stakes:
+The live events industry is a vital component of the global economy, and its continued decline could result in significant economic and social consequences. The success of this project is crucial to the livelihoods of many people, and its impact could be far-reaching.
+
+Reserves:
+The team will have access to industry reports, government statistics, and a database of events and event planning resources. In addition, the team will be able to consult with industry experts and stakeholders to gather additional information and insights.
+
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for event specialists worldwide.
 
 ---
 

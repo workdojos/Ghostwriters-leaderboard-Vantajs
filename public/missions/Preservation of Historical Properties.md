@@ -1,5 +1,27 @@
-# Mission // #
+# Mission // #Preservation of Historical Properties
 
+Project Brief: Preservation of Historical Properties
+
+Team Leader: Hans
+
+Assignment:
+To create a comprehensive plan for the preservation of historical lighthouses and their properties, including budget and resource allocation, maintenance and renovation strategies, and outreach and education initiatives.
+
+Goals:
+
+Develop a comprehensive preservation plan for at least 10 historical lighthouses
+Ensure the long-term sustainability of these properties
+Increase public awareness and support for the preservation of these properties
+Secure funding and resources for the preservation and maintenance of these properties
+Stakes:
+The failure to properly preserve these historical properties would result in their decline and eventual destruction, leading to the loss of important cultural and historical landmarks. This would not only be a loss for the local communities and the lighthouse managers, but also for future generations who would be unable to experience the rich cultural heritage of these properties.
+
+Reserves:
+
+A budget of $500,000 for the preservation and maintenance of these properties
+Access to a team of experts in the fields of architecture, preservation, and outreach and education
+Access to a network of supporters and allies in the preservation community
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the potential for lighthouse managers worldwide. By preserving these historical properties, we are not only preserving our cultural heritage, but also investing in the future of lighthouse management and ensuring its continued success for generations to come.
 
 ---
 

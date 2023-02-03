@@ -1,5 +1,28 @@
-# Mission // #
+# Mission // #Improving Supply-Chain Efficiency
 
+Project Brief:
+
+Team Leader: Pierre
+
+Assignment: Improving Supply-Chain Efficiency in the Importation Industry
+
+Goals:
+
+To streamline the process of importation from end to end
+To reduce costs and increase the speed of delivery
+To improve the transparency and visibility of the supply-chain
+To minimize the risks associated with importing goods
+Stakes:
+The supply-chain industry is constantly evolving, and it is essential for importers to stay ahead of the curve. The stakes are high, as the industry is highly competitive, and a slow and inefficient supply-chain can result in lost revenue, market share, and customers. Improving the efficiency of the supply-chain is crucial for the success of the importers, and failure to do so could result in the loss of their competitive advantage.
+
+Reserves:
+
+Access to all relevant supply-chain data
+A dedicated team of experts in supply-chain management
+A budget of $50,000 for the implementation of new technology or process improvements
+90 days to complete the project
+Successful Completion:
+Successful completion of this project will result in improved efficiency in the supply-chain, reduced costs, faster delivery times, and increased transparency. The team members will receive XP points, which will unlock a new challenge in our ultimate quest to revolutionize the workplace for importers worldwide. The success of this project will also set the standard for future projects, further improving the efficiency and competitiveness of the industry.
 
 ---
 

@@ -1,5 +1,26 @@
-# Mission // #
+# Mission // #Lending Industry Reimagined
 
+Project Brief: Lending Industry Reimagined
+
+Team Leader: Marcus
+
+Assignment: To develop a new lending platform that addresses the current challenges faced by the lending industry, such as high interest rates, strict eligibility criteria, and limited loan options. The team will work remotely from their PC's at home to complete the project in 90 days.
+
+Goals:
+
+To create a lending platform that offers lower interest rates to borrowers.
+To make the loan application process more user-friendly and accessible to a wider range of borrowers.
+To provide a wider range of loan options to cater to the needs of different borrowers.
+To make the loan repayment process easier and more flexible.
+Stakes: The lending industry is a vital component of the financial sector and plays a crucial role in the growth of the economy. The success of this project will have real-world consequences for the lending industry and can lead to a more accessible and fair financial system for everyone.
+
+Reserves:
+
+A dedicated team of financiers to work on the project.
+Access to relevant market research and data analysis tools.
+Access to the latest technology and software to develop the platform.
+A budget to cover operational costs such as software licenses, team expenses, and marketing efforts.
+Successful Completion: Upon successful completion of the project, all contributing members will be granted XP and will unlock a new challenge in the ultimate quest to revolutionize the workplace for financiers worldwide. This project will be a testament to the team's capability to tackle complex challenges and to bring about positive change to the financial sector.
 
 ---
 

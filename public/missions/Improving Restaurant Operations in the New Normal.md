@@ -1,5 +1,27 @@
-# Mission // #
+# Mission // #Improving Restaurant Operations in the New Normal
 
+Project Brief: Improving Restaurant Operations in the New Normal
+
+Team Leader: Michel
+
+Assignment:
+To improve the operations of restaurants in the new normal, where diners are facing challenges such as reduced foot traffic, increased safety protocols, and limited dine-in capacity.
+
+Goals:
+
+To increase the efficiency and profitability of restaurants.
+To improve the safety and comfort of diners and employees.
+To adapt to the changing needs of the restaurant industry.
+Stakes:
+
+The success of the restaurant industry is at stake, as the current challenges can lead to a decline in profits and even closures.
+The health and safety of diners and employees are also at stake, as the new normal requires strict safety protocols to prevent the spread of COVID-19.
+Reserves:
+
+Each team member will have access to their PC's at home to work remotely.
+The team will have access to industry-leading software and tools to improve restaurant operations.
+A budget of $50,000 has been allocated for the project, to be used for purchasing necessary tools and resources.
+Successful completion of the project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for diner owners worldwide.
 
 ---
 

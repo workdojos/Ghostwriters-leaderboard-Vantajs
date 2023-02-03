@@ -1,5 +1,27 @@
-# Mission // #
+# Mission // #Improving Access to Healthcare for Rural Communities
 
+Project Brief: Improving Access to Healthcare for Rural Communities
+
+Team Leader: Barry
+
+Assignment: The legislative branch is tasked with improving access to healthcare for rural communities across the country.
+
+Goals:
+
+Increase the number of healthcare facilities in rural communities.
+Ensure that rural residents have access to quality healthcare services.
+Improve healthcare outcomes for rural residents.
+Stakes:
+
+Access to quality healthcare is a fundamental right for all citizens.
+Lack of access to healthcare in rural communities can lead to serious health problems and even death.
+Improving access to healthcare in rural communities will improve the overall health and well-being of the population.
+Reserves:
+
+All team members will work remotely for 90 days.
+The team will have access to a budget of $10 million to fund healthcare projects in rural communities.
+The team will be responsible for implementing and overseeing the projects to ensure that they are successful and meet the goals of the project.
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for legislators worldwide.
 
 ---
 

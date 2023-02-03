@@ -1,5 +1,28 @@
-# Mission // #
+# Mission // #Improving Medication Adherence for Chronic Conditions
 
+Project Brief: Improving Medication Adherence for Chronic Conditions
+
+Team Leader: Marie
+
+Assignment:
+The medical industry faces a significant challenge in ensuring patients with chronic conditions take their medications as prescribed. Non-adherence can lead to increased healthcare costs, decreased quality of life, and even life-threatening complications. The team's task is to find a solution to improve medication adherence for patients with chronic conditions.
+
+Goals:
+
+To increase medication adherence rates by 30% in patients with chronic conditions.
+To reduce healthcare costs associated with non-adherence.
+To improve patient outcomes and quality of life.
+Stakes:
+
+Patients with chronic conditions will benefit from improved medication adherence, leading to better health outcomes and a higher quality of life.
+Healthcare providers will see reduced costs associated with non-adherence and improved patient outcomes.
+The medical industry will benefit from improved patient outcomes, reduced costs, and a reputation for innovation and progress.
+Reserves:
+
+The team will have access to electronic medical records and other relevant data sources.
+The team will have access to experts in medication adherence and patient behavior.
+The team will have access to various technological tools and resources to support their work.
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for clinicians worldwide.
 
 ---
 

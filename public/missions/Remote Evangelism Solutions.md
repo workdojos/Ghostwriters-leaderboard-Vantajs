@@ -1,5 +1,21 @@
-# Mission // #
+# Mission // #Remote Evangelism Solutions
 
+Project Brief: Remote Evangelism Solutions for the Religious Organizations Industry
+
+Team Leader: Jimmy
+
+Assignment: The religious organizations industry is facing several challenges in the current pandemic, with many people losing their jobs and struggling to make ends meet. As a result, there is a growing need for more effective and efficient evangelism solutions that can help religious organizations reach out to their communities and provide support. Our team of evangelists will work together to create a remote evangelism solution that will have real-world consequences for the religious organizations industry.
+
+Goals:
+
+To create a remote evangelism solution that can be accessed by religious organizations from their PC's at home.
+To increase the efficiency of the evangelism process, so that more people can be reached and helped.
+To reduce the costs associated with traditional evangelism methods, such as travel and accommodation expenses.
+Stakes: The success of this project will have a significant impact on the religious organizations industry and the communities they serve. By creating a remote evangelism solution, we can help organizations reach more people, provide support and comfort, and make a positive impact on the world.
+
+Reserves: Our team of evangelists will have access to the latest technology and tools to help them achieve their goals. This includes video conferencing software, online collaboration tools, and project management software. Our team will also have access to a supportive network of other evangelists, who can offer guidance and support as needed.
+
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for evangelists worldwide. Join us in our mission to make a positive impact on the world!
 
 ---
 

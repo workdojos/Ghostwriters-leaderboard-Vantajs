@@ -1,5 +1,28 @@
-# Mission // #
+# Mission // #International Arbitration Industry Reform
 
+Project Brief:
+
+Team Leader: Jan
+Team Members: [TBD]
+Assignment: International Arbitration Industry Reform
+
+Goals:
+
+Identify and analyze the current challenges faced by the international arbitration industry.
+Develop and propose practical solutions to address the challenges faced by the industry.
+Advocate for the implementation of the proposed solutions through effective negotiation strategies.
+Stakes:
+
+The international arbitration industry is facing a decline in its effectiveness and credibility due to various challenges such as high costs, long proceedings, and lack of transparency.
+The decline in the industry's effectiveness can lead to a decrease in international trade and investment, causing harm to the global economy.
+The failure to reform the industry can result in the loss of trust in the international arbitration process and the inability to resolve disputes effectively.
+Reserves:
+
+The team will have 90 days to complete the project.
+The team will work remotely from their PCs at home.
+The team will have access to all relevant resources and data necessary to complete the project.
+Successful completion of the project will grant all contributing members XP and unlock a new challenge in the ultimate quest to revolutionize the workplace for negotiators worldwide.
+Note: The team will be responsible for identifying additional resources and reserves necessary to complete the project as per their discretion.
 
 ---
 

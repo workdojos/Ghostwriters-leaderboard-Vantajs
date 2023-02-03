@@ -1,5 +1,30 @@
-# Mission // #
+# Mission // #Improving the Accuracy of Predictive Analytics
 
+Project Brief: Improving the Accuracy of Predictive Analytics
+
+Team Leader: Lars
+
+Assignment:
+The statistics industry is increasingly relying on predictive analytics to make informed business decisions. However, there is a growing concern that the accuracy of these predictions is not up to par. The team of statisticians is tasked with improving the accuracy of predictive analytics by 10% in 90 days.
+
+Goals:
+
+Identify and address the sources of error in current predictive analytics models
+Develop and implement strategies for improving the accuracy of predictive analytics
+Create a comprehensive guide for others in the industry to follow when developing predictive analytics models
+Improve the overall accuracy of predictive analytics by 10% in 90 days
+Stakes:
+
+The accuracy of predictive analytics directly affects the success of businesses and organizations
+Poor accuracy can lead to significant financial losses and negative consequences for customers and stakeholders
+The reputation of the statistics industry is at stake if predictive analytics continues to be unreliable
+Reserves:
+
+Access to current predictive analytics models and data
+The ability to work remotely from PC's at home
+Relevant software and tools
+Collaboration with other industry experts and stakeholders
+Successful completion of this project grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for statisticians worldwide. By improving the accuracy of predictive analytics, we can make a real impact on the lives and success of businesses and organizations.
 
 ---
 

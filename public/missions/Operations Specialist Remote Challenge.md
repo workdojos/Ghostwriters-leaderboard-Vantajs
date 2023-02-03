@@ -1,5 +1,23 @@
-# Mission // #
+# Mission // #Operations Specialist Remote Challenge
 
+Project Brief: Operations Specialist Remote Challenge
+
+Team Leader: Eric
+
+Assignment: The clandestine services industry is facing a growing threat from cyber-attacks and data breaches. Our team of operations specialists is tasked with developing a secure and effective solution to address this issue in 90 days, while working remotely from their PC's at home.
+
+Goals:
+
+Conduct a thorough assessment of current cybersecurity measures used in the clandestine services industry
+Identify and analyze potential risks and vulnerabilities
+Develop a secure and effective solution to mitigate the risks and protect against data breaches
+Test and implement the solution in a controlled environment
+Provide a detailed report on the solution and its effectiveness
+Stakes: The clandestine services industry is at risk of losing valuable information and resources to cyber-attacks and data breaches. If the solution developed by our team is not effective, it could have serious consequences for the industry and national security.
+
+Reserves: Our team will have access to the latest cybersecurity tools and resources to aid in their research and development of the solution. They will also have access to a virtual platform for communication and collaboration.
+
+Successful completion of this challenge will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for operations specialists worldwide.
 
 ---
 

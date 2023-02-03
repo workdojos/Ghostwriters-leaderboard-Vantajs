@@ -1,5 +1,25 @@
-# Mission // #
+# Mission // #The Climate Change Crisis for Yogis
 
+Project Brief
+Title: The Climate Change Crisis
+
+Assignment:
+The team of yoga instructors, led by Isadora, is tasked with solving the dire consequences of climate change. The team will be working remotely from their PCs at home for one week.
+
+Goals:
+
+Research and analyze the causes and effects of climate change.
+Identify sustainable solutions to reduce the impact of climate change on the environment.
+Create a plan of action to educate and raise awareness about the crisis.
+Collaborate with international organizations to implement the solutions globally.
+Stakes:
+The stakes of this project are high as the consequences of climate change will impact the future of our planet. The team's efforts will determine whether future generations will have access to clean air, water, and food. Failure to take action will result in a world of increased natural disasters, famine, and displacement of people.
+
+Reserves:
+The team will have access to research reports, videos, and online courses on climate change. They will also have the opportunity to connect with environmental organizations and climate experts for support. The team must work efficiently and effectively to use the resources available to them.
+
+Conclusion:
+The yoga instructors are being called upon to use their skills of mindfulness, meditation, and focus to solve one of the world's most pressing issues. The success of this project will not only help preserve the planet for future generations but also demonstrate the positive impact yoga can have on the world.
 
 ---
 

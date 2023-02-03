@@ -1,5 +1,26 @@
-# Mission // #
+# Mission // #Optimizing Delivery Routes for the Logistics Industry
 
+Project Brief: Optimizing Delivery Routes for the Logistics Industry
+
+Team Leader: Vytautas
+
+Assignment: To identify inefficiencies in delivery routes for the logistics industry and implement solutions to reduce costs and increase efficiency.
+
+Goals:
+
+To reduce delivery times by 20%
+To reduce fuel consumption by 15%
+To reduce the number of delivery errors by 10%
+Stakes:
+
+The logistics industry is highly competitive, and any delay or inefficiency can result in loss of business and revenue.
+Improving delivery routes can lead to a better customer experience, leading to repeat business and increased brand loyalty.
+Reserves:
+
+The team will have access to all hot the delivery routes are planned and executed
+The team will have access to data on fuel consumption and delivery times
+The team will have access to customer feedback on delivery experiences
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for logistics managers worldwide.
 
 ---
 

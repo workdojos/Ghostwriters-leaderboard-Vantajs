@@ -1,5 +1,26 @@
-# Mission // #
+# Mission // #Social Media Influencer Campaign for Better Online Privacy
 
+Project Brief: Social Media Influencer Campaign for Better Online Privacy and Cybersecurity
+
+Team Leader: Lila
+
+Assignment:
+The social media industry is rapidly growing and has become an integral part of our daily lives. However, with this growth comes the increasing threat of online privacy and cybersecurity breaches. As influencers, we have a responsibility to our followers and must take action to address this issue.
+
+Goals:
+
+To create awareness and educate the public on online privacy and cybersecurity risks.
+To work with leading cybersecurity experts and social media companies to implement new privacy and security measures.
+To promote the use of secure online tools and best practices for social media users.
+Stakes:
+The stakes are high as online privacy and cybersecurity breaches can lead to serious consequences such as identity theft, financial loss, and even harm to personal reputation. By taking action, we can protect ourselves and our followers and promote a safer online environment.
+
+Reserves:
+
+Budget for engaging with leading cybersecurity experts and social media companies.
+Access to digital marketing tools and platforms to promote our campaign.
+Time commitment from all team members for a minimum of 90 days to work on this project remotely.
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for influencers worldwide. By addressing this critical issue, we can demonstrate our leadership and commitment to making a positive impact in our industry.
 
 ---
 

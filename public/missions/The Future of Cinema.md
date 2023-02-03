@@ -1,5 +1,21 @@
-# Mission // #
+# Mission // #The Future of Cinema
 
+Project Brief: The Future of Cinema
+
+Team Leader: Maya
+
+Assignment: The cinema industry is facing major challenges in the digital age. With the rise of streaming services and the decline of traditional movie theaters, the industry is in need of a fresh approach to bring audiences back to the big screen. As a team of experienced cinematographers, your mission is to create a new business model that incorporates cutting-edge technology, enhanced viewing experiences, and sustainable revenue streams.
+
+Goals:
+
+To identify the key challenges facing the cinema industry and develop a comprehensive solution.
+To create a new business model that leverages technology and data to increase efficiency and profitability.
+To design and implement innovative viewing experiences that will draw audiences back to the big screen.
+Stakes: The success of this project will have a significant impact on the future of the cinema industry. A successful solution will not only secure the future of traditional movie theaters but also position the industry as a leader in the digital age.
+
+Reserves: The team has 90 days to complete this project and must work remotely from their PC's at home. All members will receive XP for successful completion of the project and will unlock a new challenge in our ultimate quest to revolutionize the workplace for cinematographers worldwide.
+
+Note: The team must work together and leverage their combined expertise to achieve the goals of this project. Communication and collaboration will be key to success.
 
 ---
 

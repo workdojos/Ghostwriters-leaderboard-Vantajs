@@ -1,5 +1,24 @@
-# Mission // #
+# Mission // #Improving Self-Governance for Teams
 
+Project Brief: Improving Self-Governance for Teams
+
+Team Leader: Chandler
+
+Assignment:
+The goal of this project is to improve the self-governance of a team of committee leaders working remotely from their PC's at home. The team will work together to find solutions to common problems and implement best practices that will help the team run more efficiently.
+
+Goals:
+
+To identify common problems and challenges that arise in remote work teams.
+To develop and implement solutions to those problems.
+To create a self-governance plan that will help the team run more efficiently and effectively.
+Stakes:
+The success of this project is crucial because it will have real-world consequences for the self-governance of teams working remotely. The stakes are high because if the team fails to find solutions, it will negatively impact the efficiency and effectiveness of remote teams, leading to decreased productivity and morale.
+
+Reserves:
+The team will have 90 days to complete the project and will be working remotely from their PC's at home. The team will have access to all necessary resources, including training materials and online collaboration tools, to help them complete the project successfully.
+
+Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize self-governance worldwide. This project is a critical step in our journey to create better and more efficient self-governance for teams, and the success of this project will set the stage for future projects that aim to improve self-governance for organizations and communities around the world.
 
 ---
 

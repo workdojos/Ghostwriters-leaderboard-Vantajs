@@ -1,4 +1,31 @@
-# Mission // #
+# Mission // #Improving Customer Satisfaction in the Travel Industry
+
+Project Brief:
+Project Name: Improving Customer Satisfaction in the Travel Industry
+
+Team Leader: Jo
+
+Assignment:
+The travel industry has been impacted significantly by the COVID-19 pandemic, leading to decreased customer satisfaction and trust. The aim of this project is to improve customer satisfaction by offering personalized travel solutions to meet their unique needs and preferences.
+
+Goals:
+
+Research and understand customer needs and preferences in the travel industry.
+Identify and Jolyze customer feedback and complaints to understand areas of improvement.
+Develop and implement personalized travel solutions to meet customer needs and preferences.
+Monitor and evaluate the effectiveness of the solutions and make necessary changes to improve customer satisfaction.
+Increase customer trust and loyalty by providing exceptional customer service and a personalized travel experience.
+Stakes:
+
+The success of this project will have a direct impact on the travel industry, including increased customer satisfaction and trust, increased customer loyalty, and improved reputation.
+The travel industry is facing significant challenges due to the pandemic, and success in this project will contribute to the recovery and growth of the industry.
+The success of this project will enhance the reputation of travel agents and provide valuable experience in improving customer satisfaction in the travel industry.
+Reserves:
+
+The team will be working remotely from their PC's at home, and will need to collaborate and communicate effectively to complete the project on time.
+The team will need access to relevant market research data, customer feedback and complaints, and customer preferences to complete the project effectively.
+The team will need to be proactive and innovative in developing personalized travel solutions that meet customer needs and preferences.
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for travel agents worldwide.
 
 
 ---

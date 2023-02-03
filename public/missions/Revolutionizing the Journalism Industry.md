@@ -1,5 +1,24 @@
-# Mission // #
+# Mission // #Revolutionizing the Journalism Industry
 
+Project Brief: Revolutionizing the Journalism Industry
+
+Team Leader: Michelle
+
+Assignment:
+To investigate and identify the challenges facing the journalism industry and create innovative solutions to revolutionize the workplace for correspondents worldwide.
+
+Goals:
+
+To research and analyze the current state of the journalism industry, including areas of concern such as declining revenue, job loss, and public trust.
+To create innovative solutions to address the challenges facing the journalism industry, including the use of new technology and revenue models.
+To develop a comprehensive plan for the implementation of the solutions, including a timeline and budget.
+Stakes:
+The journalism industry is facing major challenges, including declining revenue, job loss, and declining public trust. The successful completion of this project is critical to the future of the industry and the ability of correspondents to continue to provide important information to the public.
+
+Reserves:
+The team will be working remotely from their PC's at home and will have 90 days to complete the project. The team will have access to the latest research, industry data, and innovative technologies to support their work. Each member of the team will contribute their expertise and experience to the project.
+
+Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for correspondents worldwide. This project is just the beginning of a long-term effort to improve the journalism industry and ensure that correspondents can continue to provide important information to the public.
 
 ---
 

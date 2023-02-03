@@ -1,5 +1,27 @@
-# Mission // #
+# Mission // #Improving Advisor Productivity
 
+Project Brief: Improving Consultant Productivity
+
+Team Leader: Cynthia
+
+Assignment: The consulting industry is facing a major challenge with regards to consultant productivity. This project is aimed at addressing this issue and finding solutions that can improve the efficiency and output of consultants working remotely from their PCs at home.
+
+Goals:
+
+To identify the factors that contribute to low productivity levels among consultants working remotely
+To develop and implement solutions that can improve productivity and efficiency among consultants working remotely
+To create a framework that can be used to monitor and evaluate the effectiveness of the solutions implemented
+Stakes:
+
+The success of this project is critical to the success of the consulting industry as a whole
+Low productivity levels among consultants can lead to delays in project completion and loss of revenue for the consulting firm
+The impact of low productivity levels can also affect the reputation of the consulting firm in the market
+Reserves:
+
+A budget of $50,000 has been set aside to cover any expenses incurred during the project
+The team will have access to all relevant data and resources necessary to complete the project
+The team will also have access to expert consultants within the firm for guidance and support
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in the quest to revolutionize the workplace for consultants worldwide. The team is expected to present their findings and solutions within 90 days of the project start date.
 
 ---
 

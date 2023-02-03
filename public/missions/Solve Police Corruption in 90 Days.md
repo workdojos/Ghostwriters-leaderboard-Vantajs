@@ -1,5 +1,26 @@
-# Mission // #
+# Mission // #Solve Police Corruption in 90 Days
 
+Project Brief:
+Team Leader: Shelly
+Assignment: Solve Police Corruption in 90 Days
+
+Goals:
+
+Identify corrupt police officers within the department.
+Gather evidence of their wrongdoings.
+Report the findings to the relevant authorities.
+Implement new measures to prevent future corruption.
+Stakes:
+
+If the team is unable to identify and report any corrupt officers, the public's trust in the police will continue to decrease.
+If the team is unable to implement new measures to prevent corruption, it will be more difficult to regain public trust.
+The department will continue to be tarnished by the reputation of corrupt officers.
+Reserves:
+
+Access to all police records and evidence
+Additional resources and support from internal affairs
+Financial compensation for any overtime work required
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for police officers worldwide. This project will demonstrate the department's commitment to integrity and accountability and set a standard for other departments to follow.
 
 ---
 

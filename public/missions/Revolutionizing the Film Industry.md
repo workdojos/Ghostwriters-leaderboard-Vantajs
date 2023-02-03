@@ -1,5 +1,26 @@
-# Mission // #
+# Mission // #Revolutionizing the Film Industry
 
+Project Brief:
+
+Team Leader: Samantha
+Assignment: Revolutionizing the Film Industry
+
+Goals:
+
+To find and implement innovative ways to reduce the cost of film production without sacrificing quality.
+To increase the efficiency of the film production process while maintaining its high standards.
+To identify and resolve common obstacles faced by animators in the industry.
+Stakes:
+
+The film industry is facing increasing competition from other forms of entertainment, and success in this project could help to secure its place in the market.
+The cost-saving measures identified in this project could have a significant impact on the industry, potentially leading to increased profits and stability.
+The success of this project could help to establish a new standard for film production, providing animators with better working conditions and greater opportunities.
+Reserves:
+
+A budget of $100,000 has been allocated for this project to cover expenses such as software and equipment upgrades, as well as research and development.
+The team will have access to the latest technology and software for animators, including 3D animation software, motion graphics, and video editing tools.
+Each team member will receive a training program in these tools to ensure that they are fully equipped for the task at hand.
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for animators worldwide.
 
 ---
 

@@ -1,5 +1,26 @@
-# Mission // #
+# Mission // #Impact of Programmatic Advertising on Consumer Trust
 
+Project Brief: Impact of Programmatic Advertising on Consumer Trust and Brand Perception
+
+Team Leader: Lucie
+
+Assignment: The advertising industry is facing a significant challenge with the rise of programmatic advertising and its impact on consumer trust and brand perception. The team of media buyers will work remotely to solve this issue in 90 days.
+
+Goals:
+
+To research and analyze the impact of programmatic advertising on consumer trust and brand perception.
+To develop and implement strategies to address the issue and improve the reputation of the advertising industry.
+To establish best practices for media buyers to ensure that programmatic advertising is executed in a manner that protects consumer trust and enhances brand perception.
+Stakes:
+
+Decreased consumer trust and negative brand perception can result in decreased engagement and conversions, which can ultimately impact revenue.
+Failure to address this issue may also lead to increased regulation and oversight, which could impact the industry as a whole.
+Reserves:
+
+A budget of $10,000 will be allocated for research and analysis.
+Access to industry experts and thought leaders will be made available to the team.
+The team will have access to all relevant data, reports, and research related to the impact of programmatic advertising on consumer trust and brand perception.
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for media buyers worldwide. The results of this project will be shared with the media buying community and will serve as a reference for future initiatives aimed at improving the reputation of the advertising industry.
 
 ---
 

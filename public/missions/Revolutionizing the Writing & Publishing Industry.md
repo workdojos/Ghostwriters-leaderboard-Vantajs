@@ -1,5 +1,25 @@
-# Mission // #
+# Mission // #Revolutionizing the Writing & Publishing Industry
 
+Project Brief: Revolutionizing the Writing & Publishing Industry
+Team Leader: Bhimsen
+Assignment: To create a solution for the writing and publishing industry in 90 days
+
+Goals:
+
+To improve the process of writing and publishing a novel
+To increase the efficiency and accuracy of the writing and publishing process
+To increase the visibility and reach of novelists worldwide
+Stakes:
+
+The success of this project will determine the future of the writing and publishing industry
+Failure to complete the project within 90 days will result in a loss of credibility for the team
+Lack of progress will result in a loss of resources and funding for future projects
+Reserves:
+
+Access to the latest technology and software for writing and publishing
+Access to industry experts for advice and guidance
+Access to market research and data analysis tools
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for novelists worldwide.
 
 ---
 

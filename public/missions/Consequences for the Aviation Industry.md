@@ -1,5 +1,24 @@
-# Mission // #
+# Mission // #Consequences for the Aviation Industry
 
+Project Brief: Dire Consequences for the Aviation Industry
+
+Team Leader: Forrest
+
+Assignment: To solve the dire consequences facing the aviation industry in the next 90 days while working remotely from their PCs at home.
+
+Goals:
+
+To identify the major challenges facing the aviation industry.
+To develop and implement effective solutions to address these challenges.
+To monitor and evaluate the impact of these solutions on the industry.
+Stakes:
+The aviation industry is facing numerous challenges such as declining passenger numbers, rising costs, increased competition, and changing regulations. If these challenges are not addressed, the industry may suffer severe consequences, including bankruptcy, decreased safety, and loss of jobs.
+
+Reserves:
+The team has access to the latest research and data on the aviation industry, as well as access to experts in the field. The team also has access to technology and tools to help them analyze data and collaborate effectively.
+
+Successful Completion:
+Upon successful completion of the project, all contributing members will receive XP and unlock a new challenge in the ultimate quest to revolutionize the workplace for pilots worldwide. The impact of their work will be felt throughout the industry, helping to secure its future and the future of all those who depend on it.
 
 ---
 

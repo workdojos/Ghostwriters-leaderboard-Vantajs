@@ -1,5 +1,24 @@
-# Mission // #
+# Mission // #Improving Crop Yields for the Cannabis Industry
 
+Project Brief: Improving Crop Yields for the Cannabis Industry
+
+Team Leader: Jerry
+
+Assignment:
+The cannabis industry is growing rapidly, but with this growth comes the challenge of meeting increasing demand for high-quality product. As a team of growers, your goal is to improve crop yields for your operation, in order to meet this demand.
+
+Goals:
+
+Increase crop yields by 10% within 90 days.
+Implement sustainable growing practices that promote healthy plant growth and reduce waste.
+Research and implement new technology to streamline the growing process.
+Stakes:
+The success of your operation is at stake. With the cannabis industry growing rapidly, meeting demand is essential in order to remain competitive. Failure to meet the goals set forth in this project could result in decreased profitability and a loss of market share.
+
+Reserves:
+The team has a budget of $50,000 to invest in new technology, equipment, and resources. Any unused funds will be credited towards the next project.
+
+Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for growers worldwide.
 
 ---
 

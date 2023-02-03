@@ -1,5 +1,27 @@
-# Mission // #
+# Mission // #Improving Efficiency in Freight Transportation
 
+Project Brief: Improving Efficiency in Freight Transportation
+
+Team Leader: John
+
+Assignment:
+Our team of captains will work remotely to develop a plan to improve efficiency in freight transportation. This includes identifying bottlenecks in the transportation process, streamlining communication between drivers and dispatchers, and utilizing technology to optimize routes and delivery times.
+
+Goals:
+
+Reduce delivery time by 25%
+Improve communication between drivers and dispatchers by 50%
+Increase the use of technology in route optimization by 75%
+Stakes:
+The transportation industry is facing a high demand for goods to be delivered in a timely and efficient manner. With the rise in e-commerce, the stakes are even higher. Improving efficiency in freight transportation will help our company stay competitive and meet the growing demands of customers.
+
+Reserves:
+To achieve our goals, we will have access to the following resources:
+
+A database of delivery times and routes
+A budget for purchasing technology to optimize delivery routes
+Access to a team of experts in the transportation industry
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for captains worldwide. With this project, we aim to set a new standard for efficiency in the transportation industry and continue to push the boundaries of what is possible.
 
 ---
 

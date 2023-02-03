@@ -1,5 +1,31 @@
-# Mission // #
+# Mission // #Sustainability in the Coffee Industry
 
+Project Brief: "Sustainability in the Coffee Industry"
+
+Team Leader: Francois
+
+Assignment:
+To research, analyze and propose a sustainable solution for the coffee industry, which will have a positive impact on the environment, economy, and coffee shop owners.
+
+Goals:
+
+To reduce the carbon footprint of the coffee industry by 25% in the next 5 years
+To increase the use of environmentally friendly and sustainable coffee production practices
+To reduce the cost of coffee production while improving the quality of coffee beans
+To create a transparent and sustainable coffee supply chain
+Stakes:
+
+A sustainable coffee industry is essential for the future of the planet
+The coffee industry is a major contributor to global warming
+The coffee industry is facing increasing challenges due to climate change
+Consumers are becoming more environmentally conscious and are looking for sustainable options
+Reserves:
+
+A budget of $50,000 for research and development
+Access to industry experts and specialists
+A 90-day timeline for the completion of the project
+A virtual platform for team collaboration and communication
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for coffee shop owners worldwide.
 
 ---
 

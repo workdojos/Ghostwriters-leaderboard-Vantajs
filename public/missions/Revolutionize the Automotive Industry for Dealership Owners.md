@@ -1,5 +1,28 @@
-# Mission // #
+# Mission // #Revolutionize the Automotive Industry for Dealership Owners
 
+Project Brief:
+
+Team Leader: Torben
+
+Assignment: Revolutionize the Automotive Industry for Dealership Owners
+
+Goals:
+
+Increase profitability and sales for dealership owners
+Streamline processes for more efficient dealership management
+Enhance customer experience through technology
+Improve communication and collaboration among dealership owners
+Stakes:
+
+The automotive industry is highly competitive and rapidly changing, and dealership owners need to keep up with the latest trends and technologies in order to remain successful. If they are unable to do so, they risk losing customers and profits, which can have real-world consequences such as job losses and decreased economic growth.
+
+Reserves:
+
+To achieve these goals, the team will have 90 days to work remotely from their PCs at home. They will have access to a variety of tools and resources, including collaboration software, market research data, and industry experts. They will also be required to maintain clear communication and regularly update each other on their progress.
+
+Successful Completion:
+
+Upon successful completion of this project, all contributing members will receive XP, which can be used to unlock new challenges in the ultimate quest to revolutionize the workplace for dealership owners worldwide. Additionally, the team will have the opportunity to showcase their work and share their findings with other dealership owners, which will help to spread the best practices and techniques for success in the automotive industry.
 
 ---
 

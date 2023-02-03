@@ -1,5 +1,26 @@
-# Mission // #
+# Mission // #Improving Freelance Payments for Digital Nomads
 
+Project Brief: Improving Freelance Payments for Digital Nomads
+
+Team Leader: Tamar
+
+Assignment:
+The freelance industry is growing rapidly with more and more digital nomads working remotely from their PCs at home. However, many freelancers face challenges with payment issues and payment delays from clients. Our team will work to develop a solution that improves the payment process for freelancers in the digital nomad community.
+
+Goals:
+
+To create a payment platform that is user-friendly and accessible to freelancers globally.
+To improve the payment process so that freelancers receive payment quickly and securely.
+To help freelancers manage their finances and reduce financial stress.
+Stakes:
+If this project is not completed successfully, it could have negative consequences for the freelancers in the digital nomad community, who may continue to face payment issues and delays. The reputation of the freelance industry could also be impacted, making it harder for freelancers to find work and secure clients.
+
+Reserves:
+
+Tamar will lead the project and provide support to team members as needed.
+The team will have access to online resources and tools to help with their research and development of the payment platform.
+The team will work together remotely, using video conferencing and collaboration tools to communicate and share ideas.
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for digital nomads worldwide.
 
 ---
 

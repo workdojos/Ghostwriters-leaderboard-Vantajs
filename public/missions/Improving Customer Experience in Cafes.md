@@ -1,5 +1,22 @@
-# Mission // #
+# Mission // #Improving Customer Experience in Cafes
 
+Project Brief: "Improving Customer Experience in Cafes"
+
+Team Leader: Audrey
+
+Assignment: The team of cafe owners is tasked with finding ways to improve the customer experience in their cafes in 90 days while working remotely from their PC's at home.
+
+Goals:
+
+Increase customer satisfaction by 10% through improved service and menu offerings.
+Streamline the ordering and payment process to reduce wait times by 20%.
+Implement new technologies to enhance the dining experience, such as digital menus or table-side ordering.
+Foster a welcoming and inclusive atmosphere for all customers through training and education for employees.
+Stakes: A successful completion of this project will result in increased business, repeat customers, and positive reviews. On the other hand, failure to improve the customer experience may result in decreased business, negative reviews, and loss of customers.
+
+Reserves: The team has access to a budget of $20,000 to implement their ideas, as well as support from a team of experts in the hospitality industry for guidance and advice.
+
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the casual dining experience.
 
 ---
 

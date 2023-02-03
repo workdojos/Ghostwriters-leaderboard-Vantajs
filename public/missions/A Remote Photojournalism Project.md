@@ -1,5 +1,29 @@
-# Mission // #
+# Mission // #A Remote Photojournalism Project
 
+Project Brief: "Revolutionizing News Coverage: A Remote Photojournalism Project"
+
+Team Leader: Marta
+
+Assignment:
+To create a project that leverages technology and innovation to improve the quality of news coverage, specifically in the field of photojournalism. The project will be executed by a team of photo journalists working remotely from their PCs at home over the course of 90 days.
+
+Goals:
+
+To enhance the quality of photojournalism by exploring new techniques, tools and technologies.
+To create new standards for ethical photojournalism.
+To increase public trust in photojournalism by demonstrating transparency and accountability in news coverage.
+Stakes:
+
+Improving the reputation of the journalism industry as a whole.
+Attracting new talent to the field.
+Promoting the role of photojournalists as critical thinkers and storytellers.
+Reserves:
+
+Access to a range of innovative tools and technologies, including software for image editing, image management, and virtual collaboration.
+Support from industry leaders and experts in photojournalism and technology.
+Encouragement from peers, mentors, and other members of the photography community.
+Success:
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for photojournalists worldwide. It will demonstrate the potential of photojournalism to drive change and improve the quality of news coverage.
 
 ---
 
