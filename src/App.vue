@@ -2293,7 +2293,7 @@ export default {
         "system": "Foundry VTT",
         "gate": "PUBLIC",
         "ring": "workdojos.com",
-        "headerTitle": "WORKDOJOS",
+        "headerTitle": "DOJOS",
         "headerSubtitle": "COMPENDIUM",
         "subheaderTitle": "BUILT WITH VANTA.JS",
         "subheaderSubtitle": "MISSION BRIEF",
