@@ -1,4 +1,4 @@
-# Mission // #A Remote Photojournalism Project
+# Mission // #Revolutionizing Journalism
 
 Project Brief: "Revolutionizing News Coverage: A Remote Photojournalism Project"
 

@@ -1,28 +1,31 @@
-# Mission // #4x4 Industry Solutions
+# Mission // #Sustainability in the Coffee Industry
 
-Project Brief: 4x4 Industry Solutions
+Project Brief: "Sustainability in the Coffee Industry"
 
-Team Leader: Jack
+Team Leader: Francois
 
 Assignment:
-To solve a real-world challenge facing the 4x4 industry, working remotely from PC's at home, within 90 days.
+To research, analyze and propose a sustainable solution for the coffee industry, which will have a positive impact on the environment, economy, and coffee shop owners.
 
 Goals:
 
-Identify the key challenges facing the 4x4 industry.
-Develop innovative solutions to tackle these challenges.
-Implement the solutions in a way that benefits all 4x4 business owners.
-Evaluate the impact of the solutions and make necessary improvements.
+To reduce the carbon footprint of the coffee industry by 25% in the next 5 years
+To increase the use of environmentally friendly and sustainable coffee production practices
+To reduce the cost of coffee production while improving the quality of coffee beans
+To create a transparent and sustainable coffee supply chain
 Stakes:
 
-Successful completion of the project will help the 4x4 industry become more profitable and sustainable.
-Unsuccessful completion could result in continued struggles for the industry, affecting the livelihoods of all 4x4 business owners.
+A sustainable coffee industry is essential for the future of the planet
+The coffee industry is a major contributor to global warming
+The coffee industry is facing increasing challenges due to climate change
+Consumers are becoming more environmentally conscious and are looking for sustainable options
 Reserves:
 
-Access to industry data and resources
-Dedicated team of experts in the 4x4 industry
-Use of latest technology and tools to aid in research and development
-Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for 4x4 business owners worldwide.
+A budget of $50,000 for research and development
+Access to industry experts and specialists
+A 90-day timeline for the completion of the project
+A virtual platform for team collaboration and communication
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for coffee shop owners worldwide.
 
 ---
 

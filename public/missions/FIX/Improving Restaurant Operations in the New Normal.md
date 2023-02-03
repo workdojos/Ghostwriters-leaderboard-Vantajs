@@ -1,28 +1,27 @@
-# Mission // #4x4 Industry Solutions
+# Mission // #Improving Restaurant Operations in the New Normal
 
-Project Brief: 4x4 Industry Solutions
+Project Brief: Improving Restaurant Operations in the New Normal
 
-Team Leader: Jack
+Team Leader: Michel
 
 Assignment:
-To solve a real-world challenge facing the 4x4 industry, working remotely from PC's at home, within 90 days.
+To improve the operations of restaurants in the new normal, where diners are facing challenges such as reduced foot traffic, increased safety protocols, and limited dine-in capacity.
 
 Goals:
 
-Identify the key challenges facing the 4x4 industry.
-Develop innovative solutions to tackle these challenges.
-Implement the solutions in a way that benefits all 4x4 business owners.
-Evaluate the impact of the solutions and make necessary improvements.
+To increase the efficiency and profitability of restaurants.
+To improve the safety and comfort of diners and employees.
+To adapt to the changing needs of the restaurant industry.
 Stakes:
 
-Successful completion of the project will help the 4x4 industry become more profitable and sustainable.
-Unsuccessful completion could result in continued struggles for the industry, affecting the livelihoods of all 4x4 business owners.
+The success of the restaurant industry is at stake, as the current challenges can lead to a decline in profits and even closures.
+The health and safety of diners and employees are also at stake, as the new normal requires strict safety protocols to prevent the spread of COVID-19.
 Reserves:
 
-Access to industry data and resources
-Dedicated team of experts in the 4x4 industry
-Use of latest technology and tools to aid in research and development
-Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for 4x4 business owners worldwide.
+Each team member will have access to their PC's at home to work remotely.
+The team will have access to industry-leading software and tools to improve restaurant operations.
+A budget of $50,000 has been allocated for the project, to be used for purchasing necessary tools and resources.
+Successful completion of the project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for diner owners worldwide.
 
 ---
 

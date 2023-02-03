@@ -1,28 +1,25 @@
-# Mission // #4x4 Industry Solutions
+# Mission // #Revolutionizing the Writing & Publishing Industry
 
-Project Brief: 4x4 Industry Solutions
-
-Team Leader: Jack
-
-Assignment:
-To solve a real-world challenge facing the 4x4 industry, working remotely from PC's at home, within 90 days.
+Project Brief: Revolutionizing the Writing & Publishing Industry
+Team Leader: Bhimsen
+Assignment: To create a solution for the writing and publishing industry in 90 days
 
 Goals:
 
-Identify the key challenges facing the 4x4 industry.
-Develop innovative solutions to tackle these challenges.
-Implement the solutions in a way that benefits all 4x4 business owners.
-Evaluate the impact of the solutions and make necessary improvements.
+To improve the process of writing and publishing a novel
+To increase the efficiency and accuracy of the writing and publishing process
+To increase the visibility and reach of novelists worldwide
 Stakes:
 
-Successful completion of the project will help the 4x4 industry become more profitable and sustainable.
-Unsuccessful completion could result in continued struggles for the industry, affecting the livelihoods of all 4x4 business owners.
+The success of this project will determine the future of the writing and publishing industry
+Failure to complete the project within 90 days will result in a loss of credibility for the team
+Lack of progress will result in a loss of resources and funding for future projects
 Reserves:
 
-Access to industry data and resources
-Dedicated team of experts in the 4x4 industry
-Use of latest technology and tools to aid in research and development
-Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for 4x4 business owners worldwide.
+Access to the latest technology and software for writing and publishing
+Access to industry experts for advice and guidance
+Access to market research and data analysis tools
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for novelists worldwide.
 
 ---
 

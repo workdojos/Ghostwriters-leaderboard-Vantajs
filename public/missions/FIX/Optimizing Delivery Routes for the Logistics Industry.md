@@ -1,28 +1,26 @@
-# Mission // #4x4 Industry Solutions
+# Mission // #Optimizing Delivery Routes for the Logistics Industry
 
-Project Brief: 4x4 Industry Solutions
+Project Brief: Optimizing Delivery Routes for the Logistics Industry
 
-Team Leader: Jack
+Team Leader: Vytautas
 
-Assignment:
-To solve a real-world challenge facing the 4x4 industry, working remotely from PC's at home, within 90 days.
+Assignment: To identify inefficiencies in delivery routes for the logistics industry and implement solutions to reduce costs and increase efficiency.
 
 Goals:
 
-Identify the key challenges facing the 4x4 industry.
-Develop innovative solutions to tackle these challenges.
-Implement the solutions in a way that benefits all 4x4 business owners.
-Evaluate the impact of the solutions and make necessary improvements.
+To reduce delivery times by 20%
+To reduce fuel consumption by 15%
+To reduce the number of delivery errors by 10%
 Stakes:
 
-Successful completion of the project will help the 4x4 industry become more profitable and sustainable.
-Unsuccessful completion could result in continued struggles for the industry, affecting the livelihoods of all 4x4 business owners.
+The logistics industry is highly competitive, and any delay or inefficiency can result in loss of business and revenue.
+Improving delivery routes can lead to a better customer experience, leading to repeat business and increased brand loyalty.
 Reserves:
 
-Access to industry data and resources
-Dedicated team of experts in the 4x4 industry
-Use of latest technology and tools to aid in research and development
-Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for 4x4 business owners worldwide.
+The team will have access to all hot the delivery routes are planned and executed
+The team will have access to data on fuel consumption and delivery times
+The team will have access to customer feedback on delivery experiences
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for logistics managers worldwide.
 
 ---
 

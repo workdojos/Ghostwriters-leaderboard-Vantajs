@@ -1,28 +1,27 @@
-# Mission // #4x4 Industry Solutions
+# Mission // #Improving Access to Healthcare for Rural Communities
 
-Project Brief: 4x4 Industry Solutions
+Project Brief: Improving Access to Healthcare for Rural Communities
 
-Team Leader: Jack
+Team Leader: Barry
 
-Assignment:
-To solve a real-world challenge facing the 4x4 industry, working remotely from PC's at home, within 90 days.
+Assignment: The legislative branch is tasked with improving access to healthcare for rural communities across the country.
 
 Goals:
 
-Identify the key challenges facing the 4x4 industry.
-Develop innovative solutions to tackle these challenges.
-Implement the solutions in a way that benefits all 4x4 business owners.
-Evaluate the impact of the solutions and make necessary improvements.
+Increase the number of healthcare facilities in rural communities.
+Ensure that rural residents have access to quality healthcare services.
+Improve healthcare outcomes for rural residents.
 Stakes:
 
-Successful completion of the project will help the 4x4 industry become more profitable and sustainable.
-Unsuccessful completion could result in continued struggles for the industry, affecting the livelihoods of all 4x4 business owners.
+Access to quality healthcare is a fundamental right for all citizens.
+Lack of access to healthcare in rural communities can lead to serious health problems and even death.
+Improving access to healthcare in rural communities will improve the overall health and well-being of the population.
 Reserves:
 
-Access to industry data and resources
-Dedicated team of experts in the 4x4 industry
-Use of latest technology and tools to aid in research and development
-Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for 4x4 business owners worldwide.
+All team members will work remotely for 90 days.
+The team will have access to a budget of $10 million to fund healthcare projects in rural communities.
+The team will be responsible for implementing and overseeing the projects to ensure that they are successful and meet the goals of the project.
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for legislators worldwide.
 
 ---
 

@@ -80,24 +80,24 @@ export default {
 
   data() {
     return {
-      "mission_slug": "Template",
+      "mission_slug": "001",
       "current_md": "",
       "events": "",
       "missions": [
 
 
         {
-          "slug": "4x4 Industry Solutions",
+          "slug": "001",
           "name": "4x4 Industry Solutions",
           "status": "start"
         },
         {
-          "slug": "A Remote Photojournalism Project",
+          "slug": "003",
           "name": "A Remote Photojournalism Project",
           "status": "start"
         },
         {
-          "slug": "Academic Workplace Revolution",
+          "slug": "002",
           "name": "Academic Workplace Revolution",
           "status": "start"
         },

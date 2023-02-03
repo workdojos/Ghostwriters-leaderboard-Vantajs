@@ -1,28 +1,27 @@
-# Mission // #4x4 Industry Solutions
+# Mission // #Revitalizing the Performing Arts Industry
 
-Project Brief: 4x4 Industry Solutions
+Project Brief: Revitalizing the Performing Arts Industry
 
-Team Leader: Jack
+Team Leader: Adalynn
 
 Assignment:
-To solve a real-world challenge facing the 4x4 industry, working remotely from PC's at home, within 90 days.
+To create a solution for the struggling performing arts industry that will increase audience attendance, revenue, and recognition for playwrights.
 
 Goals:
 
-Identify the key challenges facing the 4x4 industry.
-Develop innovative solutions to tackle these challenges.
-Implement the solutions in a way that benefits all 4x4 business owners.
-Evaluate the impact of the solutions and make necessary improvements.
+Increase audience attendance by 20% in the first year.
+Increase revenue by 30% in the first year.
+Increase recognition for playwrights through innovative marketing strategies.
 Stakes:
 
-Successful completion of the project will help the 4x4 industry become more profitable and sustainable.
-Unsuccessful completion could result in continued struggles for the industry, affecting the livelihoods of all 4x4 business owners.
+Failure to achieve the goals will result in a decrease in funding for the performing arts industry.
+A decline in the industry will lead to a decrease in opportunities for playwrights to showcase their work.
 Reserves:
 
-Access to industry data and resources
-Dedicated team of experts in the 4x4 industry
-Use of latest technology and tools to aid in research and development
-Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for 4x4 business owners worldwide.
+Access to market research data to understand audience trends.
+Budget to implement marketing strategies.
+Support from industry professionals to provide feedback and guidance.
+Successful completion of the project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for playwrights worldwide.
 
 ---
 

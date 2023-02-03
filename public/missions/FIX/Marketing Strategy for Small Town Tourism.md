@@ -1,28 +1,27 @@
-# Mission // #4x4 Industry Solutions
+# Mission // #Marketing Strategy for Small Town Tourism
 
-Project Brief: 4x4 Industry Solutions
+Project Brief:
 
-Team Leader: Jack
+Team Leader: [Insert team leader name here]
 
-Assignment:
-To solve a real-world challenge facing the 4x4 industry, working remotely from PC's at home, within 90 days.
+Assignment: Develop a Marketing Strategy for Small Town Tourism
 
 Goals:
 
-Identify the key challenges facing the 4x4 industry.
-Develop innovative solutions to tackle these challenges.
-Implement the solutions in a way that benefits all 4x4 business owners.
-Evaluate the impact of the solutions and make necessary improvements.
+To increase the number of tourists visiting the small town by 20% within 90 days.
+To promote the unique offerings of the small town to a wider audience.
+To create a strong online presence for the small town.
 Stakes:
 
-Successful completion of the project will help the 4x4 industry become more profitable and sustainable.
-Unsuccessful completion could result in continued struggles for the industry, affecting the livelihoods of all 4x4 business owners.
+The tourism industry is a major contributor to the local economy and job market.
+A successful marketing strategy will lead to increased revenue for the small town business owners and a boost to the local economy.
+Failure to attract more tourists could result in a decline in the tourism industry and negative consequences for the local economy.
 Reserves:
 
-Access to industry data and resources
-Dedicated team of experts in the 4x4 industry
-Use of latest technology and tools to aid in research and development
-Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for 4x4 business owners worldwide.
+The team will have access to the latest marketing and technology tools to help with their efforts.
+A budget of $10,000 will be provided for the team to use for marketing and promotional purposes.
+The team will have access to expert advice and guidance from experienced marketing professionals.
+Successful completion of the project will grant all contributing members XP and unlock a new challenge in the ultimate quest to revolutionize tourism for small town business owners worldwide.
 
 ---
 

@@ -1,28 +1,26 @@
-# Mission // #4x4 Industry Solutions
+# Mission // #Solve Police Corruption in 90 Days
 
-Project Brief: 4x4 Industry Solutions
-
-Team Leader: Jack
-
-Assignment:
-To solve a real-world challenge facing the 4x4 industry, working remotely from PC's at home, within 90 days.
+Project Brief:
+Team Leader: Shelly
+Assignment: Solve Police Corruption in 90 Days
 
 Goals:
 
-Identify the key challenges facing the 4x4 industry.
-Develop innovative solutions to tackle these challenges.
-Implement the solutions in a way that benefits all 4x4 business owners.
-Evaluate the impact of the solutions and make necessary improvements.
+Identify corrupt police officers within the department.
+Gather evidence of their wrongdoings.
+Report the findings to the relevant authorities.
+Implement new measures to prevent future corruption.
 Stakes:
 
-Successful completion of the project will help the 4x4 industry become more profitable and sustainable.
-Unsuccessful completion could result in continued struggles for the industry, affecting the livelihoods of all 4x4 business owners.
+If the team is unable to identify and report any corrupt officers, the public's trust in the police will continue to decrease.
+If the team is unable to implement new measures to prevent corruption, it will be more difficult to regain public trust.
+The department will continue to be tarnished by the reputation of corrupt officers.
 Reserves:
 
-Access to industry data and resources
-Dedicated team of experts in the 4x4 industry
-Use of latest technology and tools to aid in research and development
-Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for 4x4 business owners worldwide.
+Access to all police records and evidence
+Additional resources and support from internal affairs
+Financial compensation for any overtime work required
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for police officers worldwide. This project will demonstrate the department's commitment to integrity and accountability and set a standard for other departments to follow.
 
 ---
 

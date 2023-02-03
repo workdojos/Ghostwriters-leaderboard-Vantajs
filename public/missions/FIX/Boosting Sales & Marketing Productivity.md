@@ -1,28 +1,27 @@
-# Mission // #4x4 Industry Solutions
+# Mission // #Boosting Sales & Marketing Productivity
 
-Project Brief: 4x4 Industry Solutions
+Project Brief: Boosting Sales & Marketing Productivity
 
-Team Leader: Jack
+Team Leader: Sarah Johnson
 
-Assignment:
-To solve a real-world challenge facing the 4x4 industry, working remotely from PC's at home, within 90 days.
+Assignment: The sales & marketing industry is facing several challenges in terms of productivity and efficiency. To address these challenges, our team of account executives will work remotely from their PCs at home to solve the issue in 90 days.
 
 Goals:
 
-Identify the key challenges facing the 4x4 industry.
-Develop innovative solutions to tackle these challenges.
-Implement the solutions in a way that benefits all 4x4 business owners.
-Evaluate the impact of the solutions and make necessary improvements.
+Increase the productivity of sales & marketing employees by 20%
+Improve the conversion rate of leads to sales by 10%
+Enhance the overall efficiency of the sales & marketing process
 Stakes:
 
-Successful completion of the project will help the 4x4 industry become more profitable and sustainable.
-Unsuccessful completion could result in continued struggles for the industry, affecting the livelihoods of all 4x4 business owners.
+If the goals are not met, the company may face a loss in revenue and a decrease in market share
+Failure to achieve the objectives may result in reduced job security for the account executives
+Inefficient sales & marketing practices may lead to a decrease in customer satisfaction
 Reserves:
 
-Access to industry data and resources
-Dedicated team of experts in the 4x4 industry
-Use of latest technology and tools to aid in research and development
-Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for 4x4 business owners worldwide.
+Adequate training and support will be provided to the team to ensure success
+Regular check-ins will be conducted to monitor progress
+A flexible work schedule will be implemented to accommodate the remote nature of the project
+Successful completion of the project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the workplace for account executives worldwide.
 
 ---
 

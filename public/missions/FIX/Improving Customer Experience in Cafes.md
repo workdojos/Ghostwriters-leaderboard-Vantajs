@@ -1,28 +1,22 @@
-# Mission // #4x4 Industry Solutions
+# Mission // #Improving Customer Experience in Cafes
 
-Project Brief: 4x4 Industry Solutions
+Project Brief: "Improving Customer Experience in Cafes"
 
-Team Leader: Jack
+Team Leader: Audrey
 
-Assignment:
-To solve a real-world challenge facing the 4x4 industry, working remotely from PC's at home, within 90 days.
+Assignment: The team of cafe owners is tasked with finding ways to improve the customer experience in their cafes in 90 days while working remotely from their PC's at home.
 
 Goals:
 
-Identify the key challenges facing the 4x4 industry.
-Develop innovative solutions to tackle these challenges.
-Implement the solutions in a way that benefits all 4x4 business owners.
-Evaluate the impact of the solutions and make necessary improvements.
-Stakes:
+Increase customer satisfaction by 10% through improved service and menu offerings.
+Streamline the ordering and payment process to reduce wait times by 20%.
+Implement new technologies to enhance the dining experience, such as digital menus or table-side ordering.
+Foster a welcoming and inclusive atmosphere for all customers through training and education for employees.
+Stakes: A successful completion of this project will result in increased business, repeat customers, and positive reviews. On the other hand, failure to improve the customer experience may result in decreased business, negative reviews, and loss of customers.
 
-Successful completion of the project will help the 4x4 industry become more profitable and sustainable.
-Unsuccessful completion could result in continued struggles for the industry, affecting the livelihoods of all 4x4 business owners.
-Reserves:
+Reserves: The team has access to a budget of $20,000 to implement their ideas, as well as support from a team of experts in the hospitality industry for guidance and advice.
 
-Access to industry data and resources
-Dedicated team of experts in the 4x4 industry
-Use of latest technology and tools to aid in research and development
-Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for 4x4 business owners worldwide.
+Successful completion of this project will grant all contributing members XP and unlock a new challenge in our ultimate quest to revolutionize the casual dining experience.
 
 ---
 

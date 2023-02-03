@@ -1,28 +1,28 @@
-# Mission // #4x4 Industry Solutions
+# Mission // #Zookeeper Puzzle
 
-Project Brief: 4x4 Industry Solutions
+Project Brief: Zookeeper Puzzle
 
-Team Leader: Jack
+Team Leader: Anna
 
 Assignment:
-To solve a real-world challenge facing the 4x4 industry, working remotely from PC's at home, within 90 days.
+A new virus has broken out in the zoo, infecting the animals and causing them to become aggressive and dangerous. The virus is spreading rapidly and the zookeepers must work together to find a cure before it’s too late.
 
 Goals:
 
-Identify the key challenges facing the 4x4 industry.
-Develop innovative solutions to tackle these challenges.
-Implement the solutions in a way that benefits all 4x4 business owners.
-Evaluate the impact of the solutions and make necessary improvements.
+Identify the cause of the virus and determine the best course of action to cure it.
+Work together to gather all the information necessary to develop a cure.
+Communicate effectively and efficiently with each other to solve the puzzle as quickly as possible.
 Stakes:
 
-Successful completion of the project will help the 4x4 industry become more profitable and sustainable.
-Unsuccessful completion could result in continued struggles for the industry, affecting the livelihoods of all 4x4 business owners.
+The lives of all the animals in the zoo are at risk.
+If the virus is not stopped, it could potentially spread to other zoos and wildlife sanctuaries.
+The reputation of the zoo and the zookeeper team is on the line. If they fail to solve the puzzle, the zoo will be closed permanently.
 Reserves:
 
-Access to industry data and resources
-Dedicated team of experts in the 4x4 industry
-Use of latest technology and tools to aid in research and development
-Successful completion grants all contributing members XP and unlocks a new challenge in our ultimate quest to revolutionize the workplace for 4x4 business owners worldwide.
+Each team member has access to all the necessary research materials and databases.
+The team leader, Anna, will provide regular updates on the progress of the puzzle and answer any questions that arise.
+If a team member becomes stuck or needs assistance, they can reach out to their colleagues for help.
+Note: The zookeeper team has exactly one week to solve the puzzle before the consequences become dire.
 
 ---
 
