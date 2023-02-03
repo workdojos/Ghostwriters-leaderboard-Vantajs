@@ -299,97 +299,97 @@ export default {
           "status": "start"
         },
         {
-          "slug": "Improving Customer Satisfaction in Telemarketing",
+          "slug": "040",
           "name": "Improving Customer Satisfaction in Telemarketing",
           "status": "start"
         },
         {
-          "slug": "Improving Customer Satisfaction in the Travel Industry",
+          "slug": "041",
           "name": "Improving Customer Satisfaction in the Travel Industry",
           "status": "start"
         },
         {
-          "slug": "Improving Diplomatic Relations with North Korea",
+          "slug": "042",
           "name": "Improving Diplomatic Relations with North Korea",
           "status": "start"
         },
         {
-          "slug": "Improving Efficiency in Freight Transportation",
+          "slug": "043",
           "name": "Improving Efficiency in Freight Transportation",
           "status": "start"
         },
         {
-          "slug": "Improving Freelance Payments for Digital Nomads",
+          "slug": "044",
           "name": "Improving Freelance Payments for Digital Nomads",
           "status": "start"
         },
         {
-          "slug": "Improving Labor Relations for Union Organizers",
+          "slug": "045",
           "name": "Improving Labor Relations for Union Organizers",
           "status": "start"
         },
         {
-          "slug": "Improving Medication Adherence for Chronic Conditions",
+          "slug": "046",
           "name": "Improving Medication Adherence for Chronic Conditions",
           "status": "start"
         },
         {
-          "slug": "Improving Medication Administration Accuracy in the Healthcare Industry",
+          "slug": "047",
           "name": "Improving Medication Administration Accuracy in the Healthcare Industry",
           "status": "start"
         },
         {
-          "slug": "Improving Music Industry Monetization for Lyricists",
+          "slug": "048",
           "name": "Improving Music Industry Monetization for Lyricists",
           "status": "start"
         },
         {
-          "slug": "Improving Pain Management for Chronic Pain Patients",
+          "slug": "049",
           "name": "Improving Pain Management for Chronic Pain Patients",
           "status": "start"
         },
         {
-          "slug": "Improving Patient Outcomes with Telemedicine",
+          "slug": "050",
           "name": "Improving Patient Outcomes with Telemedicine",
           "status": "start"
         },
         {
-          "slug": "Improving Prescription Accuracy for the Pharmaceutical Industry",
+          "slug": "051",
           "name": "Improving Prescription Accuracy for the Pharmaceutical Industry",
           "status": "start"
         },
         {
-          "slug": "Improving Remote Work Efficiency for App Developers",
+          "slug": "052",
           "name": "Improving Remote Work Efficiency for App Developers",
           "status": "start"
         },
         {
-          "slug": "Improving Reputation Management for the Public Relations Industry",
+          "slug": "053",
           "name": "Improving Reputation Management for the Public Relations Industry",
           "status": "start"
         },
         {
-          "slug": "Improving Restaurant Operations in the New Normal",
+          "slug": "054",
           "name": "Improving Restaurant Operations in the New Normal",
           "status": "start"
         },
         {
-          "slug": "Improving Self-Governance for Teams",
+          "slug": "055",
           "name": "Improving Self-Governance for Teams",
           "status": "start"
         },
         {
-          "slug": "Improving Small Business Sales through E-Commerce Solutions",
+          "slug": "056",
           "name": "Improving Small Business Sales through E-Commerce Solutions",
           "status": "start"
         },
         {
-          "slug": "Improving Supply Chain Efficiency with Technology",
+          "slug": "057",
           "name": "Improving Supply Chain Efficiency with Technology",
           "status": "start"
         },
         {
-          "slug": "Improving Supply-Chain Efficiency",
+          "slug": "059",
           "name": "Improving Supply-Chain Efficiency",
           "status": "start"
         },
@@ -399,192 +399,192 @@ export default {
           "status": "start"
         },
         {
-          "slug": "Improving Sustainable Outdoor Exploration",
+          "slug": "060",
           "name": "Improving Sustainable Outdoor Exploration",
           "status": "start"
         },
         {
-          "slug": "Improving the Accuracy of Predictive Analytics",
+          "slug": "061",
           "name": "Improving the Accuracy of Predictive Analytics",
           "status": "start"
         },
         {
-          "slug": "Improving the Efficiency of Political Decision Making Processes",
+          "slug": "062",
           "name": "Improving the Efficiency of Political Decision Making Processes",
           "status": "start"
         },
         {
-          "slug": "Improving the Efficiency of Remote Consulting Teams",
+          "slug": "063",
           "name": "Improving the Efficiency of Remote Consulting Teams",
           "status": "start"
         },
         {
-          "slug": "Improving the Impact of Spiritual Coaching in the Workplace",
+          "slug": "064",
           "name": "Improving the Impact of Spiritual Coaching in the Workplace",
           "status": "start"
         },
         {
-          "slug": "International Arbitration Industry Reform",
+          "slug": "065",
           "name": "International Arbitration Industry Reform",
           "status": "start"
         },
         {
-          "slug": "Lab Testing Industry Optimization",
+          "slug": "066",
           "name": "Lab Testing Industry Optimization",
           "status": "start"
         },
         {
-          "slug": "Legal Industry Transformation Challenge",
+          "slug": "067",
           "name": "Legal Industry Transformation Challenge",
           "status": "start"
         },
         {
-          "slug": "Lending Industry Reimagined",
+          "slug": "068",
           "name": "Lending Industry Reimagined",
           "status": "start"
         },
         {
-          "slug": "Live Event Industry Recovery Plan",
+          "slug": "069",
           "name": "Live Event Industry Recovery Plan",
           "status": "start"
         },
         {
-          "slug": "Marketing Services Industry Lead Generation Project",
+          "slug": "070",
           "name": "Marketing Services Industry Lead Generation Project",
           "status": "start"
         },
         {
-          "slug": "Marketing Strategy for Small Town Tourism",
+          "slug": "071",
           "name": "Marketing Strategy for Small Town Tourism",
           "status": "start"
         },
         {
-          "slug": "Motivational Speaking Industry Revolution",
+          "slug": "072",
           "name": "Motivational Speaking Industry Revolution",
           "status": "start"
         },
         {
-          "slug": "Non-Profit Collaboration to Solve Fundraising Challenges",
+          "slug": "073",
           "name": "Non-Profit Collaboration to Solve Fundraising Challenges",
           "status": "start"
         },
         {
-          "slug": "Operations Specialist Remote Challenge",
+          "slug": "074",
           "name": "Operations Specialist Remote Challenge",
           "status": "start"
         },
         {
-          "slug": "Optimizing Delivery Routes for the Logistics Industry",
+          "slug": "075",
           "name": "Optimizing Delivery Routes for the Logistics Industry",
           "status": "start"
         },
         {
-          "slug": "Optimizing Machining Processes for Energy Efficiency",
+          "slug": "076",
           "name": "Optimizing Machining Processes for Energy Efficiency",
           "status": "start"
         },
         {
-          "slug": "Predictive Maintenance for Smart Factories",
+          "slug": "077",
           "name": "Predictive Maintenance for Smart Factories",
           "status": "start"
         },
         {
-          "slug": "Preservation of Historical Properties",
+          "slug": "078",
           "name": "Preservation of Historical Properties",
           "status": "start"
         },
         {
-          "slug": "Protecting and Revitalizing our National Park System",
+          "slug": "079",
           "name": "Protecting and Revitalizing our National Park System",
           "status": "start"
         },
         {
-          "slug": "Real-Estate Industry Services",
+          "slug": "080",
           "name": "Real-Estate Industry Services",
           "status": "start"
         },
         {
-          "slug": "Real-Estate Industry Solutions",
+          "slug": "081",
           "name": "Real-Estate Industry Solutions",
           "status": "start"
         },
         {
-          "slug": "Real-world Consequences for the Cryptocurrency Industry",
+          "slug": "082",
           "name": "Real-world Consequences for the Cryptocurrency Industry",
           "status": "start"
         },
         {
-          "slug": "Recruitment Industry Revolution",
+          "slug": "083",
           "name": "Recruitment Industry Revolution",
           "status": "start"
         },
         {
-          "slug": "Recruitment Industry Solutions for Job Seekers",
+          "slug": "084",
           "name": "Recruitment Industry Solutions for Job Seekers",
           "status": "start"
         },
         {
-          "slug": "Reinventing the Record Label Industry",
+          "slug": "085",
           "name": "Reinventing the Record Label Industry",
           "status": "start"
         },
         {
-          "slug": "Remote Botanical Project",
+          "slug": "086",
           "name": "Remote Botanical Project",
           "status": "start"
         },
         {
-          "slug": "Remote Evangelism Solutions",
+          "slug": "087",
           "name": "Remote Evangelism Solutions",
           "status": "start"
         },
         {
-          "slug": "Remote International Business Solutions",
+          "slug": "088",
           "name": "Remote International Business Solutions",
           "status": "start"
         },
         {
-          "slug": "Remote Life Coaching for the Life Coaching Industry",
+          "slug": "089",
           "name": "Remote Life Coaching for the Life Coaching Industry",
           "status": "start"
         },
         {
-          "slug": "Remote R&D Solutions for the R&D Industry",
+          "slug": "090",
           "name": "Remote R&D Solutions for the R&D Industry",
           "status": "start"
         },
         {
-          "slug": "Remote Real Estate Solutions for Mortgage Brokers",
+          "slug": "091",
           "name": "Remote Real Estate Solutions for Mortgage Brokers",
           "status": "start"
         },
         {
-          "slug": "Remote Sales Coaching Initiative",
+          "slug": "092",
           "name": "Remote Sales Coaching Initiative",
           "status": "start"
         },
         {
-          "slug": "Remote Space Debris Mitigation and Removal",
+          "slug": "093",
           "name": "Remote Space Debris Mitigation and Removal",
           "status": "start"
         },
         {
-          "slug": "Remote Study of Mental Health",
+          "slug": "094",
           "name": "Remote Study of Mental Health",
           "status": "start"
         },
         {
-          "slug": "Renewable Energy Sources",
+          "slug": "095",
           "name": "Renewable Energy Sources",
           "status": "start"
         },
         {
-          "slug": "Revamp of the Sales & Marketing Industry with Social Media Management",
+          "slug": "096",
           "name": "Revamp of the Sales & Marketing Industry with Social Media Management",
           "status": "start"
         },
         {
-          "slug": "Revamping the Virtual Classroom Experience",
+          "slug": "097",
           "name": "Revamping the Virtual Classroom Experience",
           "status": "start"
         },
@@ -593,7 +593,265 @@ export default {
           "name": "A Remote Photojournalism Project",
           "status": "start"
         },
-      ],
+        {
+          "slug": "Revitalizing the Arcade Industry",
+          "name": "Revitalizing the Arcade Industry",
+          "status": "start"
+        },
+        {
+          "slug": "Revitalizing the Art Industry",
+          "name": "Revitalizing the Art Industry",
+          "status": "start"
+        },
+        {
+          "slug": "Revitalizing the Beer Brewing Industry",
+          "name": "Revitalizing the Beer Brewing Industry",
+          "status": "start"
+        },
+        {
+          "slug": "Revitalizing the Performing Arts Industry",
+          "name": "Revitalizing the Performing Arts Industry",
+          "status": "start"
+        },
+        {
+          "slug": "Revitalizing the Publishing Industry for Ghostwriters",
+          "name": "Revitalizing the Publishing Industry for Ghostwriters",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionize the Automotive Industry for Dealership Owners",
+          "name": "Revolutionize the Automotive Industry for Dealership Owners",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing Book-keeping for Administrators",
+          "name": "Revolutionizing Book-keeping for Administrators",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing Higher Education Industry",
+          "name": "Revolutionizing Higher Education Industry",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing Journalism",
+          "name": "Revolutionizing Journalism",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing the Advertising Industry",
+          "name": "Revolutionizing the Advertising Industry",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing the Exhibition Industry",
+          "name": "Revolutionizing the Exhibition Industry",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing the Film Industry",
+          "name": "Revolutionizing the Film Industry",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing the Film Industry for Screenwriters",
+          "name": "Revolutionizing the Film Industry for Screenwriters",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing the Martial Arts Industry",
+          "name": "Revolutionizing the Martial Arts Industry",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing the Publishing Industry",
+          "name": "Revolutionizing the Publishing Industry",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing the Startup Financing Industry",
+          "name": "Revolutionizing the Startup Financing Industry",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing the Travel Industry for Backpackers",
+          "name": "Revolutionizing the Travel Industry for Backpackers",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing the Workplace for Philosophers",
+          "name": "Revolutionizing the Workplace for Philosophers",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing the Workplace for Web Designers",
+          "name": "Revolutionizing the Workplace for Web Designers",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing the Writing & Publishing Industry",
+          "name": "Revolutionizing the Writing & Publishing Industry",
+          "status": "start"
+        },
+        {
+          "slug": "Revolutionizing Web Design",
+          "name": "Revolutionizing Web Design",
+          "status": "start"
+        },
+        {
+          "slug": "Risk Assessment Model for Natural Disasters",
+          "name": "Risk Assessment Model for Natural Disasters",
+          "status": "start"
+        },
+        {
+          "slug": "Social Media Influencer Campaign for Better Online Privacy",
+          "name": "Social Media Influencer Campaign for Better Online Privacy",
+          "status": "start"
+        },
+        {
+          "slug": "Social Media Influencer Campaign for Better Online Privacy",
+          "name": "Social Media Influencer Campaign for Better Online Privacy",
+          "status": "start"
+        },
+        {
+          "slug": "Sociological Solutions for Social Inequality",
+          "name": "Sociological Solutions for Social Inequality",
+          "status": "start"
+        },
+        {
+          "slug": "Solve Police Corruption in 90 Days",
+          "name": "Solve Police Corruption in 90 Days",
+          "status": "start"
+        },
+        {
+          "slug": "Solve the Publishing Industry Puzzle",
+          "name": "Solve the Publishing Industry Puzzle",
+          "status": "start"
+        },
+        {
+          "slug": "Streamlining International Trade Procedures",
+          "name": "Streamlining International Trade Procedures",
+          "status": "start"
+        },
+        {
+          "slug": "Streamlining the Freelance Industry",
+          "name": "Streamlining the Freelance Industry",
+          "status": "start"
+        },
+        {
+          "slug": "Sustainability in the Coffee Industry",
+          "name": "Sustainability in the Coffee Industry",
+          "status": "start"
+        },
+        {
+          "slug": "The Biotech Revolution",
+          "name": "The Biotech Revolution",
+          "status": "start"
+        },
+        {
+          "slug": "The Climate Change Crisis for Yogis",
+          "name": "The Climate Change Crisis for Yogis",
+          "status": "start"
+        },
+        {
+          "slug": "The Digital Marketing Crisis",
+          "name": "The Digital Marketing Crisis",
+          "status": "start"
+        },
+        {
+          "slug": "The Effect of Artificial Intelligence on Employment",
+          "name": "The Effect of Artificial Intelligence on Employment",
+          "status": "start"
+        },
+        {
+          "slug": "The Future of Cinema",
+          "name": "The Future of Cinema",
+          "status": "start"
+        },
+        {
+          "slug": "The Future of Racing",
+          "name": "The Future of Racing",
+          "status": "start"
+        },
+        {
+          "slug": "The Future of Religious Organizations",
+          "name": "The Future of Religious Organizations",
+          "status": "start"
+        },
+        {
+          "slug": "The Future of Sustainable Design",
+          "name": "The Future of Sustainable Design",
+          "status": "start"
+        },
+        {
+          "slug": "The Impact of Climate Change on the Outdoor Adventure Industry",
+          "name": "The Impact of Climate Change on the Outdoor Adventure Industry",
+          "status": "start"
+        },
+        {
+          "slug": "The Remote Revolution in Performing Arts",
+          "name": "The Remote Revolution in Performing Arts",
+          "status": "start"
+        },
+        {
+          "slug": "The Remote Startup Industry Challenge",
+          "name": "The Remote Startup Industry Challenge",
+          "status": "start"
+        },
+        {
+          "slug": "The Retail Industry Challenge",
+          "name": "The Retail Industry Challenge",
+          "status": "start"
+        },
+        {
+          "slug": "The Weekend Warrior Challenge",
+          "name": "The Weekend Warrior Challenge",
+          "status": "start"
+        },
+        {
+          "slug": "The Wholesale Industry Puzzle",
+          "name": "The Wholesale Industry Puzzle",
+          "status": "start"
+        },
+        {
+          "slug": "Uncovering Corporate Espionage",
+          "name": "Uncovering Corporate Espionage",
+          "status": "start"
+        },
+        {
+          "slug": "Virology Study",
+          "name": "Virology Study",
+          "status": "start"
+        },
+        {
+          "slug": "Virtual Managed Services Project",
+          "name": "Virtual Managed Services Project",
+          "status": "start"
+        },
+        {
+          "slug": "Virtual Physical Therapy Platform",
+          "name": "Virtual Physical Therapy Platform",
+          "status": "start"
+        },
+        {
+          "slug": "Virtual Reality Training and Safety Standards",
+          "name": "Virtual Reality Training and Safety Standards",
+          "status": "start"
+        },
+        {
+          "slug": "Wine Industry Puzzle Challenge",
+          "name": "Wine Industry Puzzle Challenge",
+          "status": "start"
+        },
+        {
+          "slug": "Zookeeper Puzzle",
+          "name": "Zookeeper Puzzle",
+          "status": "start"
+        },
+
+
+
+     ],
       "pilots": [
         {
           "callsign": "Adalynn",
