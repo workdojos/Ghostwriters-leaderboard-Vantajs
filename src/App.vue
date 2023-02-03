@@ -84,6 +84,40 @@ export default {
       "current_md": "",
       "events": "",
       "missions": [
+
+
+        {
+          "slug": "4x4 Industry Solutions",
+          "name": "4x4 Industry Solutions",
+          "status": "start"
+        },
+        {
+          "slug": "A Remote Photojournalism Project",
+          "name": "A Remote Photojournalism Project",
+          "status": "start"
+        },
+        {
+          "slug": "Academic Workplace Revolution",
+          "name": "Academic Workplace Revolution",
+          "status": "start"
+        },
+        {
+          "slug": "AI Bias and Ethical Concerns",
+          "name": "AI Bias and Ethical Concerns",
+          "status": "start"
+        },
+        {
+          "slug": "Art Industry Revolution",
+          "name": "Art Industry Revolution",
+          "status": "start"
+        },
+        {
+          "slug": "Automated Quality Control for the Manufacturing Industry",
+          "name": "Automated Quality Control for the Manufacturing Industry",
+          "status": "start"
+        },
+
+
         {
           "slug": "Template",
           "name": "Template",
