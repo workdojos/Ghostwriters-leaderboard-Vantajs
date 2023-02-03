@@ -91,28 +91,24 @@ export default {
           "name": "4x4 Industry Solutions",
           "status": "start"
         },
-        {
-          "slug": "003",
-          "name": "A Remote Photojournalism Project",
-          "status": "start"
-        },
+
         {
           "slug": "002",
           "name": "Academic Workplace Revolution",
           "status": "start"
         },
         {
-          "slug": "AI Bias and Ethical Concerns",
+          "slug": "004",
           "name": "AI Bias and Ethical Concerns",
           "status": "start"
         },
         {
-          "slug": "Art Industry Revolution",
+          "slug": "005",
           "name": "Art Industry Revolution",
           "status": "start"
         },
         {
-          "slug": "Automated Quality Control for the Manufacturing Industry",
+          "slug": "006",
           "name": "Automated Quality Control for the Manufacturing Industry",
           "status": "start"
         },
@@ -123,27 +119,27 @@ export default {
           "status": "start"
         },
         {
-          "slug": "Bartender Automation and Efficiency",
+          "slug": "007",
           "name": "Bartender Automation and Efficiency",
           "status": "start"
         },
         {
-          "slug": "Beauty-Wellness Connection",
+          "slug": "008",
           "name": "Beauty-Wellness Connection",
           "status": "start"
         },
         {
-          "slug": "Beer Garden Optimization Challenge",
+          "slug": "009",
           "name": "Beer Garden Optimization Challenge",
           "status": "start"
         },
         {
-          "slug": "Boosting Customer Engagement through Interactive Content Marketing",
+          "slug": "010",
           "name": "Boosting Customer Engagement through Interactive Content Marketing",
           "status": "start"
         },
         {
-          "slug": "Boosting Customer Engagement through Interactive Content Marketing",
+          "slug": "011",
           "name": "Boosting Customer Engagement through Interactive Content Marketing",
           "status": "start"
         },
@@ -153,22 +149,22 @@ export default {
           "status": "start"
         },
         {
-          "slug": "Brief: Remote Barista Initiative",
+          "slug": "012",
           "name": "Brief: Remote Barista Initiative",
           "status": "start"
         },
         {
-          "slug": "Castle Industry Crisis Management Team",
+          "slug": "013",
           "name": "Castle Industry Crisis Management Team",
           "status": "start"
         },
         {
-          "slug": "Community Services Volunteer Initiative",
+          "slug": "014",
           "name": "Community Services Volunteer Initiative",
           "status": "start"
         },
         {
-          "slug": "Consequences for the Aviation Industry",
+          "slug": "015",
           "name": "Consequences for the Aviation Industry",
           "status": "start"
         },
@@ -178,57 +174,57 @@ export default {
           "status": "start"
         },
         {
-          "slug": "Develop a new energy storage solution for renewable energy sources",
+          "slug": "016",
           "name": "Develop a new energy storage solution for renewable energy sources",
           "status": "start"
         },
         {
-          "slug": "Develop Plant-based Fertilizer",
+          "slug": "017",
           "name": "Develop Plant-based Fertilizer",
           "status": "start"
         },
         {
-          "slug": "Digital Preservation in the Real World",
+          "slug": "018",
           "name": "Digital Preservation in the Real World",
           "status": "start"
         },
         {
-          "slug": "Disco Ownership Solutions Team",
+          "slug": "019",
           "name": "Disco Ownership Solutions Team",
           "status": "start"
         },
         {
-          "slug": "Distilled Spirits Industry Challenge",
+          "slug": "020",
           "name": "Distilled Spirits Industry Challenge",
           "status": "start"
         },
         {
-          "slug": "Electronic Ticketing System for Musicians",
+          "slug": "021",
           "name": "Electronic Ticketing System for Musicians",
           "status": "start"
         },
         {
-          "slug": "Exporters Assistance Program",
+          "slug": "022",
           "name": "Exporters Assistance Program",
           "status": "start"
         },
         {
-          "slug": "Fiduciary & Security Services Industry",
+          "slug": "023",
           "name": "Fiduciary & Security Services Industry",
           "status": "start"
         },
         {
-          "slug": "Financial Risk Management",
+          "slug": "024",
           "name": "Financial Risk Management",
           "status": "start"
         },
         {
-          "slug": "Financial Services Industry Challenge",
+          "slug": "025",
           "name": "Financial Services Industry Challenge",
           "status": "start"
         },
         {
-          "slug": "Firefighters Remote Solution",
+          "slug": "026",
           "name": "Firefighters Remote Solution",
           "status": "start"
         },
@@ -238,67 +234,67 @@ export default {
           "status": "start"
         },
         {
-          "slug": "he Effect of Artificial Intelligence on Employment",
-          "name": "he Effect of Artificial Intelligence on Employment",
+          "slug": "027",
+          "name": "The Effect of Artificial Intelligence on Employment",
           "status": "start"
         },
         {
-          "slug": "Impact of Programmatic Advertising on Consumer Trust",
+          "slug": "028",
           "name": "Impact of Programmatic Advertising on Consumer Trust",
           "status": "start"
         },
         {
-          "slug": "Improving Access to Behavioral Health Services for Low-Income Populations",
+          "slug": "029",
           "name": "Improving Access to Behavioral Health Services for Low-Income Populations",
           "status": "start"
         },
         {
-          "slug": "Improving Access to Healthcare for Rural Communities",
+          "slug": "030",
           "name": "Improving Access to Healthcare for Rural Communities",
           "status": "start"
         },
         {
-          "slug": "Improving Brew Pub Operations During the COVID-19 Pandemic",
+          "slug": "032",
           "name": "Improving Brew Pub Operations During the COVID-19 Pandemic",
           "status": "start"
         },
         {
-          "slug": "Improving Communication and Collaboration in Remote Teams",
+          "slug": "033",
           "name": "Improving Communication and Collaboration in Remote Teams",
           "status": "start"
         },
         {
-          "slug": "Improving Consultant Productivity",
+          "slug": "031",
+          "name": "Improving Advisor Productivity",
+          "status": "start"
+        },
+        {
+          "slug": "034",
           "name": "Improving Consultant Productivity",
           "status": "start"
         },
         {
-          "slug": "Improving Consultant Productivity",
-          "name": "Improving Consultant Productivity",
-          "status": "start"
-        },
-        {
-          "slug": "Improving Crop Yields for the Cannabis Industry",
+          "slug": "035",
           "name": "Improving Crop Yields for the Cannabis Industry",
           "status": "start"
         },
         {
-          "slug": "Improving Crop Yields in Drought-Prone Areas",
+          "slug": "036",
           "name": "Improving Crop Yields in Drought-Prone Areas",
           "status": "start"
         },
         {
-          "slug": "Improving Customer Experience in Cafes",
+          "slug": "037",
           "name": "Improving Customer Experience in Cafes",
           "status": "start"
         },
         {
-          "slug": "Improving Customer Experience in the Guesthouse Industry",
+          "slug": "038",
           "name": "Improving Customer Experience in the Guesthouse Industry",
           "status": "start"
         },
         {
-          "slug": "Improving Customer Retention in the Franchising Industry",
+          "slug": "039",
           "name": "Improving Customer Retention in the Franchising Industry",
           "status": "start"
         },
@@ -592,7 +588,11 @@ export default {
           "name": "Revamping the Virtual Classroom Experience",
           "status": "start"
         },
-
+        {
+          "slug": "003",
+          "name": "A Remote Photojournalism Project",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
