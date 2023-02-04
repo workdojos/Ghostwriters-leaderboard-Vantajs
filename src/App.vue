@@ -838,7 +838,11 @@ export default {
           "name": "Zookeeper Puzzle",
           "status": "start"
         },
-
+        {
+          "slug": "147",
+          "name": "Gaming Solutions",
+          "status": "start"
+        },
 
 
      ],
