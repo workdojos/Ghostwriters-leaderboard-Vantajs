@@ -85,16 +85,367 @@ export default {
       "events": "",
       "missions": [
 
+        {
+          "slug": "1",
+          "name": "Choose your profession and domain name",
+          "status": "start"
+        },
 
         {
-          "slug": "001",
-          "name": "4x4 Industry Solutions",
+          "slug": "2",
+          "name": "Become familiar with your dashboard",
+          "status": "start"
+        },
+
+        {
+          "slug": "3",
+          "name": "Gain SSH access to your server",
+          "status": "start"
+        },
+        
+
+        {
+          "slug": "4",
+          "name": "Become familiar with your Nextcloud Hub",
+          "status": "start"
+        },
+        
+
+        {
+          "slug": "5",
+          "name": "Customize your Wordpress site",
+          "status": "start"
+        },
+        
+
+        {
+          "slug": "6",
+          "name": "Customize your Ghost blog",
+          "status": "start"
+        },
+
+        {
+          "slug": "7",
+          "name": "Customize your Wiki",
           "status": "start"
         },
 
 
         {
-          "slug": "102",
+          "slug": "8",
+          "name": "Customize your chat server",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "9",
+          "name": "Review and save essential Linux commands",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "10",
+          "name": "Secure your server with Fail2ban",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "11",
+          "name": "Create a logo",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "12",
+          "name": "Create social media handles",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "13",
+          "name": "Customize social media channels",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "14",
+          "name": "Write and publish your first blog",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "15",
+          "name": "Write and save your first Wiki entry",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "16",
+          "name": "Assemble digital assets",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "17",
+          "name": "Research 5 challenges facing your industry",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "18",
+          "name": "Research 5 recent innovations affecting your profession",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "19",
+          "name": "Compile a list of 5 competitors in your space",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "20",
+          "name": "Compile a list of 5 influential people operating in your industry",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "21",
+          "name": "Start a free trial with Buffer and schedule 10 posts to your social media channels",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "22",
+          "name": "Compile a list of 15 Reddit threads related to your mission",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "23",
+          "name": "Network with 5 contacts or organizations",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "24",
+          "name": "Schedule 5 additional blog posts",
+          "status": "start"
+        },
+
+        {
+          "slug": "25",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+        {
+          "slug": "26",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+        {
+          "slug": "27",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+
+        {
+          "slug": "28",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+
+        {
+          "slug": "29",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+
+        {
+          "slug": "30",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+
+        {
+          "slug": "31",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+
+        {
+          "slug": "32",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+
+        {
+          "slug": "33",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+
+        {
+          "slug": "34",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+
+        {
+          "slug": "35",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+
+        {
+          "slug": "36",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+
+        {
+          "slug": "37",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+
+        {
+          "slug": "38",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+
+        {
+          "slug": "39",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+        {
+          "slug": "40",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "41",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "42",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "43",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "39",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "39",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "39",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "39",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "39",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "39",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+        {
+          "slug": "39",
+          "name": "Create a business plan",
+          "status": "start"
+        },
+
+
+
+
+
+
+        {
+          "slug": "100",
           "name": "Revitalizing the Publishing Industry for Ghostwriters",
           "status": "start"
         },
