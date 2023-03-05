@@ -335,22 +335,15 @@ export default {
 
      ],
       "pilots": [
-        {
-          "callsign": "Adalynn",
-          "alias": "Adalynn Chantelle",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Perfoming Arts ",
-          "mech": "Playwright"
-        },
+
 
         {
-          "callsign": "Alice",
-          "alias": "Alice Adair",
+          "callsign": "Janine",
+          "alias": "Janine Jenkins",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
-          "frame": "Sales",
-          "mech": "Account Executive"
+          "frame": "Writing And Publishing ",
+          "mech": "Ghostwriter"
         },
 
 
@@ -361,15 +354,6 @@ export default {
           "corpro": "Available",
           "frame": "Public Relations ",
           "mech": "PR Rep"
-        },
-
-        {
-          "callsign": "Andrej",
-          "alias": "Andrej Bauer",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Automation ",
-          "mech": "Project Manager"
         },
 
 
@@ -384,63 +368,12 @@ export default {
 
 
         {
-          "callsign": "Batsukh",
-          "alias": "Batsukh Lkhagvasuren",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Motivational Speaking ",
-          "mech": "Guest Speaker"
-        },
-
-
-        {
-          "callsign": "Berthold",
-          "alias": "Berthold Mueller",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Small Business ",
-          "mech": "Clerk"
-        },
-
-
-        {
           "callsign": "Bhimsen",
           "alias": "Bhimsen Shrestha",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Writing & Publishing ",
           "mech": "Novelist"
-        },
-
-
-
-        {
-          "callsign": "Carlos",
-          "alias": "Carlos Rodriguez",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Recruitment ",
-          "mech": "Headhunter"
-        },
-
-
-        {
-          "callsign": "Carrie",
-          "alias": "Carrie Castellano",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Community Services ",
-          "mech": "Neighborhood Volunteer"
-        },
-
-
-        {
-          "callsign": "Chandler",
-          "alias": "Chandler von Hausen",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Self-Governance ",
-          "mech": "Committee Chair"
         },
 
 
@@ -451,36 +384,6 @@ export default {
           "corpro": "Available",
           "frame": "Marketing Services ",
           "mech": "Lead Generator"
-        },
-
-
-        {
-          "callsign": "Craig",
-          "alias": "Craig Conner",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Software Development ",
-          "mech": "App Developer"
-        },
-
-
-        {
-          "callsign": "Cynthia",
-          "alias": "Cynthia Williams",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Consulting ",
-          "mech": "Consultant"
-        },
-
-
-        {
-          "callsign": "Destiny",
-          "alias": "Destiny Smith",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Life Coaching ",
-          "mech": "Life Coach"
         },
 
 
@@ -515,45 +418,6 @@ export default {
 
 
         {
-          "callsign": "Gerald",
-          "alias": "Gerald LeBlanc",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Legal ",
-          "mech": "Lawyer"
-        },
-
-
-        {
-          "callsign": "Giovanni",
-          "alias": "Giovanni Rossi",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Coaching ",
-          "mech": "Spiritual Coach"
-        },
-
-
-        {
-          "callsign": "Helene",
-          "alias": "Helene von Strudel",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Art And Special Events ",
-          "mech": "Exhibitionist"
-        },
-
-
-        {
-          "callsign": "Ivana",
-          "alias": "Ivana Petrovic",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Metaverse & Vr ",
-          "mech": "Developer"
-        },
-
-        {
           "callsign": "Jacob",
           "alias": "Jacob Trainer",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
@@ -563,34 +427,6 @@ export default {
         },
 
 
-        {
-          "callsign": "Janine",
-          "alias": "Janine Jenkins",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Writing And Publishing ",
-          "mech": "Ghostwriter"
-        },
-
-
-        {
-          "callsign": "Jaxon",
-          "alias": "Jaxon Petrescu",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Digital Marketing Services ",
-          "mech": "Web Jedi"
-        },
-
-
-        {
-          "callsign": "Lucie",
-          "alias": "Lucie Dubois",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Advertising ",
-          "mech": "Media Buyer"
-        },
 
 
         {
@@ -604,52 +440,12 @@ export default {
 
 
         {
-          "callsign": "Marco",
-          "alias": "Marco Fenech",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Financial Services ",
-          "mech": "Investment Banker"
-        },
-
-
-        {
-          "callsign": "Marcus",
-          "alias": "Marcus Blackwood",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Money Lending ",
-          "mech": "Bankroller"
-        },
-
-
-        {
           "callsign": "Marta",
           "alias": "Marta Kowalski",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Journalism, News, And Media ",
           "mech": "Photo Journalist"
-        },
-
-
-        {
-          "callsign": "Martina",
-          "alias": "Martina Garcia",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Support Group ",
-          "mech": "Moderator"
-        },
-
-
-        {
-          "callsign": "Michael",
-          "alias": "Michael Mohanan",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Fiduciary & Security Services ",
-          "mech": "Trustee"
         },
 
 
@@ -674,16 +470,6 @@ export default {
 
 
         {
-          "callsign": "Orazali",
-          "alias": "Orazali Jumabayev",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Philosophy And Higher Education ",
-          "mech": "Philosopher"
-        },
-
-
-        {
           "callsign": "Paula",
           "alias": "Paula Randall",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
@@ -694,33 +480,12 @@ export default {
 
 
         {
-          "callsign": "Pedro",
-          "alias": "Pedro Sanchez",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Startup Services ",
-          "mech": "Cofounder"
-        },
-
-
-        {
           "callsign": "Petra",
           "alias": "Petra Kostas",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "Available",
           "frame": "Graphic Design And Graphic Arts ",
           "mech": "Graphic Designer"
-        },
-
-
-
-        {
-          "callsign": "Susanna",
-          "alias": "Samantha Forester",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Finance ",
-          "mech": "CFO"
         },
 
 
@@ -755,17 +520,6 @@ export default {
         },
 
 
-
-        {
-          "callsign": "Tamar",
-          "alias": "Tamar Kobalia",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Freelance ",
-          "mech": "Digital Nomad"
-        },
-
-
         {
           "callsign": "Tina",
           "alias": "Tina Kowalski",
@@ -775,16 +529,6 @@ export default {
           "mech": "Screenwriter"
         },
 
-
-
-        {
-          "callsign": "Viktor",
-          "alias": "Viktor Kuznetsov",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "Available",
-          "frame": "Consulting ",
-          "mech": "Consultant"
-        },
 
 
 
