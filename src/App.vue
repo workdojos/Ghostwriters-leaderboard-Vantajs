@@ -112,12 +112,6 @@ export default {
           "name": "Automated Quality Control for the Manufacturing Industry",
           "status": "start"
         },
-
-        {
-          "slug": "Automated Quality Control for the Manufacturing Industry",
-          "name": "Automated Quality Control for the Manufacturing Industry",
-          "status": "start"
-        },
         {
           "slug": "007",
           "name": "Bartender Automation and Efficiency",
