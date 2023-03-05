@@ -257,13 +257,13 @@ export default {
 
         {
           "slug": "26",
-          "name": "Create a business plan",
+          "name": "Create a pitch deck",
           "status": "start"
         },
 
         {
           "slug": "27",
-          "name": "Create a business plan",
+          "name": "Add an additional teammate",
           "status": "start"
         },
 
@@ -271,7 +271,7 @@ export default {
 
         {
           "slug": "28",
-          "name": "Create a business plan",
+          "name": "Pitch 3 investors",
           "status": "start"
         },
 
@@ -279,7 +279,7 @@ export default {
 
         {
           "slug": "29",
-          "name": "Create a business plan",
+          "name": "Register a company",
           "status": "start"
         },
 
@@ -287,7 +287,7 @@ export default {
 
         {
           "slug": "30",
-          "name": "Create a business plan",
+          "name": "Register a trademark",
           "status": "start"
         },
 
@@ -295,7 +295,7 @@ export default {
 
         {
           "slug": "31",
-          "name": "Create a business plan",
+          "name": "Create a newsletter",
           "status": "start"
         },
 
@@ -303,7 +303,7 @@ export default {
 
         {
           "slug": "32",
-          "name": "Create a business plan",
+          "name": "Identify paid media opportunities",
           "status": "start"
         },
 
@@ -311,7 +311,7 @@ export default {
 
         {
           "slug": "33",
-          "name": "Create a business plan",
+          "name": "Write a whitepaper",
           "status": "start"
         },
 
@@ -319,131 +319,14 @@ export default {
 
         {
           "slug": "34",
-          "name": "Create a business plan",
+          "name": "Host a webinar",
           "status": "start"
         },
-
-
-
         {
           "slug": "35",
-          "name": "Create a business plan",
+          "name": "Host a local event",
           "status": "start"
         },
-
-
-
-        {
-          "slug": "36",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-
-        {
-          "slug": "37",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-
-        {
-          "slug": "38",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-
-        {
-          "slug": "39",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-        {
-          "slug": "40",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-        {
-          "slug": "41",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-        {
-          "slug": "42",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-        {
-          "slug": "43",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-        {
-          "slug": "39",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-        {
-          "slug": "39",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-        {
-          "slug": "39",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-        {
-          "slug": "39",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-        {
-          "slug": "39",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-        {
-          "slug": "39",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-        {
-          "slug": "39",
-          "name": "Create a business plan",
-          "status": "start"
-        },
-
-
-
-
-
-
         {
           "slug": "100",
           "name": "Revitalizing the Publishing Industry for Ghostwriters",
