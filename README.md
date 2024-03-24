@@ -1,6 +1,4 @@
 
-# Lancer Briefings
-
 **[Live Demo](https://thriving-frangipane-f3ca5c.netlify.app/)**
 
 
