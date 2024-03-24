@@ -1,5 +1,5 @@
 
-**[Live Demo]([https://ghostwriters.workmates.live](https://ghostwriters.netlify.app))**
+See it LIVE:  https://ghostwriters.netlify.app
 
 
 ## Credits
